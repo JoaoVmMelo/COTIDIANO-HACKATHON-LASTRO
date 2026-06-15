@@ -1,0 +1,935 @@
+[
+  {
+    "id": "bus_0261",
+    "nome": "Ponto Alameda Harmonia",
+    "bairro": "Vila Madalena",
+    "lat": -23.559604,
+    "lng": -46.698499,
+    "linhas": [
+      {
+        "numero": "516-10",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "478C",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "270P",
+        "destino": "Term. Lapa",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0262",
+    "nome": "Ponto Rua Joaquim",
+    "bairro": "Vila Madalena",
+    "lat": -23.551357,
+    "lng": -46.693441,
+    "linhas": [
+      {
+        "numero": "360A",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "564A",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "547P",
+        "destino": "Term. Lapa",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "689",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0263",
+    "nome": "Ponto Travessa Fradique",
+    "bairro": "Vila Madalena",
+    "lat": -23.548321,
+    "lng": -46.694931,
+    "linhas": [
+      {
+        "numero": "827P",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "779P",
+        "destino": "Metrô Santana",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0264",
+    "nome": "Ponto Rua Cardeal",
+    "bairro": "Vila Madalena",
+    "lat": -23.55157,
+    "lng": -46.681912,
+    "linhas": [
+      {
+        "numero": "198A",
+        "destino": "Metrô Santana",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "309",
+        "destino": "USP",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0265",
+    "nome": "Ponto Alameda Cardeal",
+    "bairro": "Vila Madalena",
+    "lat": -23.560528,
+    "lng": -46.701204,
+    "linhas": [
+      {
+        "numero": "534A",
+        "destino": "USP",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "656-10",
+        "destino": "USP",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0266",
+    "nome": "Ponto Rua Teodoro",
+    "bairro": "Vila Madalena",
+    "lat": -23.543869,
+    "lng": -46.688291,
+    "linhas": [
+      {
+        "numero": "596-10",
+        "destino": "USP",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "509C",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 12
+      }
+    ]
+  },
+  {
+    "id": "bus_0267",
+    "nome": "Ponto Alameda Girassol",
+    "bairro": "Pinheiros",
+    "lat": -23.560367,
+    "lng": -46.709919,
+    "linhas": [
+      {
+        "numero": "868-10",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "154-10",
+        "destino": "Praça da Sé",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0268",
+    "nome": "Ponto Travessa Mourato",
+    "bairro": "Pinheiros",
+    "lat": -23.558905,
+    "lng": -46.703558,
+    "linhas": [
+      {
+        "numero": "493-10",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "493A",
+        "destino": "Term. Lapa",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0269",
+    "nome": "Ponto Travessa Augusta",
+    "bairro": "Pinheiros",
+    "lat": -23.567811,
+    "lng": -46.691591,
+    "linhas": [
+      {
+        "numero": "583C",
+        "destino": "USP",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "100",
+        "destino": "USP",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "608A",
+        "destino": "USP",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0270",
+    "nome": "Ponto Av. Mourato",
+    "bairro": "Pinheiros",
+    "lat": -23.575563,
+    "lng": -46.699431,
+    "linhas": [
+      {
+        "numero": "480",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "617C",
+        "destino": "USP",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0271",
+    "nome": "Ponto Travessa Girassol",
+    "bairro": "Pinheiros",
+    "lat": -23.573189,
+    "lng": -46.701057,
+    "linhas": [
+      {
+        "numero": "892C",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "809-10",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "123-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "288A",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0272",
+    "nome": "Ponto Alameda Inácio Pereira",
+    "bairro": "Pinheiros",
+    "lat": -23.575016,
+    "lng": -46.706496,
+    "linhas": [
+      {
+        "numero": "641A",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "560A",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "103-10",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "259-10",
+        "destino": "Term. Lapa",
+        "frequencia_min": 12
+      }
+    ]
+  },
+  {
+    "id": "bus_0273",
+    "nome": "Ponto Alameda Aspicuelta",
+    "bairro": "Pinheiros",
+    "lat": -23.564126,
+    "lng": -46.689514,
+    "linhas": [
+      {
+        "numero": "516",
+        "destino": "Metrô Santana",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0274",
+    "nome": "Ponto Travessa Girassol",
+    "bairro": "Moema",
+    "lat": -23.589321,
+    "lng": -46.661883,
+    "linhas": [
+      {
+        "numero": "309-10",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0275",
+    "nome": "Ponto Av. Harmonia",
+    "bairro": "Moema",
+    "lat": -23.60169,
+    "lng": -46.668479,
+    "linhas": [
+      {
+        "numero": "789-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0276",
+    "nome": "Ponto Rua Fidalga",
+    "bairro": "Moema",
+    "lat": -23.611348,
+    "lng": -46.673794,
+    "linhas": [
+      {
+        "numero": "714",
+        "destino": "Praça da Sé",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "336P",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "102C",
+        "destino": "USP",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "190-10",
+        "destino": "Praça da Sé",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0277",
+    "nome": "Ponto Alameda Teodoro",
+    "bairro": "Moema",
+    "lat": -23.59776,
+    "lng": -46.659127,
+    "linhas": [
+      {
+        "numero": "153-10",
+        "destino": "Praça da Sé",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "306C",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "317P",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 10
+      },
+      {
+        "numero": "223P",
+        "destino": "Term. Lapa",
+        "frequencia_min": 10
+      }
+    ]
+  },
+  {
+    "id": "bus_0278",
+    "nome": "Ponto Av. Harmonia",
+    "bairro": "Moema",
+    "lat": -23.61206,
+    "lng": -46.671589,
+    "linhas": [
+      {
+        "numero": "167-10",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "323C",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "865",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0279",
+    "nome": "Ponto Alameda Wisard",
+    "bairro": "Moema",
+    "lat": -23.597167,
+    "lng": -46.660391,
+    "linhas": [
+      {
+        "numero": "765A",
+        "destino": "Praça da Sé",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "842-10",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 10
+      }
+    ]
+  },
+  {
+    "id": "bus_0280",
+    "nome": "Ponto Alameda Augusta",
+    "bairro": "Moema",
+    "lat": -23.606866,
+    "lng": -46.658539,
+    "linhas": [
+      {
+        "numero": "821A",
+        "destino": "USP",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "652-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0281",
+    "nome": "Ponto Av. Augusta",
+    "bairro": "Vila Mariana",
+    "lat": -23.592651,
+    "lng": -46.641446,
+    "linhas": [
+      {
+        "numero": "793P",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "304A",
+        "destino": "Term. Lapa",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "112",
+        "destino": "USP",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "668-10",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0282",
+    "nome": "Ponto Alameda Inácio Pereira",
+    "bairro": "Vila Mariana",
+    "lat": -23.594833,
+    "lng": -46.641363,
+    "linhas": [
+      {
+        "numero": "281C",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "360-10",
+        "destino": "Term. Lapa",
+        "frequencia_min": 10
+      },
+      {
+        "numero": "117A",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 12
+      }
+    ]
+  },
+  {
+    "id": "bus_0283",
+    "nome": "Ponto Alameda Cunha Gago",
+    "bairro": "Vila Mariana",
+    "lat": -23.587944,
+    "lng": -46.640793,
+    "linhas": [
+      {
+        "numero": "120",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "357-10",
+        "destino": "USP",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0284",
+    "nome": "Ponto Travessa Teodoro",
+    "bairro": "Vila Mariana",
+    "lat": -23.598508,
+    "lng": -46.630718,
+    "linhas": [
+      {
+        "numero": "261A",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "528P",
+        "destino": "Metrô Santana",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "547",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 12
+      }
+    ]
+  },
+  {
+    "id": "bus_0285",
+    "nome": "Ponto Travessa Girassol",
+    "bairro": "Vila Mariana",
+    "lat": -23.59945,
+    "lng": -46.644965,
+    "linhas": [
+      {
+        "numero": "500A",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "352",
+        "destino": "Metrô Santana",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "728-10",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "643P",
+        "destino": "Praça da Sé",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0286",
+    "nome": "Ponto Rua Cunha Gago",
+    "bairro": "Vila Mariana",
+    "lat": -23.599188,
+    "lng": -46.642636,
+    "linhas": [
+      {
+        "numero": "152A",
+        "destino": "Praça da Sé",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0287",
+    "nome": "Ponto Rua Fradique",
+    "bairro": "Tatuapé",
+    "lat": -23.538638,
+    "lng": -46.581962,
+    "linhas": [
+      {
+        "numero": "154A",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "240A",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "815A",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0288",
+    "nome": "Ponto Alameda Cardeal",
+    "bairro": "Tatuapé",
+    "lat": -23.534775,
+    "lng": -46.573557,
+    "linhas": [
+      {
+        "numero": "514-10",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 12
+      }
+    ]
+  },
+  {
+    "id": "bus_0289",
+    "nome": "Ponto Travessa Cardeal",
+    "bairro": "Tatuapé",
+    "lat": -23.537539,
+    "lng": -46.568727,
+    "linhas": [
+      {
+        "numero": "334C",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "451-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "194C",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "762C",
+        "destino": "Term. Lapa",
+        "frequencia_min": 15
+      }
+    ]
+  },
+  {
+    "id": "bus_0290",
+    "nome": "Ponto Rua Fradique",
+    "bairro": "Tatuapé",
+    "lat": -23.540414,
+    "lng": -46.567191,
+    "linhas": [
+      {
+        "numero": "512C",
+        "destino": "Term. Lapa",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "419",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "849P",
+        "destino": "USP",
+        "frequencia_min": 30
+      }
+    ]
+  },
+  {
+    "id": "bus_0291",
+    "nome": "Ponto Rua Aspicuelta",
+    "bairro": "Santana",
+    "lat": -23.49761,
+    "lng": -46.632556,
+    "linhas": [
+      {
+        "numero": "640",
+        "destino": "Metrô Santana",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "670-10",
+        "destino": "USP",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "537C",
+        "destino": "Metrô Santana",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0292",
+    "nome": "Ponto Rua Mourato",
+    "bairro": "Santana",
+    "lat": -23.501302,
+    "lng": -46.612921,
+    "linhas": [
+      {
+        "numero": "864-10",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "589C",
+        "destino": "Praça da Sé",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "428P",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 15
+      }
+    ]
+  },
+  {
+    "id": "bus_0293",
+    "nome": "Ponto Travessa Teodoro",
+    "bairro": "Santana",
+    "lat": -23.509775,
+    "lng": -46.625523,
+    "linhas": [
+      {
+        "numero": "161P",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "873",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "595-10",
+        "destino": "Praça da Sé",
+        "frequencia_min": 10
+      }
+    ]
+  },
+  {
+    "id": "bus_0294",
+    "nome": "Ponto Av. Cardeal",
+    "bairro": "Santana",
+    "lat": -23.500465,
+    "lng": -46.630179,
+    "linhas": [
+      {
+        "numero": "234P",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "804P",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0295",
+    "nome": "Ponto Rua Fidalga",
+    "bairro": "Santana",
+    "lat": -23.51143,
+    "lng": -46.624896,
+    "linhas": [
+      {
+        "numero": "309C",
+        "destino": "USP",
+        "frequencia_min": 20
+      },
+      {
+        "numero": "875-10",
+        "destino": "Term. Lapa",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "116",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 30
+      },
+      {
+        "numero": "632P",
+        "destino": "Metrô Santana",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0296",
+    "nome": "Ponto Alameda Augusta",
+    "bairro": "Butantã",
+    "lat": -23.574224,
+    "lng": -46.712342,
+    "linhas": [
+      {
+        "numero": "479A",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "891C",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 20
+      }
+    ]
+  },
+  {
+    "id": "bus_0297",
+    "nome": "Ponto Rua Cunha Gago",
+    "bairro": "Butantã",
+    "lat": -23.565777,
+    "lng": -46.709764,
+    "linhas": [
+      {
+        "numero": "203-10",
+        "destino": "Term. Princesa Isabel",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "843-10",
+        "destino": "Praça da Sé",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "456C",
+        "destino": "Term. Lapa",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0298",
+    "nome": "Ponto Travessa Fradique",
+    "bairro": "Butantã",
+    "lat": -23.575152,
+    "lng": -46.711554,
+    "linhas": [
+      {
+        "numero": "447",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "513-10",
+        "destino": "Term. Bandeira",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "588-10",
+        "destino": "Metrô Vila Madalena",
+        "frequencia_min": 8
+      }
+    ]
+  },
+  {
+    "id": "bus_0299",
+    "nome": "Ponto Av. Aspicuelta",
+    "bairro": "Butantã",
+    "lat": -23.56418,
+    "lng": -46.709847,
+    "linhas": [
+      {
+        "numero": "243A",
+        "destino": "Aeroporto Congonhas",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "262C",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 15
+      },
+      {
+        "numero": "277A",
+        "destino": "Praça da Sé",
+        "frequencia_min": 10
+      }
+    ]
+  },
+  {
+    "id": "bus_0300",
+    "nome": "Ponto Alameda Joaquim",
+    "bairro": "Butantã",
+    "lat": -23.55941,
+    "lng": -46.705826,
+    "linhas": [
+      {
+        "numero": "575A",
+        "destino": "Praça da Sé",
+        "frequencia_min": 25
+      },
+      {
+        "numero": "462P",
+        "destino": "Metrô Faria Lima",
+        "frequencia_min": 10
+      },
+      {
+        "numero": "758A",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0301",
+    "nome": "Ponto Av. Cunha Gago",
+    "bairro": "Butantã",
+    "lat": -23.568856,
+    "lng": -46.707606,
+    "linhas": [
+      {
+        "numero": "321",
+        "destino": "Term. Pinheiros",
+        "frequencia_min": 8
+      },
+      {
+        "numero": "271-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 12
+      },
+      {
+        "numero": "484-10",
+        "destino": "Metrô Santana",
+        "frequencia_min": 25
+      }
+    ]
+  },
+  {
+    "id": "bus_0302",
+    "nome": "Ponto Av. Inácio Pereira",
+    "bairro": "Butantã",
+    "lat": -23.578953,
+    "lng": -46.702319,
+    "linhas": [
+      {
+        "numero": "573-10",
+        "destino": "Term. Lapa",
+        "frequencia_min": 30
+      }
+    ]
+  }
+]

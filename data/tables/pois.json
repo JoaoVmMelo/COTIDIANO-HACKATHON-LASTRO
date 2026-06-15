@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "poi_0001",
+    "nome": "Hortifruti Express",
+    "categoria": "mercado",
+    "bairro": "Vila Madalena",
+    "lat": -23.542965,
+    "lng": -46.680991,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0002",
+    "nome": "Mercado do Bairro",
+    "categoria": "mercado",
+    "bairro": "Vila Madalena",
+    "lat": -23.557181,
+    "lng": -46.692407,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0003",
+    "nome": "Supermercado do Bairro",
+    "categoria": "mercado",
+    "bairro": "Vila Madalena",
+    "lat": -23.558799,
+    "lng": -46.691644,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0004",
+    "nome": "Supermercado",
+    "categoria": "mercado",
+    "bairro": "Vila Madalena",
+    "lat": -23.556965,
+    "lng": -46.680867,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0005",
+    "nome": "Padaria",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.544371,
+    "lng": -46.678186,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0006",
+    "nome": "Casa de Pães do Bairro",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.546347,
+    "lng": -46.692764,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0007",
+    "nome": "Casa de Pães do Bairro",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.544551,
+    "lng": -46.683426,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0008",
+    "nome": "Padaria Express",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.546047,
+    "lng": -46.684717,
+    "opening_hours": "06:00-20:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0009",
+    "nome": "Padaria Aspicuelta",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.559672,
+    "lng": -46.684526,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0010",
+    "nome": "Padaria Central",
+    "categoria": "padaria",
+    "bairro": "Vila Madalena",
+    "lat": -23.559736,
+    "lng": -46.679111,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0011",
+    "nome": "Drogaria Girassol",
+    "categoria": "farmacia",
+    "bairro": "Vila Madalena",
+    "lat": -23.546247,
+    "lng": -46.683235,
+    "opening_hours": "24h",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0012",
+    "nome": "Drogaria",
+    "categoria": "farmacia",
+    "bairro": "Vila Madalena",
+    "lat": -23.563199,
+    "lng": -46.678067,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0013",
+    "nome": "Farmácia Harmonia",
+    "categoria": "farmacia",
+    "bairro": "Vila Madalena",
+    "lat": -23.543582,
+    "lng": -46.680968,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0014",
+    "nome": "Drogaria Harmonia",
+    "categoria": "farmacia",
+    "bairro": "Vila Madalena",
+    "lat": -23.562346,
+    "lng": -46.678933,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0015",
+    "nome": "Farmácia da Esquina",
+    "categoria": "farmacia",
+    "bairro": "Vila Madalena",
+    "lat": -23.565769,
+    "lng": -46.682146,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0016",
+    "nome": "Coffee Express",
+    "categoria": "cafe",
+    "bairro": "Vila Madalena",
+    "lat": -23.542682,
+    "lng": -46.697289,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0017",
+    "nome": "Cafeteria do Bairro",
+    "categoria": "cafe",
+    "bairro": "Vila Madalena",
+    "lat": -23.557688,
+    "lng": -46.676848,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0018",
+    "nome": "Café do Bairro",
+    "categoria": "cafe",
+    "bairro": "Vila Madalena",
+    "lat": -23.558881,
+    "lng": -46.691271,
+    "opening_hours": "07:00-19:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0019",
+    "nome": "Cafeteria",
+    "categoria": "cafe",
+    "bairro": "Vila Madalena",
+    "lat": -23.558993,
+    "lng": -46.682322,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0020",
+    "nome": "Studio Fit Express",
+    "categoria": "academia",
+    "bairro": "Vila Madalena",
+    "lat": -23.544291,
+    "lng": -46.689999,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0021",
+    "nome": "CrossBox Express",
+    "categoria": "academia",
+    "bairro": "Vila Madalena",
+    "lat": -23.560034,
+    "lng": -46.696431,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0022",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Vila Madalena",
+    "lat": -23.563381,
+    "lng": -46.679285,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0023",
+    "nome": "Parque do Bairro",
+    "categoria": "parque",
+    "bairro": "Vila Madalena",
+    "lat": -23.545399,
+    "lng": -46.679224,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0024",
+    "nome": "Bistrô Central",
+    "categoria": "restaurante",
+    "bairro": "Vila Madalena",
+    "lat": -23.55073,
+    "lng": -46.697332,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0025",
+    "nome": "Bistrô Express",
+    "categoria": "restaurante",
+    "bairro": "Vila Madalena",
+    "lat": -23.557724,
+    "lng": -46.684056,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0026",
+    "nome": "Pronto-Socorro do Bairro",
+    "categoria": "hospital",
+    "bairro": "Vila Madalena",
+    "lat": -23.549154,
+    "lng": -46.688114,
+    "opening_hours": "24h",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0027",
+    "nome": "Banco da Esquina",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.556034,
+    "lng": -46.679372,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0028",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.550998,
+    "lng": -46.698511,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0029",
+    "nome": "Agência Central",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.555578,
+    "lng": -46.682125,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0030",
+    "nome": "Agência Belmiro",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.563998,
+    "lng": -46.698468,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0031",
+    "nome": "Agência Central",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.547546,
+    "lng": -46.691143,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0032",
+    "nome": "Banco Cunha Gago",
+    "categoria": "banco",
+    "bairro": "Vila Madalena",
+    "lat": -23.555896,
+    "lng": -46.681406,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0033",
+    "nome": "Pet Shop Express",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.556234,
+    "lng": -46.702518,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0034",
+    "nome": "Clínica Vet Cardeal",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.563058,
+    "lng": -46.680321,
+    "opening_hours": "08:00-20:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0035",
+    "nome": "Pet Shop Teodoro",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.556541,
+    "lng": -46.679162,
+    "opening_hours": "08:00-20:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0036",
+    "nome": "Pet Shop",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.558364,
+    "lng": -46.697793,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0037",
+    "nome": "Pet Shop",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.557415,
+    "lng": -46.700808,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0038",
+    "nome": "Pet Shop Express",
+    "categoria": "petshop",
+    "bairro": "Vila Madalena",
+    "lat": -23.553859,
+    "lng": -46.701554,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0039",
+    "nome": "Mercado do Bairro",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.555825,
+    "lng": -46.706112,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0040",
+    "nome": "Supermercado Express",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.568914,
+    "lng": -46.69704,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0041",
+    "nome": "Empório Cunha Gago",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.560633,
+    "lng": -46.711137,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0042",
+    "nome": "Mercado Express",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.566464,
+    "lng": -46.705851,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0043",
+    "nome": "Supermercado Joaquim",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.56413,
+    "lng": -46.709599,
+    "opening_hours": "08:00-22:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0044",
+    "nome": "Supermercado do Bairro",
+    "categoria": "mercado",
+    "bairro": "Pinheiros",
+    "lat": -23.573121,
+    "lng": -46.707137,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0045",
+    "nome": "Padaria Girassol",
+    "categoria": "padaria",
+    "bairro": "Pinheiros",
+    "lat": -23.576539,
+    "lng": -46.694704,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0046",
+    "nome": "Panificadora Fidalga",
+    "categoria": "padaria",
+    "bairro": "Pinheiros",
+    "lat": -23.55464,
+    "lng": -46.69602,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0047",
+    "nome": "Padaria Central",
+    "categoria": "padaria",
+    "bairro": "Pinheiros",
+    "lat": -23.575921,
+    "lng": -46.695333,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0048",
+    "nome": "Drogaria da Esquina",
+    "categoria": "farmacia",
+    "bairro": "Pinheiros",
+    "lat": -23.555013,
+    "lng": -46.699469,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0049",
+    "nome": "Farmácia da Esquina",
+    "categoria": "farmacia",
+    "bairro": "Pinheiros",
+    "lat": -23.575072,
+    "lng": -46.701395,
+    "opening_hours": "24h",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0050",
+    "nome": "Drogaria Central",
+    "categoria": "farmacia",
+    "bairro": "Pinheiros",
+    "lat": -23.571099,
+    "lng": -46.71256,
+    "opening_hours": "24h",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0051",
+    "nome": "Coffee Express",
+    "categoria": "cafe",
+    "bairro": "Pinheiros",
+    "lat": -23.55232,
+    "lng": -46.698621,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0052",
+    "nome": "Café do Bairro",
+    "categoria": "cafe",
+    "bairro": "Pinheiros",
+    "lat": -23.554544,
+    "lng": -46.690362,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0053",
+    "nome": "Café Central",
+    "categoria": "cafe",
+    "bairro": "Pinheiros",
+    "lat": -23.572782,
+    "lng": -46.700475,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0054",
+    "nome": "Coffee Central",
+    "categoria": "cafe",
+    "bairro": "Pinheiros",
+    "lat": -23.556257,
+    "lng": -46.692327,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0055",
+    "nome": "Academia Express",
+    "categoria": "academia",
+    "bairro": "Pinheiros",
+    "lat": -23.559169,
+    "lng": -46.688655,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0056",
+    "nome": "CrossBox da Esquina",
+    "categoria": "academia",
+    "bairro": "Pinheiros",
+    "lat": -23.574967,
+    "lng": -46.69724,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0057",
+    "nome": "Praça da Esquina",
+    "categoria": "parque",
+    "bairro": "Pinheiros",
+    "lat": -23.563042,
+    "lng": -46.691369,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0058",
+    "nome": "Praça da Esquina",
+    "categoria": "parque",
+    "bairro": "Pinheiros",
+    "lat": -23.558258,
+    "lng": -46.712972,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0059",
+    "nome": "Parque da Esquina",
+    "categoria": "parque",
+    "bairro": "Pinheiros",
+    "lat": -23.558749,
+    "lng": -46.689801,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0060",
+    "nome": "Restaurante",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.562683,
+    "lng": -46.703354,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0061",
+    "nome": "Cantina Express",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.560267,
+    "lng": -46.692856,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0062",
+    "nome": "Restaurante da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.56553,
+    "lng": -46.714746,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0063",
+    "nome": "Bistrô da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.570048,
+    "lng": -46.707712,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0064",
+    "nome": "Bistrô do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.552511,
+    "lng": -46.701652,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0065",
+    "nome": "Cantina do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Pinheiros",
+    "lat": -23.564204,
+    "lng": -46.69726,
+    "opening_hours": "11:00-23:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0066",
+    "nome": "UPA Express",
+    "categoria": "hospital",
+    "bairro": "Pinheiros",
+    "lat": -23.553819,
+    "lng": -46.703062,
+    "opening_hours": "24h",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0067",
+    "nome": "Agência Original",
+    "categoria": "banco",
+    "bairro": "Pinheiros",
+    "lat": -23.575741,
+    "lng": -46.713177,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0068",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Pinheiros",
+    "lat": -23.565808,
+    "lng": -46.696892,
+    "opening_hours": "10:00-16:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0069",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Pinheiros",
+    "lat": -23.552415,
+    "lng": -46.698732,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0070",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Pinheiros",
+    "lat": -23.557105,
+    "lng": -46.714666,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0071",
+    "nome": "Agência da Esquina",
+    "categoria": "banco",
+    "bairro": "Pinheiros",
+    "lat": -23.561014,
+    "lng": -46.691019,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0072",
+    "nome": "Pet Shop Central",
+    "categoria": "petshop",
+    "bairro": "Pinheiros",
+    "lat": -23.576565,
+    "lng": -46.714402,
+    "opening_hours": "08:00-20:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0073",
+    "nome": "Pet Shop",
+    "categoria": "petshop",
+    "bairro": "Pinheiros",
+    "lat": -23.57169,
+    "lng": -46.706575,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0074",
+    "nome": "Hortifruti da Esquina",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.596408,
+    "lng": -46.67249,
+    "opening_hours": "08:00-22:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0075",
+    "nome": "Hortifruti Express",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.590601,
+    "lng": -46.677618,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0076",
+    "nome": "Empório Fradique",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.611186,
+    "lng": -46.664217,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0077",
+    "nome": "Empório Harmonia",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.594361,
+    "lng": -46.651663,
+    "opening_hours": "08:00-22:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0078",
+    "nome": "Mercado Fradique",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.592536,
+    "lng": -46.668042,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0079",
+    "nome": "Mercado",
+    "categoria": "mercado",
+    "bairro": "Moema",
+    "lat": -23.600456,
+    "lng": -46.653015,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0080",
+    "nome": "Padaria Central",
+    "categoria": "padaria",
+    "bairro": "Moema",
+    "lat": -23.592646,
+    "lng": -46.658017,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0081",
+    "nome": "Padaria Augusta",
+    "categoria": "padaria",
+    "bairro": "Moema",
+    "lat": -23.596153,
+    "lng": -46.666739,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0082",
+    "nome": "Padaria da Esquina",
+    "categoria": "padaria",
+    "bairro": "Moema",
+    "lat": -23.607672,
+    "lng": -46.666077,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0083",
+    "nome": "Padaria",
+    "categoria": "padaria",
+    "bairro": "Moema",
+    "lat": -23.601686,
+    "lng": -46.671692,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0084",
+    "nome": "Panificadora Central",
+    "categoria": "padaria",
+    "bairro": "Moema",
+    "lat": -23.605629,
+    "lng": -46.675215,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0085",
+    "nome": "Drogaria da Esquina",
+    "categoria": "farmacia",
+    "bairro": "Moema",
+    "lat": -23.598605,
+    "lng": -46.673158,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0086",
+    "nome": "Farmácia Central",
+    "categoria": "farmacia",
+    "bairro": "Moema",
+    "lat": -23.606626,
+    "lng": -46.673201,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0087",
+    "nome": "Cafeteria do Bairro",
+    "categoria": "cafe",
+    "bairro": "Moema",
+    "lat": -23.591931,
+    "lng": -46.663435,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0088",
+    "nome": "Cafeteria Central",
+    "categoria": "cafe",
+    "bairro": "Moema",
+    "lat": -23.604257,
+    "lng": -46.651256,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0089",
+    "nome": "CrossBox Central",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.595114,
+    "lng": -46.671541,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0090",
+    "nome": "Academia da Esquina",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.603711,
+    "lng": -46.657304,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0091",
+    "nome": "Academia Fradique",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.601246,
+    "lng": -46.663745,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0092",
+    "nome": "CrossBox",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.594545,
+    "lng": -46.671021,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0093",
+    "nome": "Academia",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.608946,
+    "lng": -46.664632,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0094",
+    "nome": "CrossBox Central",
+    "categoria": "academia",
+    "bairro": "Moema",
+    "lat": -23.604843,
+    "lng": -46.677364,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0095",
+    "nome": "Parque da Esquina",
+    "categoria": "parque",
+    "bairro": "Moema",
+    "lat": -23.60047,
+    "lng": -46.672483,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0096",
+    "nome": "Parque da Esquina",
+    "categoria": "parque",
+    "bairro": "Moema",
+    "lat": -23.588474,
+    "lng": -46.672156,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0097",
+    "nome": "Praça Central",
+    "categoria": "parque",
+    "bairro": "Moema",
+    "lat": -23.592207,
+    "lng": -46.654919,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0098",
+    "nome": "Bistrô Express",
+    "categoria": "restaurante",
+    "bairro": "Moema",
+    "lat": -23.607963,
+    "lng": -46.651465,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0099",
+    "nome": "Bistrô Express",
+    "categoria": "restaurante",
+    "bairro": "Moema",
+    "lat": -23.608638,
+    "lng": -46.668823,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0100",
+    "nome": "Bistrô do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Moema",
+    "lat": -23.610073,
+    "lng": -46.655238,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0101",
+    "nome": "Bistrô",
+    "categoria": "restaurante",
+    "bairro": "Moema",
+    "lat": -23.599839,
+    "lng": -46.658792,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0102",
+    "nome": "Pronto-Socorro Central",
+    "categoria": "hospital",
+    "bairro": "Moema",
+    "lat": -23.612258,
+    "lng": -46.65933,
+    "opening_hours": "24h",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0103",
+    "nome": "Agência Girassol",
+    "categoria": "banco",
+    "bairro": "Moema",
+    "lat": -23.594763,
+    "lng": -46.678362,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0104",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Moema",
+    "lat": -23.591583,
+    "lng": -46.669769,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0105",
+    "nome": "Banco do Bairro",
+    "categoria": "banco",
+    "bairro": "Moema",
+    "lat": -23.605152,
+    "lng": -46.659457,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0106",
+    "nome": "Banco",
+    "categoria": "banco",
+    "bairro": "Moema",
+    "lat": -23.608809,
+    "lng": -46.659231,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0107",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Moema",
+    "lat": -23.603849,
+    "lng": -46.653858,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0108",
+    "nome": "Clínica Vet",
+    "categoria": "petshop",
+    "bairro": "Moema",
+    "lat": -23.608342,
+    "lng": -46.673779,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0109",
+    "nome": "Pet Shop Cunha Gago",
+    "categoria": "petshop",
+    "bairro": "Moema",
+    "lat": -23.59689,
+    "lng": -46.653998,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0110",
+    "nome": "Pet Shop Express",
+    "categoria": "petshop",
+    "bairro": "Moema",
+    "lat": -23.605622,
+    "lng": -46.668473,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0111",
+    "nome": "Clínica Vet",
+    "categoria": "petshop",
+    "bairro": "Moema",
+    "lat": -23.593857,
+    "lng": -46.657574,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0112",
+    "nome": "Mercado Central",
+    "categoria": "mercado",
+    "bairro": "Vila Mariana",
+    "lat": -23.580188,
+    "lng": -46.642083,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0113",
+    "nome": "Supermercado Augusta",
+    "categoria": "mercado",
+    "bairro": "Vila Mariana",
+    "lat": -23.588492,
+    "lng": -46.642207,
+    "opening_hours": "08:00-22:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0114",
+    "nome": "Panificadora Central",
+    "categoria": "padaria",
+    "bairro": "Vila Mariana",
+    "lat": -23.586536,
+    "lng": -46.630078,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0115",
+    "nome": "Padaria Cunha Gago",
+    "categoria": "padaria",
+    "bairro": "Vila Mariana",
+    "lat": -23.586615,
+    "lng": -46.645496,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0116",
+    "nome": "Padaria da Esquina",
+    "categoria": "padaria",
+    "bairro": "Vila Mariana",
+    "lat": -23.589216,
+    "lng": -46.627525,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0117",
+    "nome": "Farmácia Express",
+    "categoria": "farmacia",
+    "bairro": "Vila Mariana",
+    "lat": -23.589964,
+    "lng": -46.643924,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0118",
+    "nome": "Farmácia Joaquim",
+    "categoria": "farmacia",
+    "bairro": "Vila Mariana",
+    "lat": -23.58867,
+    "lng": -46.630271,
+    "opening_hours": "24h",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0119",
+    "nome": "Drogaria Central",
+    "categoria": "farmacia",
+    "bairro": "Vila Mariana",
+    "lat": -23.582195,
+    "lng": -46.628028,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0120",
+    "nome": "Café",
+    "categoria": "cafe",
+    "bairro": "Vila Mariana",
+    "lat": -23.587283,
+    "lng": -46.628476,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0121",
+    "nome": "Café Express",
+    "categoria": "cafe",
+    "bairro": "Vila Mariana",
+    "lat": -23.591768,
+    "lng": -46.633966,
+    "opening_hours": "07:00-19:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0122",
+    "nome": "Cafeteria",
+    "categoria": "cafe",
+    "bairro": "Vila Mariana",
+    "lat": -23.591393,
+    "lng": -46.644646,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0123",
+    "nome": "Cafeteria da Esquina",
+    "categoria": "cafe",
+    "bairro": "Vila Mariana",
+    "lat": -23.580097,
+    "lng": -46.624862,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0124",
+    "nome": "Café",
+    "categoria": "cafe",
+    "bairro": "Vila Mariana",
+    "lat": -23.581124,
+    "lng": -46.637598,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0125",
+    "nome": "CrossBox da Esquina",
+    "categoria": "academia",
+    "bairro": "Vila Mariana",
+    "lat": -23.576745,
+    "lng": -46.632948,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0126",
+    "nome": "Academia Express",
+    "categoria": "academia",
+    "bairro": "Vila Mariana",
+    "lat": -23.581041,
+    "lng": -46.62203,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0127",
+    "nome": "Praça da Esquina",
+    "categoria": "parque",
+    "bairro": "Vila Mariana",
+    "lat": -23.58815,
+    "lng": -46.645931,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0128",
+    "nome": "Restaurante da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Vila Mariana",
+    "lat": -23.578082,
+    "lng": -46.639658,
+    "opening_hours": "11:00-23:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0129",
+    "nome": "Restaurante do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Vila Mariana",
+    "lat": -23.589815,
+    "lng": -46.627447,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0130",
+    "nome": "Restaurante Fradique",
+    "categoria": "restaurante",
+    "bairro": "Vila Mariana",
+    "lat": -23.589402,
+    "lng": -46.621393,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0131",
+    "nome": "UPA Central",
+    "categoria": "hospital",
+    "bairro": "Vila Mariana",
+    "lat": -23.577728,
+    "lng": -46.644645,
+    "opening_hours": "24h",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0132",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.577009,
+    "lng": -46.631544,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0133",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.597181,
+    "lng": -46.643802,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0134",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.590946,
+    "lng": -46.640209,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0135",
+    "nome": "Agência",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.590051,
+    "lng": -46.626941,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0136",
+    "nome": "Agência",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.589632,
+    "lng": -46.638261,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0137",
+    "nome": "Agência",
+    "categoria": "banco",
+    "bairro": "Vila Mariana",
+    "lat": -23.596763,
+    "lng": -46.629391,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0138",
+    "nome": "Pet Shop",
+    "categoria": "petshop",
+    "bairro": "Vila Mariana",
+    "lat": -23.58421,
+    "lng": -46.626188,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0139",
+    "nome": "Clínica Vet Central",
+    "categoria": "petshop",
+    "bairro": "Vila Mariana",
+    "lat": -23.597439,
+    "lng": -46.62638,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0140",
+    "nome": "Clínica Vet",
+    "categoria": "petshop",
+    "bairro": "Vila Mariana",
+    "lat": -23.588833,
+    "lng": -46.647096,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0141",
+    "nome": "Pet Shop Central",
+    "categoria": "petshop",
+    "bairro": "Vila Mariana",
+    "lat": -23.597861,
+    "lng": -46.644298,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0142",
+    "nome": "Clínica Vet Wisard",
+    "categoria": "petshop",
+    "bairro": "Vila Mariana",
+    "lat": -23.598332,
+    "lng": -46.622617,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0143",
+    "nome": "Mercado Joaquim",
+    "categoria": "mercado",
+    "bairro": "Tatuapé",
+    "lat": -23.552609,
+    "lng": -46.577558,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0144",
+    "nome": "Supermercado da Esquina",
+    "categoria": "mercado",
+    "bairro": "Tatuapé",
+    "lat": -23.547539,
+    "lng": -46.58666,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0145",
+    "nome": "Supermercado Express",
+    "categoria": "mercado",
+    "bairro": "Tatuapé",
+    "lat": -23.537061,
+    "lng": -46.562415,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0146",
+    "nome": "Empório Central",
+    "categoria": "mercado",
+    "bairro": "Tatuapé",
+    "lat": -23.529684,
+    "lng": -46.58847,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0147",
+    "nome": "Padaria Express",
+    "categoria": "padaria",
+    "bairro": "Tatuapé",
+    "lat": -23.528001,
+    "lng": -46.566377,
+    "opening_hours": "06:00-20:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0148",
+    "nome": "Padaria da Esquina",
+    "categoria": "padaria",
+    "bairro": "Tatuapé",
+    "lat": -23.528833,
+    "lng": -46.576054,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0149",
+    "nome": "Drogaria da Esquina",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.540063,
+    "lng": -46.562247,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0150",
+    "nome": "Farmácia Fidalga",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.540558,
+    "lng": -46.587657,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0151",
+    "nome": "Farmácia do Bairro",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.538711,
+    "lng": -46.566902,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0152",
+    "nome": "Farmácia Central",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.544693,
+    "lng": -46.576082,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0153",
+    "nome": "Drogaria do Bairro",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.548592,
+    "lng": -46.570338,
+    "opening_hours": "24h",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0154",
+    "nome": "Drogaria Central",
+    "categoria": "farmacia",
+    "bairro": "Tatuapé",
+    "lat": -23.545802,
+    "lng": -46.589071,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0155",
+    "nome": "Café do Bairro",
+    "categoria": "cafe",
+    "bairro": "Tatuapé",
+    "lat": -23.541625,
+    "lng": -46.586535,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0156",
+    "nome": "Cafeteria do Bairro",
+    "categoria": "cafe",
+    "bairro": "Tatuapé",
+    "lat": -23.535158,
+    "lng": -46.564137,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0157",
+    "nome": "Café do Bairro",
+    "categoria": "cafe",
+    "bairro": "Tatuapé",
+    "lat": -23.528666,
+    "lng": -46.580504,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0158",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Tatuapé",
+    "lat": -23.530496,
+    "lng": -46.575907,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0159",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Tatuapé",
+    "lat": -23.552552,
+    "lng": -46.589253,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0160",
+    "nome": "Parque do Bairro",
+    "categoria": "parque",
+    "bairro": "Tatuapé",
+    "lat": -23.536672,
+    "lng": -46.586375,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0161",
+    "nome": "Praça da Esquina",
+    "categoria": "parque",
+    "bairro": "Tatuapé",
+    "lat": -23.547308,
+    "lng": -46.578391,
+    "opening_hours": "05:00-22:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0162",
+    "nome": "Restaurante da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.535418,
+    "lng": -46.576007,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0163",
+    "nome": "Cantina da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.550373,
+    "lng": -46.569917,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0164",
+    "nome": "Cantina",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.542819,
+    "lng": -46.578461,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0165",
+    "nome": "Restaurante Fidalga",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.546357,
+    "lng": -46.568187,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0166",
+    "nome": "Restaurante",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.533742,
+    "lng": -46.588824,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0167",
+    "nome": "Restaurante da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Tatuapé",
+    "lat": -23.53866,
+    "lng": -46.576935,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0168",
+    "nome": "Banco Joaquim",
+    "categoria": "banco",
+    "bairro": "Tatuapé",
+    "lat": -23.548751,
+    "lng": -46.578297,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0169",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Tatuapé",
+    "lat": -23.543296,
+    "lng": -46.580099,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0170",
+    "nome": "Pet Shop Central",
+    "categoria": "petshop",
+    "bairro": "Tatuapé",
+    "lat": -23.538361,
+    "lng": -46.564658,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0171",
+    "nome": "Clínica Vet Cunha Gago",
+    "categoria": "petshop",
+    "bairro": "Tatuapé",
+    "lat": -23.539577,
+    "lng": -46.586298,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0172",
+    "nome": "Clínica Vet Central",
+    "categoria": "petshop",
+    "bairro": "Tatuapé",
+    "lat": -23.532977,
+    "lng": -46.574245,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0173",
+    "nome": "Empório Central",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.508741,
+    "lng": -46.628515,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0174",
+    "nome": "Hortifruti do Bairro",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.494274,
+    "lng": -46.634062,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0175",
+    "nome": "Hortifruti Augusta",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.506483,
+    "lng": -46.622365,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0176",
+    "nome": "Hortifruti",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.50574,
+    "lng": -46.619511,
+    "opening_hours": "08:00-22:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0177",
+    "nome": "Empório do Bairro",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.494595,
+    "lng": -46.613259,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0178",
+    "nome": "Hortifruti Augusta",
+    "categoria": "mercado",
+    "bairro": "Santana",
+    "lat": -23.503656,
+    "lng": -46.620763,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0179",
+    "nome": "Panificadora Central",
+    "categoria": "padaria",
+    "bairro": "Santana",
+    "lat": -23.493473,
+    "lng": -46.620801,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0180",
+    "nome": "Casa de Pães Express",
+    "categoria": "padaria",
+    "bairro": "Santana",
+    "lat": -23.49363,
+    "lng": -46.632339,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0181",
+    "nome": "Farmácia do Bairro",
+    "categoria": "farmacia",
+    "bairro": "Santana",
+    "lat": -23.49783,
+    "lng": -46.6384,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0182",
+    "nome": "Drogaria Express",
+    "categoria": "farmacia",
+    "bairro": "Santana",
+    "lat": -23.517152,
+    "lng": -46.614067,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0183",
+    "nome": "Cafeteria Central",
+    "categoria": "cafe",
+    "bairro": "Santana",
+    "lat": -23.510563,
+    "lng": -46.622006,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0184",
+    "nome": "Cafeteria Central",
+    "categoria": "cafe",
+    "bairro": "Santana",
+    "lat": -23.495185,
+    "lng": -46.618794,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0185",
+    "nome": "Cafeteria da Esquina",
+    "categoria": "cafe",
+    "bairro": "Santana",
+    "lat": -23.513467,
+    "lng": -46.63537,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0186",
+    "nome": "Coffee Augusta",
+    "categoria": "cafe",
+    "bairro": "Santana",
+    "lat": -23.511873,
+    "lng": -46.617247,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0187",
+    "nome": "Studio Fit do Bairro",
+    "categoria": "academia",
+    "bairro": "Santana",
+    "lat": -23.500697,
+    "lng": -46.62463,
+    "opening_hours": "06:00-23:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0188",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Santana",
+    "lat": -23.517153,
+    "lng": -46.614655,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0189",
+    "nome": "Academia Express",
+    "categoria": "academia",
+    "bairro": "Santana",
+    "lat": -23.494881,
+    "lng": -46.620163,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.5
+  },
+  {
+    "id": "poi_0190",
+    "nome": "CrossBox da Esquina",
+    "categoria": "academia",
+    "bairro": "Santana",
+    "lat": -23.50382,
+    "lng": -46.633398,
+    "opening_hours": "06:00-23:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0191",
+    "nome": "Parque Central",
+    "categoria": "parque",
+    "bairro": "Santana",
+    "lat": -23.502275,
+    "lng": -46.616876,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.8
+  },
+  {
+    "id": "poi_0192",
+    "nome": "Bistrô do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Santana",
+    "lat": -23.504508,
+    "lng": -46.62591,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0193",
+    "nome": "Cantina",
+    "categoria": "restaurante",
+    "bairro": "Santana",
+    "lat": -23.511358,
+    "lng": -46.635801,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0194",
+    "nome": "Restaurante Central",
+    "categoria": "restaurante",
+    "bairro": "Santana",
+    "lat": -23.49552,
+    "lng": -46.617848,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0195",
+    "nome": "Banco Express",
+    "categoria": "banco",
+    "bairro": "Santana",
+    "lat": -23.494134,
+    "lng": -46.635688,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0196",
+    "nome": "Agência da Esquina",
+    "categoria": "banco",
+    "bairro": "Santana",
+    "lat": -23.500035,
+    "lng": -46.629712,
+    "opening_hours": "10:00-16:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0197",
+    "nome": "Banco do Bairro",
+    "categoria": "banco",
+    "bairro": "Santana",
+    "lat": -23.510351,
+    "lng": -46.614603,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.4
+  },
+  {
+    "id": "poi_0198",
+    "nome": "Banco da Esquina",
+    "categoria": "banco",
+    "bairro": "Santana",
+    "lat": -23.514044,
+    "lng": -46.623405,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0199",
+    "nome": "Banco Central",
+    "categoria": "banco",
+    "bairro": "Santana",
+    "lat": -23.505383,
+    "lng": -46.613166,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0200",
+    "nome": "Clínica Vet Augusta",
+    "categoria": "petshop",
+    "bairro": "Santana",
+    "lat": -23.501037,
+    "lng": -46.633418,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0201",
+    "nome": "Clínica Vet Cardeal",
+    "categoria": "petshop",
+    "bairro": "Santana",
+    "lat": -23.505289,
+    "lng": -46.611433,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0202",
+    "nome": "Mercado do Bairro",
+    "categoria": "mercado",
+    "bairro": "Butantã",
+    "lat": -23.581079,
+    "lng": -46.701488,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0203",
+    "nome": "Empório Express",
+    "categoria": "mercado",
+    "bairro": "Butantã",
+    "lat": -23.563715,
+    "lng": -46.711686,
+    "opening_hours": "08:00-22:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0204",
+    "nome": "Casa de Pães Central",
+    "categoria": "padaria",
+    "bairro": "Butantã",
+    "lat": -23.574703,
+    "lng": -46.70676,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0205",
+    "nome": "Panificadora",
+    "categoria": "padaria",
+    "bairro": "Butantã",
+    "lat": -23.576618,
+    "lng": -46.706951,
+    "opening_hours": "06:00-20:00",
+    "nota": 3.4
+  },
+  {
+    "id": "poi_0206",
+    "nome": "Panificadora do Bairro",
+    "categoria": "padaria",
+    "bairro": "Butantã",
+    "lat": -23.562832,
+    "lng": -46.716069,
+    "opening_hours": "06:00-20:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0207",
+    "nome": "Drogaria",
+    "categoria": "farmacia",
+    "bairro": "Butantã",
+    "lat": -23.580462,
+    "lng": -46.707818,
+    "opening_hours": "07:00-23:00",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0208",
+    "nome": "Drogaria 24h",
+    "categoria": "farmacia",
+    "bairro": "Butantã",
+    "lat": -23.582965,
+    "lng": -46.713301,
+    "opening_hours": "24h",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0209",
+    "nome": "Drogaria 24h",
+    "categoria": "farmacia",
+    "bairro": "Butantã",
+    "lat": -23.580859,
+    "lng": -46.697871,
+    "opening_hours": "24h",
+    "nota": 3.7
+  },
+  {
+    "id": "poi_0210",
+    "nome": "Farmácia Express",
+    "categoria": "farmacia",
+    "bairro": "Butantã",
+    "lat": -23.560324,
+    "lng": -46.716951,
+    "opening_hours": "24h",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0211",
+    "nome": "Farmácia",
+    "categoria": "farmacia",
+    "bairro": "Butantã",
+    "lat": -23.578599,
+    "lng": -46.715662,
+    "opening_hours": "07:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0212",
+    "nome": "Café da Esquina",
+    "categoria": "cafe",
+    "bairro": "Butantã",
+    "lat": -23.564977,
+    "lng": -46.718254,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.9
+  },
+  {
+    "id": "poi_0213",
+    "nome": "Cafeteria do Bairro",
+    "categoria": "cafe",
+    "bairro": "Butantã",
+    "lat": -23.563268,
+    "lng": -46.696789,
+    "opening_hours": "07:00-19:00",
+    "nota": 4.7
+  },
+  {
+    "id": "poi_0214",
+    "nome": "Café da Esquina",
+    "categoria": "cafe",
+    "bairro": "Butantã",
+    "lat": -23.57907,
+    "lng": -46.711496,
+    "opening_hours": "07:00-19:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0215",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Butantã",
+    "lat": -23.568964,
+    "lng": -46.701698,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0216",
+    "nome": "Academia do Bairro",
+    "categoria": "academia",
+    "bairro": "Butantã",
+    "lat": -23.561047,
+    "lng": -46.717562,
+    "opening_hours": "06:00-23:00",
+    "nota": 4
+  },
+  {
+    "id": "poi_0217",
+    "nome": "CrossBox",
+    "categoria": "academia",
+    "bairro": "Butantã",
+    "lat": -23.575802,
+    "lng": -46.70668,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0218",
+    "nome": "Studio Fit Central",
+    "categoria": "academia",
+    "bairro": "Butantã",
+    "lat": -23.564385,
+    "lng": -46.702409,
+    "opening_hours": "06:00-23:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0219",
+    "nome": "Parque Express",
+    "categoria": "parque",
+    "bairro": "Butantã",
+    "lat": -23.578594,
+    "lng": -46.71889,
+    "opening_hours": "05:00-22:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0220",
+    "nome": "Cantina da Esquina",
+    "categoria": "restaurante",
+    "bairro": "Butantã",
+    "lat": -23.581101,
+    "lng": -46.705138,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0221",
+    "nome": "Restaurante",
+    "categoria": "restaurante",
+    "bairro": "Butantã",
+    "lat": -23.563695,
+    "lng": -46.718272,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0222",
+    "nome": "Bistrô Express",
+    "categoria": "restaurante",
+    "bairro": "Butantã",
+    "lat": -23.558757,
+    "lng": -46.702207,
+    "opening_hours": "11:00-23:00",
+    "nota": 4.3
+  },
+  {
+    "id": "poi_0223",
+    "nome": "Restaurante do Bairro",
+    "categoria": "restaurante",
+    "bairro": "Butantã",
+    "lat": -23.566638,
+    "lng": -46.694522,
+    "opening_hours": "11:00-23:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0224",
+    "nome": "Hospital Central",
+    "categoria": "hospital",
+    "bairro": "Butantã",
+    "lat": -23.579397,
+    "lng": -46.694325,
+    "opening_hours": "24h",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0225",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.57504,
+    "lng": -46.719043,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0226",
+    "nome": "Banco",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.570765,
+    "lng": -46.707766,
+    "opening_hours": "10:00-16:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0227",
+    "nome": "Agência do Bairro",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.562467,
+    "lng": -46.706532,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0228",
+    "nome": "Banco Teodoro",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.568124,
+    "lng": -46.718673,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.9
+  },
+  {
+    "id": "poi_0229",
+    "nome": "Agência Central",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.565483,
+    "lng": -46.714925,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.8
+  },
+  {
+    "id": "poi_0230",
+    "nome": "Agência",
+    "categoria": "banco",
+    "bairro": "Butantã",
+    "lat": -23.579299,
+    "lng": -46.714732,
+    "opening_hours": "10:00-16:00",
+    "nota": 4.6
+  },
+  {
+    "id": "poi_0231",
+    "nome": "Clínica Vet da Esquina",
+    "categoria": "petshop",
+    "bairro": "Butantã",
+    "lat": -23.576682,
+    "lng": -46.704523,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.1
+  },
+  {
+    "id": "poi_0232",
+    "nome": "Pet Shop Wisard",
+    "categoria": "petshop",
+    "bairro": "Butantã",
+    "lat": -23.564821,
+    "lng": -46.699646,
+    "opening_hours": "08:00-20:00",
+    "nota": 4.2
+  },
+  {
+    "id": "poi_0233",
+    "nome": "Pet Shop da Esquina",
+    "categoria": "petshop",
+    "bairro": "Butantã",
+    "lat": -23.570526,
+    "lng": -46.707875,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.5
+  },
+  {
+    "id": "poi_0234",
+    "nome": "Pet Shop Central",
+    "categoria": "petshop",
+    "bairro": "Butantã",
+    "lat": -23.560534,
+    "lng": -46.703353,
+    "opening_hours": "08:00-20:00",
+    "nota": 3.6
+  },
+  {
+    "id": "poi_0235",
+    "nome": "Pet Shop Central",
+    "categoria": "petshop",
+    "bairro": "Butantã",
+    "lat": -23.57324,
+    "lng": -46.695873,
+    "opening_hours": "08:00-20:00",
+    "nota": 4
+  }
+]

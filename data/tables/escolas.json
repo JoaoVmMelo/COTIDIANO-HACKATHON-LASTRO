@@ -1,0 +1,354 @@
+[
+  {
+    "id": "esc_0236",
+    "nome": "Escola Harmonia",
+    "rede": "privada",
+    "niveis": [
+      "médio",
+      "creche"
+    ],
+    "bairro": "Vila Madalena",
+    "lat": -23.543436,
+    "lng": -46.699276,
+    "idea_nota": 6.4,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0237",
+    "nome": "EMEI Girassol",
+    "rede": "privada",
+    "niveis": [
+      "creche",
+      "médio",
+      "fundamental"
+    ],
+    "bairro": "Vila Madalena",
+    "lat": -23.550089,
+    "lng": -46.701127,
+    "idea_nota": 5.9,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0238",
+    "nome": "Colégio Original",
+    "rede": "pública",
+    "niveis": [
+      "creche",
+      "fundamental",
+      "médio"
+    ],
+    "bairro": "Pinheiros",
+    "lat": -23.574027,
+    "lng": -46.693665,
+    "idea_nota": 5.6,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0239",
+    "nome": "EMEI Joaquim",
+    "rede": "privada",
+    "niveis": [
+      "fundamental"
+    ],
+    "bairro": "Pinheiros",
+    "lat": -23.569313,
+    "lng": -46.692614,
+    "idea_nota": 5.6,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0240",
+    "nome": "EMEI Wisard",
+    "rede": "privada",
+    "niveis": [
+      "médio",
+      "fundamental",
+      "creche"
+    ],
+    "bairro": "Pinheiros",
+    "lat": -23.570185,
+    "lng": -46.693274,
+    "idea_nota": 6.8,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0241",
+    "nome": "Colégio Wisard",
+    "rede": "privada",
+    "niveis": [
+      "médio",
+      "fundamental",
+      "creche"
+    ],
+    "bairro": "Pinheiros",
+    "lat": -23.561364,
+    "lng": -46.69925,
+    "idea_nota": 5,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0242",
+    "nome": "Escola Inácio Pereira",
+    "rede": "privada",
+    "niveis": [
+      "creche",
+      "fundamental"
+    ],
+    "bairro": "Pinheiros",
+    "lat": -23.576131,
+    "lng": -46.703838,
+    "idea_nota": 6.5,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0243",
+    "nome": "Colégio Fradique",
+    "rede": "privada",
+    "niveis": [
+      "creche",
+      "médio"
+    ],
+    "bairro": "Moema",
+    "lat": -23.608128,
+    "lng": -46.665087,
+    "idea_nota": 5.5,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0244",
+    "nome": "Colégio Joaquim",
+    "rede": "privada",
+    "niveis": [
+      "médio",
+      "fundamental",
+      "creche"
+    ],
+    "bairro": "Moema",
+    "lat": -23.595292,
+    "lng": -46.653845,
+    "idea_nota": 7,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0245",
+    "nome": "Escola Fradique",
+    "rede": "privada",
+    "niveis": [
+      "médio"
+    ],
+    "bairro": "Moema",
+    "lat": -23.588156,
+    "lng": -46.669528,
+    "idea_nota": 6.8,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0246",
+    "nome": "Colégio Mourato",
+    "rede": "pública",
+    "niveis": [
+      "médio",
+      "creche"
+    ],
+    "bairro": "Moema",
+    "lat": -23.597191,
+    "lng": -46.663795,
+    "idea_nota": 6.3,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0247",
+    "nome": "Colégio Belmiro",
+    "rede": "pública",
+    "niveis": [
+      "médio"
+    ],
+    "bairro": "Vila Mariana",
+    "lat": -23.593823,
+    "lng": -46.631873,
+    "idea_nota": 5.6,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0248",
+    "nome": "Colégio Girassol",
+    "rede": "privada",
+    "niveis": [
+      "fundamental"
+    ],
+    "bairro": "Vila Mariana",
+    "lat": -23.600076,
+    "lng": -46.636006,
+    "idea_nota": 5.3,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0249",
+    "nome": "Escola Cardeal",
+    "rede": "privada",
+    "niveis": [
+      "creche",
+      "fundamental"
+    ],
+    "bairro": "Vila Mariana",
+    "lat": -23.591948,
+    "lng": -46.635583,
+    "idea_nota": 5.4,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0250",
+    "nome": "Colégio Wisard",
+    "rede": "pública",
+    "niveis": [
+      "médio",
+      "fundamental"
+    ],
+    "bairro": "Tatuapé",
+    "lat": -23.536916,
+    "lng": -46.570895,
+    "idea_nota": 6.1,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0251",
+    "nome": "Colégio Fradique",
+    "rede": "privada",
+    "niveis": [
+      "fundamental",
+      "creche",
+      "médio"
+    ],
+    "bairro": "Tatuapé",
+    "lat": -23.547014,
+    "lng": -46.575652,
+    "idea_nota": 6.3,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0252",
+    "nome": "Colégio Teodoro",
+    "rede": "privada",
+    "niveis": [
+      "fundamental",
+      "médio",
+      "creche"
+    ],
+    "bairro": "Santana",
+    "lat": -23.504955,
+    "lng": -46.619757,
+    "idea_nota": 5.1,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0253",
+    "nome": "EMEI Belmiro",
+    "rede": "pública",
+    "niveis": [
+      "médio",
+      "fundamental"
+    ],
+    "bairro": "Santana",
+    "lat": -23.51806,
+    "lng": -46.634664,
+    "idea_nota": 7.5,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0254",
+    "nome": "Escola Cardeal",
+    "rede": "privada",
+    "niveis": [
+      "fundamental",
+      "creche"
+    ],
+    "bairro": "Santana",
+    "lat": -23.514544,
+    "lng": -46.628267,
+    "idea_nota": 5.9,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0255",
+    "nome": "Colégio Inácio Pereira",
+    "rede": "privada",
+    "niveis": [
+      "fundamental",
+      "creche",
+      "médio"
+    ],
+    "bairro": "Santana",
+    "lat": -23.514234,
+    "lng": -46.615446,
+    "idea_nota": 4.9,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0256",
+    "nome": "EMEI Mourato",
+    "rede": "pública",
+    "niveis": [
+      "médio",
+      "fundamental",
+      "creche"
+    ],
+    "bairro": "Santana",
+    "lat": -23.517103,
+    "lng": -46.62715,
+    "idea_nota": 5.8,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0257",
+    "nome": "Escola Teodoro",
+    "rede": "privada",
+    "niveis": [
+      "médio"
+    ],
+    "bairro": "Butantã",
+    "lat": -23.566634,
+    "lng": -46.708468,
+    "idea_nota": 7.3,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0258",
+    "nome": "Escola Fradique",
+    "rede": "privada",
+    "niveis": [
+      "creche"
+    ],
+    "bairro": "Butantã",
+    "lat": -23.563966,
+    "lng": -46.696938,
+    "idea_nota": 5.8,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0259",
+    "nome": "Colégio Wisard",
+    "rede": "privada",
+    "niveis": [
+      "fundamental",
+      "médio"
+    ],
+    "bairro": "Butantã",
+    "lat": -23.573689,
+    "lng": -46.706548,
+    "idea_nota": 6.8,
+    "horario": "07:00-18:00"
+  },
+  {
+    "id": "esc_0260",
+    "nome": "Colégio Aspicuelta",
+    "rede": "privada",
+    "niveis": [
+      "médio"
+    ],
+    "bairro": "Butantã",
+    "lat": -23.563497,
+    "lng": -46.697544,
+    "idea_nota": 4.7,
+    "horario": "07:00-18:00"
+  }
+]

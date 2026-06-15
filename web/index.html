@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cotidiano — quanto custaria sua vida nesse bairro?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;700;800;900&family=Red+Hat+Text:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="layout">
+    <!-- ===================== SIDEBAR ===================== -->
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <span class="brand-mark">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        </span>
+        <span class="brand-name">Cotidiano</span>
+      </div>
+
+      <nav class="nav">
+        <a class="nav-item active" href="#inicio" data-nav>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 11V6a2 2 0 0 0-2-2a2 2 0 0 0-2 2"/><path d="M14 10V4a2 2 0 0 0-2-2a2 2 0 0 0-2 2v2"/><path d="M10 10.5V6a2 2 0 0 0-2-2a2 2 0 0 0-2 2v8"/><path d="M18 8a2 2 0 1 1 4 0v6a8 8 0 0 1-8 8h-2c-2.8 0-4.5-.86-5.99-2.34l-3.6-3.6a2 2 0 0 1 2.83-2.82L7 15"/></svg>
+          Início
+        </a>
+        <a class="nav-item" href="#lais" data-nav>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
+          Fale com a Laís
+        </a>
+        <a class="nav-item" href="#meu-local" data-nav>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+          Já tenho um local
+        </a>
+        <a class="nav-item" href="#simulador" data-nav>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="20" x="4" y="2" rx="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M12 6h.01"/><path d="M12 10h.01"/><path d="M12 14h.01"/><path d="M16 10h.01"/><path d="M16 14h.01"/><path d="M8 10h.01"/><path d="M8 14h.01"/></svg>
+          Simulador
+        </a>
+        <a class="nav-item" href="#sobre" data-nav>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+          Sobre
+        </a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <button class="theme-toggle" id="theme-toggle" type="button">
+          <span id="theme-icon"></span>
+          <span id="theme-label">Tema escuro</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- ===================== MAIN ===================== -->
+    <main class="main">
+      <!-- HERO -->
+      <section class="hero" id="inicio">
+        <div class="container">
+          <span class="hero-badge">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .962 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.962 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/><path d="M4 17v2"/><path d="M5 18H3"/></svg>
+            IA + estimativa de custo a partir de anúncios de SP
+          </span>
+          <h1>Quanto custaria sua vida nesse bairro?</h1>
+          <p class="hero-sub">A Laís analisa seu orçamento e seu estilo, recomenda o bairro ideal de São Paulo e te conta como seria seu dia a dia lá — com custo estimado e intervalo de confiança.</p>
+          <button class="btn btn-light" data-scroll="#lais">
+            Descobrir meu bairro
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </button>
+        </div>
+      </section>
+
+      <div class="container">
+        <!-- ===================== FALE COM A LAÍS ===================== -->
+        <section class="panel" id="lais">
+          <div class="section-tag">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
+            Assistente
+          </div>
+          <h2>Fale com a Laís</h2>
+          <p class="lead">Conte sua situação. Ela cruza os números e recomenda o bairro que melhor combina com você.</p>
+
+          <div class="grid-2">
+            <!-- Form de situação -->
+            <div class="card">
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"/><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"/><path d="M18 12a2 2 0 0 0 0 4h4v-4Z"/></svg> Orçamento mensal</label>
+                <input type="number" id="f-orcamento" value="4500" min="1500" max="30000" step="250" />
+                <div class="hint">Moradia + contas + transporte</div>
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.3 8.7 8.7 21.3a1 1 0 0 1-1.4 0l-4.6-4.6a1 1 0 0 1 0-1.4L15.3 2.7a1 1 0 0 1 1.4 0l4.6 4.6a1 1 0 0 1 0 1.4Z"/><path d="m7.5 10.5 2 2"/><path d="m10.5 7.5 2 2"/><path d="m13.5 4.5 2 2"/><path d="m4.5 13.5 2 2"/></svg> Área desejada (m²)</label>
+                <input type="number" id="f-area" value="60" min="25" max="200" step="5" />
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg> Pessoas na casa</label>
+                <input type="number" id="f-pessoas" value="2" min="1" max="6" step="1" />
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg> Como vai ao trabalho</label>
+                <select id="f-modo"></select>
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="7" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg> Onde você trabalha</label>
+                <input type="text" id="f-trabalho" placeholder="Av. Faria Lima 1500, USP, Hospital..." />
+                <div class="hint">Acha bairros perto do seu trabalho (vazio = Av. Paulista)</div>
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="20" x="4" y="2" rx="2"/><path d="M9 22v-4h6v4"/></svg> Comprar ou alugar</label>
+                <select id="f-op"><option value="alugar">Alugar</option><option value="comprar">Comprar</option></select>
+              </div>
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .962 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.962 0z"/></svg> O que você curte</label>
+                <input type="text" id="f-estilo" placeholder="bares, parques, família, sossego..." />
+              </div>
+              <button class="btn btn-primary" id="btn-recomendar" style="width:100%; justify-content:center;">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/><circle cx="12" cy="12" r="10"/></svg>
+                Recomendar meu bairro
+              </button>
+            </div>
+
+            <!-- Chat + recomendações -->
+            <div class="card chat">
+              <div class="chat-messages" id="chat-messages">
+                <div class="msg assistant">
+                  <span class="avatar">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
+                    Laís
+                  </span>
+                  Oi! Preenche aí do lado a sua situação e clica em <strong>Recomendar meu bairro</strong> — eu acho o lugar ideal pra você e te conto como seria sua vida lá.
+                </div>
+              </div>
+              <div class="rec-cards" id="rec-cards"></div>
+              <div class="chat-input-row" style="margin-top:14px;">
+                <input type="text" id="chat-input" placeholder="Ex: compara Pinheiros e Moema · o mais barato perto de metrô?" disabled />
+                <button class="icon-btn" id="chat-send" disabled>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/></svg>
+                </button>
+              </div>
+
+              <!-- Lead -->
+              <div class="lead-box hidden" id="lead-box">
+                <div class="callout-title" style="margin-bottom:10px;">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M8 2v4"/><path d="M16 2v4"/><path d="M3 10h18"/></svg>
+                  Quer o relatório completo de <span id="lead-bairro">—</span>?
+                </div>
+                <div class="row">
+                  <input type="text" id="lead-nome" placeholder="Seu nome" />
+                  <input type="text" id="lead-contato" placeholder="WhatsApp ou e-mail" />
+                  <button class="btn btn-primary" id="lead-send">Quero o relatório</button>
+                </div>
+                <p class="note hidden" id="lead-ok" style="margin-top:10px;"></p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ===================== JÁ TENHO UM LOCAL ===================== -->
+        <section class="panel" id="meu-local">
+          <div class="section-tag">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+            Local definido
+          </div>
+          <h2>Já sei onde quero morar — como seria minha vida aqui?</h2>
+          <p class="lead">Responda o questionário. A Laís estima seu custo mensal e calcula os trajetos até trabalho/estudo, e descreve seu dia a dia no bairro.</p>
+
+          <div class="grid-2">
+            <!-- Questionário -->
+            <div class="card">
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg> Local definido (bairro)</label>
+                <select id="v-local"></select>
+              </div>
+              <div style="display:flex; gap:10px;">
+                <div class="field" style="flex:1"><label>Área (m²)</label><input type="number" id="v-area" value="60" min="25" max="200" step="5" /></div>
+                <div class="field" style="flex:1"><label>Pessoas</label><input type="number" id="v-pessoas" value="2" min="1" max="6" /></div>
+              </div>
+              <div style="display:flex; gap:10px;">
+                <div class="field" style="flex:1"><label>Alugar ou comprar</label><select id="v-op"><option value="alugar">Alugar</option><option value="comprar">Comprar</option></select></div>
+                <div class="field" style="flex:1"><label>Orçamento/mês (opcional)</label><input type="number" id="v-orcamento" placeholder="ex: 5000" min="0" step="250" /></div>
+              </div>
+
+              <!-- Trabalho -->
+              <label class="check"><input type="checkbox" id="v-trabalha" checked /> <span>Eu trabalho</span></label>
+              <div id="v-trabalho-box">
+                <div class="field"><label>Onde fica o trabalho (endereço)</label><input type="text" id="v-trabalho-end" placeholder="Av. Faria Lima, 1500" /><div class="hint">Ou escolha o bairro abaixo se não souber o endereço</div></div>
+                <div style="display:flex; gap:10px;">
+                  <div class="field" style="flex:1"><label>Bairro (fallback)</label><select id="v-trabalho-bairro"></select></div>
+                  <div class="field" style="flex:1"><label>Como vai</label><select id="v-trabalho-modo"></select></div>
+                </div>
+                <div class="field"><label>Dias presenciais / semana</label><input type="number" id="v-trabalho-dias" value="5" min="0" max="7" /></div>
+              </div>
+
+              <!-- Estudo -->
+              <label class="check"><input type="checkbox" id="v-estuda" /> <span>Eu estudo</span></label>
+              <div id="v-estudo-box" class="hidden">
+                <div class="field"><label>Onde estuda (endereço)</label><input type="text" id="v-estudo-end" placeholder="USP, PUC, faculdade..." /></div>
+                <div style="display:flex; gap:10px;">
+                  <div class="field" style="flex:1"><label>Bairro (fallback)</label><select id="v-estudo-bairro"></select></div>
+                  <div class="field" style="flex:1"><label>Como vai</label><select id="v-estudo-modo"></select></div>
+                </div>
+              </div>
+
+              <!-- Situações -->
+              <label style="font-weight:600; font-size:13px; color:var(--text-muted); display:block; margin:6px 0 8px;">Sua situação</label>
+              <div class="chips" id="v-situacoes">
+                <label class="chip"><input type="checkbox" value="filhos" /> Tenho filhos</label>
+                <label class="chip"><input type="checkbox" value="pet" /> Tenho pet</label>
+                <label class="chip"><input type="checkbox" value="academia" /> Academia</label>
+                <label class="chip"><input type="checkbox" value="carro" /> Tenho carro</label>
+                <label class="chip"><input type="checkbox" value="bar" /> Curto bar/noite</label>
+                <label class="chip"><input type="checkbox" value="home_office" /> Home office</label>
+              </div>
+
+              <button class="btn btn-primary" id="btn-vida" style="width:100%; justify-content:center; margin-top:18px;">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .962 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.962 0z"/></svg>
+                Ver como seria minha vida aqui
+              </button>
+            </div>
+
+            <!-- Resultado -->
+            <div class="card chat">
+              <div class="metrics" id="v-metrics"></div>
+              <div id="v-score"></div>
+              <div id="v-trajetos"></div>
+              <div id="v-map" class="map hidden"></div>
+              <div id="v-map-legend" class="map-legend hidden">
+                <span><i style="background:#9664FA"></i> Casa</span>
+                <span><i style="background:#FF793E"></i> Trabalho/Estudo</span>
+                <span><i style="background:#28E4A8"></i> Entorno (comércio, parque...)</span>
+              </div>
+              <div class="chat-messages" id="v-messages" style="margin-top:14px;">
+                <div class="msg assistant">
+                  <span class="avatar"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg> Laís</span>
+                  Preenche o questionário e clica no botão — eu calculo seus trajetos e te conto como seria seu dia a dia aqui.
+                </div>
+              </div>
+              <div class="chat-input-row" style="margin-top:14px;">
+                <input type="text" id="v-input" placeholder="Ex: e de bike? · vale morar mais longe e economizar?" disabled />
+                <button class="icon-btn" id="v-send" disabled>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/></svg>
+                </button>
+              </div>
+              <div class="lead-box hidden" id="v-lead-box">
+                <div class="callout-title" style="margin-bottom:10px;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M8 2v4"/><path d="M16 2v4"/><path d="M3 10h18"/></svg> Quer o relatório completo de <span id="v-lead-bairro">—</span>?</div>
+                <div class="row">
+                  <input type="text" id="v-lead-nome" placeholder="Seu nome" />
+                  <input type="text" id="v-lead-contato" placeholder="WhatsApp ou e-mail" />
+                  <button class="btn btn-primary" id="v-lead-send">Quero o relatório</button>
+                </div>
+                <p class="note hidden" id="v-lead-ok" style="margin-top:10px;"></p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ===================== CALLOUT ===================== -->
+        <div class="callout">
+          <span class="callout-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg>
+          </span>
+          <div>
+            <div class="callout-title">Estimativa transparente, não avaliação oficial</div>
+            <p>A recomendação é calculada em Python a partir de uma <strong>amostra de anúncios</strong> de SP e da distância ao trabalho — então são <strong>estimativas de referência</strong>, com intervalo de confiança de 95% para mostrar a incerteza. A Laís só narra por cima; nunca chuta um número que não veio do cálculo.</p>
+          </div>
+        </div>
+
+        <!-- ===================== SIMULADOR ===================== -->
+        <section class="panel" id="simulador">
+          <div class="section-tag">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="20" x="4" y="2" rx="2"/><path d="M9 22v-4h6v4"/></svg>
+            Simulador
+          </div>
+          <h2>Simule um bairro específico</h2>
+          <p class="lead">Escolha um bairro e ajuste o cenário pra ver o custo de vida detalhado.</p>
+
+          <div class="grid-2">
+            <div class="card">
+              <div class="field">
+                <label><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg> Bairro</label>
+                <select id="s-bairro"></select>
+              </div>
+              <div class="field"><label>Área (m²)</label><input type="number" id="s-area" value="70" min="25" max="200" step="5" /></div>
+              <div class="field"><label>Pessoas</label><input type="number" id="s-pessoas" value="2" min="1" max="6" /></div>
+              <div class="field"><label>Transporte</label><select id="s-modo"></select></div>
+              <div class="field"><label>Comprar ou alugar</label><select id="s-op"><option value="alugar">Alugar</option><option value="comprar">Comprar</option></select></div>
+            </div>
+            <div class="card">
+              <div class="metrics" id="s-metrics"></div>
+              <div id="s-itens"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ===================== RELATÓRIO COMPLETO ===================== -->
+        <section class="panel hidden" id="relatorio">
+          <div class="section-tag">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>
+            Relatório gerado por IA
+          </div>
+          <h2 id="rel-titulo">Relatório completo do bairro</h2>
+          <p class="lead">Gerado pela Laís a partir das estimativas e dos trajetos do seu cenário.</p>
+          <div class="card" id="rel-body"></div>
+        </section>
+
+        <!-- ===================== CLOSING ===================== -->
+        <section class="closing" id="sobre">
+          <div class="closing-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 8c0-2.76-2.46-5-5.5-5S2 5.24 2 8h2l1-1 1 1h4"/><path d="M13 7.14A5.82 5.82 0 0 1 16.5 6c3.04 0 5.5 2.24 5.5 5h-3l-1-1-1 1h-3"/><path d="M5.89 9.71c-2.15 2.15-2.3 5.47-.35 7.43l4.24-4.25.7-.7.71-.71 2.12-2.12c-1.95-1.96-5.27-1.8-7.42.35"/><path d="M11 15.5c.5 2.5-.17 4.5-1 6.5h4c2-5.5-.5-12-1-14"/></svg>
+          </div>
+          <h2>Um lead magnet que vira lead qualificado</h2>
+          <p>A pessoa descobre onde quer morar, recebe o relatório e deixa o contato — caindo direto no CRM / na Laís. Estimativa transparente, IA por cima, conversão de verdade.</p>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

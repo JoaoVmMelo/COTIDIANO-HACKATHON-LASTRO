@@ -1,0 +1,8468 @@
+{
+  "Vila Madalena": [
+    {
+      "lat": -23.549809,
+      "lng": -46.683097,
+      "categoria": "padaria",
+      "nome": "Bela Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.547609,
+      "lng": -46.689165,
+      "categoria": "padaria",
+      "nome": "Santa Marta Pães",
+      "horario": "Mo-Su 06:00-23:00"
+    },
+    {
+      "lat": -23.552306,
+      "lng": -46.690171,
+      "categoria": "padaria",
+      "nome": "ST. Etiene",
+      "horario": ""
+    },
+    {
+      "lat": -23.550878,
+      "lng": -46.690134,
+      "categoria": "padaria",
+      "nome": "Padaria Rodésia",
+      "horario": ""
+    },
+    {
+      "lat": -23.553862,
+      "lng": -46.685861,
+      "categoria": "padaria",
+      "nome": "Deli Garage",
+      "horario": ""
+    },
+    {
+      "lat": -23.560102,
+      "lng": -46.681939,
+      "categoria": "padaria",
+      "nome": "AJ M&M",
+      "horario": ""
+    },
+    {
+      "lat": -23.554555,
+      "lng": -46.693981,
+      "categoria": "padaria",
+      "nome": "De Pão em Pão Padaria Artesanal",
+      "horario": ""
+    },
+    {
+      "lat": -23.547394,
+      "lng": -46.692042,
+      "categoria": "padaria",
+      "nome": "De Lá Do Pão",
+      "horario": "Mo-Fr 07:00-19:30; Sa-Su 08:00-13:00"
+    },
+    {
+      "lat": -23.559226,
+      "lng": -46.689158,
+      "categoria": "cafe",
+      "nome": "Ekoa Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.556032,
+      "lng": -46.691408,
+      "categoria": "cafe",
+      "nome": "Coffee Lab",
+      "horario": ""
+    },
+    {
+      "lat": -23.554423,
+      "lng": -46.690022,
+      "categoria": "cafe",
+      "nome": "Saj Libanais",
+      "horario": ""
+    },
+    {
+      "lat": -23.556207,
+      "lng": -46.683886,
+      "categoria": "cafe",
+      "nome": "Patuscada - livraria & café",
+      "horario": ""
+    },
+    {
+      "lat": -23.555655,
+      "lng": -46.687843,
+      "categoria": "cafe",
+      "nome": "Adote",
+      "horario": ""
+    },
+    {
+      "lat": -23.558863,
+      "lng": -46.690972,
+      "categoria": "cafe",
+      "nome": "Pão",
+      "horario": "08:00-19:00"
+    },
+    {
+      "lat": -23.55465,
+      "lng": -46.688707,
+      "categoria": "cafe",
+      "nome": "Le Pain Quotidien",
+      "horario": ""
+    },
+    {
+      "lat": -23.547678,
+      "lng": -46.691836,
+      "categoria": "cafe",
+      "nome": "Padoca vegan",
+      "horario": ""
+    },
+    {
+      "lat": -23.559324,
+      "lng": -46.689382,
+      "categoria": "cafe",
+      "nome": "Santo Grão Vila Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.559802,
+      "lng": -46.689351,
+      "categoria": "cafe",
+      "nome": "Sucra",
+      "horario": ""
+    },
+    {
+      "lat": -23.55726,
+      "lng": -46.686459,
+      "categoria": "cafe",
+      "nome": "Cafe Madeira",
+      "horario": ""
+    },
+    {
+      "lat": -23.562393,
+      "lng": -46.69195,
+      "categoria": "cafe",
+      "nome": "Cyber Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.556021,
+      "lng": -46.691423,
+      "categoria": "cafe",
+      "nome": "Coffee Lab",
+      "horario": ""
+    },
+    {
+      "lat": -23.555261,
+      "lng": -46.68812,
+      "categoria": "cafe",
+      "nome": "Teaconnection",
+      "horario": ""
+    },
+    {
+      "lat": -23.562946,
+      "lng": -46.693308,
+      "categoria": "cafe",
+      "nome": "Jorgina Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.562023,
+      "lng": -46.693309,
+      "categoria": "cafe",
+      "nome": "Botanikafé Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.563005,
+      "lng": -46.692491,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.556872,
+      "lng": -46.692409,
+      "categoria": "cafe",
+      "nome": "Stuppendo Vila Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.557867,
+      "lng": -46.681516,
+      "categoria": "cafe",
+      "nome": "Fran's Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.556232,
+      "lng": -46.698593,
+      "categoria": "cafe",
+      "nome": "amo reira",
+      "horario": ""
+    },
+    {
+      "lat": -23.556424,
+      "lng": -46.687021,
+      "categoria": "cafe",
+      "nome": "The Coffee",
+      "horario": ""
+    },
+    {
+      "lat": -23.556706,
+      "lng": -46.687756,
+      "categoria": "cafe",
+      "nome": "Coffee Lab",
+      "horario": ""
+    },
+    {
+      "lat": -23.560587,
+      "lng": -46.690705,
+      "categoria": "cafe",
+      "nome": "Yandê",
+      "horario": ""
+    },
+    {
+      "lat": -23.549697,
+      "lng": -46.692014,
+      "categoria": "escola",
+      "nome": "Centro Britânico",
+      "horario": ""
+    },
+    {
+      "lat": -23.562601,
+      "lng": -46.688119,
+      "categoria": "escola",
+      "nome": "Centro Britânico",
+      "horario": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa 08:00-14:00"
+    },
+    {
+      "lat": -23.554943,
+      "lng": -46.69082,
+      "categoria": "escola",
+      "nome": "Colegio Horizontes",
+      "horario": ""
+    },
+    {
+      "lat": -23.550939,
+      "lng": -46.691125,
+      "categoria": "escola",
+      "nome": "Oswald de Andrade",
+      "horario": ""
+    },
+    {
+      "lat": -23.552429,
+      "lng": -46.689255,
+      "categoria": "escola",
+      "nome": "Maple Bear Canadian School",
+      "horario": ""
+    },
+    {
+      "lat": -23.560317,
+      "lng": -46.695343,
+      "categoria": "escola",
+      "nome": "Colegio Palmares",
+      "horario": ""
+    },
+    {
+      "lat": -23.555999,
+      "lng": -46.681677,
+      "categoria": "escola",
+      "nome": "Instituto Goethe",
+      "horario": ""
+    },
+    {
+      "lat": -23.551375,
+      "lng": -46.691758,
+      "categoria": "escola",
+      "nome": "Colegio Oswald",
+      "horario": ""
+    },
+    {
+      "lat": -23.557604,
+      "lng": -46.697858,
+      "categoria": "escola",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.553756,
+      "lng": -46.688944,
+      "categoria": "petshop",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.552238,
+      "lng": -46.691576,
+      "categoria": "petshop",
+      "nome": "Mon Petit Pet Shop",
+      "horario": "Mo-Sa 09:00-18:00"
+    },
+    {
+      "lat": -23.554037,
+      "lng": -46.696436,
+      "categoria": "petshop",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.558037,
+      "lng": -46.688634,
+      "categoria": "veterinario",
+      "nome": "Pet a Vet",
+      "horario": "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+    },
+    {
+      "lat": -23.548189,
+      "lng": -46.690539,
+      "categoria": "veterinario",
+      "nome": "Randi",
+      "horario": "Mo-Sa 09:00-20:00"
+    },
+    {
+      "lat": -23.550864,
+      "lng": -46.696762,
+      "categoria": "restaurante",
+      "nome": "Sachinha",
+      "horario": ""
+    },
+    {
+      "lat": -23.550307,
+      "lng": -46.689696,
+      "categoria": "restaurante",
+      "nome": "Merceira São Pedro",
+      "horario": ""
+    },
+    {
+      "lat": -23.553469,
+      "lng": -46.6858,
+      "categoria": "restaurante",
+      "nome": "Canto Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.553048,
+      "lng": -46.688308,
+      "categoria": "restaurante",
+      "nome": "Morro da Villa Bar e Restaurante‎",
+      "horario": ""
+    },
+    {
+      "lat": -23.555376,
+      "lng": -46.688043,
+      "categoria": "restaurante",
+      "nome": "Jacaré Grill‎",
+      "horario": ""
+    },
+    {
+      "lat": -23.558163,
+      "lng": -46.688515,
+      "categoria": "restaurante",
+      "nome": "Matterello Pau de Macarrão‎",
+      "horario": ""
+    },
+    {
+      "lat": -23.553392,
+      "lng": -46.688401,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Pizzabella‎",
+      "horario": ""
+    },
+    {
+      "lat": -23.557196,
+      "lng": -46.689417,
+      "categoria": "restaurante",
+      "nome": "Genésio",
+      "horario": ""
+    },
+    {
+      "lat": -23.554899,
+      "lng": -46.68878,
+      "categoria": "restaurante",
+      "nome": "São Cristóvão",
+      "horario": "Tu-Sa 12:00-24:00; Su 12:00-21:00; Mo 12:00-16:00"
+    },
+    {
+      "lat": -23.556563,
+      "lng": -46.692614,
+      "categoria": "restaurante",
+      "nome": "L'aperô",
+      "horario": ""
+    },
+    {
+      "lat": -23.556389,
+      "lng": -46.682037,
+      "categoria": "restaurante",
+      "nome": "Sabores de Mi Tierra",
+      "horario": "Tu-Fr 18:00-23:00;Sa 14:00-23:00"
+    },
+    {
+      "lat": -23.554075,
+      "lng": -46.693873,
+      "categoria": "restaurante",
+      "nome": "Zeni Sushi",
+      "horario": ""
+    },
+    {
+      "lat": -23.55308,
+      "lng": -46.695881,
+      "categoria": "restaurante",
+      "nome": "Ydaygoro Sushi Bar",
+      "horario": ""
+    },
+    {
+      "lat": -23.555185,
+      "lng": -46.689646,
+      "categoria": "restaurante",
+      "nome": "O Engenheiro",
+      "horario": ""
+    },
+    {
+      "lat": -23.559836,
+      "lng": -46.689064,
+      "categoria": "restaurante",
+      "nome": "Galinheiro Grill",
+      "horario": "12:00-01:00"
+    },
+    {
+      "lat": -23.551005,
+      "lng": -46.689722,
+      "categoria": "restaurante",
+      "nome": "Tanuki Sushi",
+      "horario": ""
+    },
+    {
+      "lat": -23.557868,
+      "lng": -46.687605,
+      "categoria": "restaurante",
+      "nome": "Grazie a Dio",
+      "horario": ""
+    },
+    {
+      "lat": -23.551189,
+      "lng": -46.690949,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Milano",
+      "horario": ""
+    },
+    {
+      "lat": -23.55653,
+      "lng": -46.691534,
+      "categoria": "restaurante",
+      "nome": "Empanadas Bar",
+      "horario": "12:00-23:00"
+    },
+    {
+      "lat": -23.558905,
+      "lng": -46.691526,
+      "categoria": "restaurante",
+      "nome": "Martin Fierro",
+      "horario": ""
+    },
+    {
+      "lat": -23.552903,
+      "lng": -46.698298,
+      "categoria": "restaurante",
+      "nome": "La Galega",
+      "horario": ""
+    },
+    {
+      "lat": -23.553413,
+      "lng": -46.694058,
+      "categoria": "restaurante",
+      "nome": "Pe de Manga",
+      "horario": ""
+    },
+    {
+      "lat": -23.55498,
+      "lng": -46.692848,
+      "categoria": "restaurante",
+      "nome": "Oficina de Pizzas",
+      "horario": "Fr-Sa 19:00-01:00; Su-Th 19:00-00:00"
+    },
+    {
+      "lat": -23.556359,
+      "lng": -46.692763,
+      "categoria": "restaurante",
+      "nome": "Umai Sushi",
+      "horario": ""
+    },
+    {
+      "lat": -23.562193,
+      "lng": -46.689131,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.561983,
+      "lng": -46.688735,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.560363,
+      "lng": -46.68836,
+      "categoria": "restaurante",
+      "nome": "Maha Mantra Culinária Orgânica",
+      "horario": ""
+    },
+    {
+      "lat": -23.559316,
+      "lng": -46.689096,
+      "categoria": "restaurante",
+      "nome": "Alternativa Casa do Natural",
+      "horario": "Mo-Su 09:00-21:30"
+    },
+    {
+      "lat": -23.559473,
+      "lng": -46.688987,
+      "categoria": "restaurante",
+      "nome": "Sushi Mac",
+      "horario": ""
+    },
+    {
+      "lat": -23.559565,
+      "lng": -46.688912,
+      "categoria": "restaurante",
+      "nome": "Baião",
+      "horario": ""
+    },
+    {
+      "lat": -23.555597,
+      "lng": -46.687889,
+      "categoria": "restaurante",
+      "nome": "Che Barbaro",
+      "horario": ""
+    },
+    {
+      "lat": -23.547744,
+      "lng": -46.690358,
+      "categoria": "restaurante",
+      "nome": "Vitaminado Sucos",
+      "horario": ""
+    },
+    {
+      "lat": -23.547567,
+      "lng": -46.689981,
+      "categoria": "restaurante",
+      "nome": "Lanchoete Vila Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.557606,
+      "lng": -46.689361,
+      "categoria": "restaurante",
+      "nome": "Feijoada da Lana",
+      "horario": ""
+    },
+    {
+      "lat": -23.555586,
+      "lng": -46.686001,
+      "categoria": "restaurante",
+      "nome": "A Queijaria",
+      "horario": ""
+    },
+    {
+      "lat": -23.556667,
+      "lng": -46.687781,
+      "categoria": "empresa",
+      "nome": "Magma",
+      "horario": ""
+    },
+    {
+      "lat": -23.562057,
+      "lng": -46.684647,
+      "categoria": "empresa",
+      "nome": "Impact Hub",
+      "horario": ""
+    },
+    {
+      "lat": -23.555117,
+      "lng": -46.689175,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.550972,
+      "lng": -46.689744,
+      "categoria": "empresa",
+      "nome": "OAB",
+      "horario": ""
+    },
+    {
+      "lat": -23.557853,
+      "lng": -46.688764,
+      "categoria": "empresa",
+      "nome": "MediaMonks São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.557922,
+      "lng": -46.688715,
+      "categoria": "empresa",
+      "nome": "SMZ Automação e Controle",
+      "horario": ""
+    },
+    {
+      "lat": -23.557743,
+      "lng": -46.688842,
+      "categoria": "empresa",
+      "nome": "Casa das Ideias",
+      "horario": "Mo-Su 10:00-20:00"
+    },
+    {
+      "lat": -23.549916,
+      "lng": -46.692227,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.555896,
+      "lng": -46.690502,
+      "categoria": "empresa",
+      "nome": "Pacheco",
+      "horario": ""
+    },
+    {
+      "lat": -23.561337,
+      "lng": -46.686308,
+      "categoria": "empresa",
+      "nome": "Casa B2Mamy",
+      "horario": "Mo-Fr 09:00-18:00"
+    },
+    {
+      "lat": -23.562811,
+      "lng": -46.690525,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.557401,
+      "lng": -46.685883,
+      "categoria": "empresa",
+      "nome": "Coletivo Digital",
+      "horario": "Mo-Fr 09:00-19:00"
+    },
+    {
+      "lat": -23.554884,
+      "lng": -46.6887,
+      "categoria": "empresa",
+      "nome": "Escinter",
+      "horario": ""
+    },
+    {
+      "lat": -23.554493,
+      "lng": -46.69248,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.55327,
+      "lng": -46.688199,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.553182,
+      "lng": -46.690124,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.556746,
+      "lng": -46.687026,
+      "categoria": "mercado",
+      "nome": "Instituto Chão",
+      "horario": "Su, Tu-Fr 08:00-15:00"
+    },
+    {
+      "lat": -23.56331,
+      "lng": -46.687212,
+      "categoria": "mercado",
+      "nome": "Dia Market",
+      "horario": "Mo-Sa 08:00-21:00; Su 09:00-14:00"
+    },
+    {
+      "lat": -23.552283,
+      "lng": -46.69691,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": "Mo-Su 07:00-23:00"
+    },
+    {
+      "lat": -23.56326,
+      "lng": -46.687147,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "Mo-Su 07:00-22:00"
+    },
+    {
+      "lat": -23.558294,
+      "lng": -46.681037,
+      "categoria": "farmacia",
+      "nome": "Almeida Prado Farmacia e laboratorio",
+      "horario": ""
+    },
+    {
+      "lat": -23.563291,
+      "lng": -46.687638,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.547743,
+      "lng": -46.688054,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.561683,
+      "lng": -46.693082,
+      "categoria": "farmacia",
+      "nome": "Formularium",
+      "horario": ""
+    },
+    {
+      "lat": -23.546736,
+      "lng": -46.690059,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.56316,
+      "lng": -46.686959,
+      "categoria": "farmacia",
+      "nome": "Pague Menos",
+      "horario": ""
+    },
+    {
+      "lat": -23.558642,
+      "lng": -46.697674,
+      "categoria": "farmacia",
+      "nome": "Raia",
+      "horario": ""
+    },
+    {
+      "lat": -23.556938,
+      "lng": -46.698053,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.56185,
+      "lng": -46.692413,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.555316,
+      "lng": -46.695271,
+      "categoria": "parque",
+      "nome": "Praça Maria Noeli Carly Lacerda",
+      "horario": ""
+    },
+    {
+      "lat": -23.550864,
+      "lng": -46.68404,
+      "categoria": "parque",
+      "nome": "Praça Horácio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.548658,
+      "lng": -46.696064,
+      "categoria": "parque",
+      "nome": "Horta das Corujas",
+      "horario": ""
+    },
+    {
+      "lat": -23.550017,
+      "lng": -46.693649,
+      "categoria": "parque",
+      "nome": "Praça José Carlos Burle",
+      "horario": ""
+    },
+    {
+      "lat": -23.55065,
+      "lng": -46.688631,
+      "categoria": "parque",
+      "nome": "Praça Rafael Sapienza",
+      "horario": ""
+    },
+    {
+      "lat": -23.550503,
+      "lng": -46.687791,
+      "categoria": "parque",
+      "nome": "Praça Doutor Fernando de Oliveira Pimentel",
+      "horario": ""
+    },
+    {
+      "lat": -23.547526,
+      "lng": -46.689574,
+      "categoria": "parque",
+      "nome": "Praça Baronesa da Bocaina",
+      "horario": ""
+    },
+    {
+      "lat": -23.559242,
+      "lng": -46.6962,
+      "categoria": "parque",
+      "nome": "Praça Professor Resende Puech",
+      "horario": ""
+    },
+    {
+      "lat": -23.55879,
+      "lng": -46.692412,
+      "categoria": "parque",
+      "nome": "Praça Senador Lineu Prestes",
+      "horario": ""
+    },
+    {
+      "lat": -23.555787,
+      "lng": -46.682913,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.562272,
+      "lng": -46.692299,
+      "categoria": "parque",
+      "nome": "Praça dos Omaguás",
+      "horario": ""
+    },
+    {
+      "lat": -23.547864,
+      "lng": -46.690857,
+      "categoria": "parque",
+      "nome": "Praça General Rufino Galvão",
+      "horario": ""
+    },
+    {
+      "lat": -23.558316,
+      "lng": -46.680753,
+      "categoria": "parque",
+      "nome": "Praça Benedito Calixto",
+      "horario": ""
+    },
+    {
+      "lat": -23.561612,
+      "lng": -46.685549,
+      "categoria": "parque",
+      "nome": "Praça Mateus Grou",
+      "horario": ""
+    },
+    {
+      "lat": -23.557158,
+      "lng": -46.682553,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.556369,
+      "lng": -46.683263,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.55626,
+      "lng": -46.682518,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.555262,
+      "lng": -46.681746,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.556977,
+      "lng": -46.695715,
+      "categoria": "parque",
+      "nome": "Praça André Baldin de Souza",
+      "horario": ""
+    },
+    {
+      "lat": -23.556644,
+      "lng": -46.695687,
+      "categoria": "parque",
+      "nome": "Praça Coronel Caetano Del Cioppo",
+      "horario": ""
+    },
+    {
+      "lat": -23.557454,
+      "lng": -46.696527,
+      "categoria": "parque",
+      "nome": "Praça Doutor Imacolatino Antônio Luciano Balistrieri",
+      "horario": ""
+    },
+    {
+      "lat": -23.559786,
+      "lng": -46.69425,
+      "categoria": "parque",
+      "nome": "Praça Doutor Luiz Carlos de Toledo",
+      "horario": ""
+    },
+    {
+      "lat": -23.553765,
+      "lng": -46.697944,
+      "categoria": "parque",
+      "nome": "Praça Fioravante Salomão",
+      "horario": ""
+    },
+    {
+      "lat": -23.555733,
+      "lng": -46.696495,
+      "categoria": "parque",
+      "nome": "Praça Leib Vaisberg",
+      "horario": ""
+    },
+    {
+      "lat": -23.551201,
+      "lng": -46.685808,
+      "categoria": "parque",
+      "nome": "Praça General Oliveira Alvares",
+      "horario": ""
+    },
+    {
+      "lat": -23.550916,
+      "lng": -46.686328,
+      "categoria": "parque",
+      "nome": "Praça Jacques Bellange",
+      "horario": ""
+    },
+    {
+      "lat": -23.552465,
+      "lng": -46.687598,
+      "categoria": "parque",
+      "nome": "Praça Jornalista Roberto Corte Real",
+      "horario": ""
+    },
+    {
+      "lat": -23.550416,
+      "lng": -46.689213,
+      "categoria": "parque",
+      "nome": "Praça Professor Haroldo Valladão",
+      "horario": ""
+    },
+    {
+      "lat": -23.553689,
+      "lng": -46.680068,
+      "categoria": "parque",
+      "nome": "Praça José Del Picchia Filho",
+      "horario": ""
+    },
+    {
+      "lat": -23.547844,
+      "lng": -46.683316,
+      "categoria": "parque",
+      "nome": "Praça Clarisse Dias Leite Baptista",
+      "horario": ""
+    },
+    {
+      "lat": -23.547424,
+      "lng": -46.684947,
+      "categoria": "parque",
+      "nome": "Praça Joaquim Duarte Macedo",
+      "horario": ""
+    },
+    {
+      "lat": -23.547092,
+      "lng": -46.684229,
+      "categoria": "parque",
+      "nome": "Praça Lucélia",
+      "horario": ""
+    },
+    {
+      "lat": -23.548264,
+      "lng": -46.683714,
+      "categoria": "parque",
+      "nome": "Praça Mairiporã",
+      "horario": ""
+    },
+    {
+      "lat": -23.556174,
+      "lng": -46.683075,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.551743,
+      "lng": -46.694448,
+      "categoria": "parque",
+      "nome": "Praça Georges Braque",
+      "horario": ""
+    },
+    {
+      "lat": -23.553236,
+      "lng": -46.69088,
+      "categoria": "academia",
+      "nome": "Academia Aquasport",
+      "horario": ""
+    },
+    {
+      "lat": -23.554949,
+      "lng": -46.693116,
+      "categoria": "academia",
+      "nome": "Integra",
+      "horario": ""
+    },
+    {
+      "lat": -23.557654,
+      "lng": -46.691551,
+      "categoria": "academia",
+      "nome": "Oficina de Saúde",
+      "horario": ""
+    },
+    {
+      "lat": -23.56368,
+      "lng": -46.688989,
+      "categoria": "academia",
+      "nome": "Academia Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.546907,
+      "lng": -46.691154,
+      "categoria": "academia",
+      "nome": "Academia Gaviões",
+      "horario": ""
+    },
+    {
+      "lat": -23.56325,
+      "lng": -46.686806,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.555983,
+      "lng": -46.688923,
+      "categoria": "academia",
+      "nome": "Fabrica Escalada",
+      "horario": ""
+    },
+    {
+      "lat": -23.563223,
+      "lng": -46.691982,
+      "categoria": "academia",
+      "nome": "Sou Treino Coletivo",
+      "horario": ""
+    },
+    {
+      "lat": -23.556642,
+      "lng": -46.68479,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.555998,
+      "lng": -46.688981,
+      "categoria": "academia",
+      "nome": "Fabrica Escalada",
+      "horario": ""
+    },
+    {
+      "lat": -23.546496,
+      "lng": -46.691124,
+      "categoria": "metro",
+      "nome": "Vila Madalena",
+      "horario": ""
+    },
+    {
+      "lat": -23.546843,
+      "lng": -46.690784,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.54645,
+      "lng": -46.690468,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.562573,
+      "lng": -46.691846,
+      "categoria": "hospital",
+      "nome": "Prevent Senior Londres - Núcleo de Medicina Avançada e Diagnóstica",
+      "horario": ""
+    }
+  ],
+  "Pinheiros": [
+    {
+      "lat": -23.567343,
+      "lng": -46.700345,
+      "categoria": "cafe",
+      "nome": "Aro 27 - Bike Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.567894,
+      "lng": -46.697734,
+      "categoria": "cafe",
+      "nome": "Cafeteira Sesc Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.56173,
+      "lng": -46.699028,
+      "categoria": "cafe",
+      "nome": "Nina Veloso",
+      "horario": ""
+    },
+    {
+      "lat": -23.562946,
+      "lng": -46.693308,
+      "categoria": "cafe",
+      "nome": "Jorgina Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.56388,
+      "lng": -46.695618,
+      "categoria": "cafe",
+      "nome": "Joe King",
+      "horario": ""
+    },
+    {
+      "lat": -23.565332,
+      "lng": -46.700021,
+      "categoria": "cafe",
+      "nome": "Tio Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.570072,
+      "lng": -46.697643,
+      "categoria": "escola",
+      "nome": "Unicid Curso de Medicina",
+      "horario": ""
+    },
+    {
+      "lat": -23.564912,
+      "lng": -46.697974,
+      "categoria": "escola",
+      "nome": "Colégio Objetivo",
+      "horario": ""
+    },
+    {
+      "lat": -23.568164,
+      "lng": -46.692979,
+      "categoria": "escola",
+      "nome": "Colegio 24 de Março",
+      "horario": ""
+    },
+    {
+      "lat": -23.560317,
+      "lng": -46.695343,
+      "categoria": "escola",
+      "nome": "Colegio Palmares",
+      "horario": ""
+    },
+    {
+      "lat": -23.571783,
+      "lng": -46.693364,
+      "categoria": "escola",
+      "nome": "Saint Nicholas School",
+      "horario": ""
+    },
+    {
+      "lat": -23.564811,
+      "lng": -46.696004,
+      "categoria": "escola",
+      "nome": "Escola Estadual Alfredo Bresser",
+      "horario": ""
+    },
+    {
+      "lat": -23.568469,
+      "lng": -46.708411,
+      "categoria": "petshop",
+      "nome": "Laika",
+      "horario": ""
+    },
+    {
+      "lat": -23.57054,
+      "lng": -46.698433,
+      "categoria": "restaurante",
+      "nome": "Terra Roxa",
+      "horario": ""
+    },
+    {
+      "lat": -23.565164,
+      "lng": -46.700935,
+      "categoria": "restaurante",
+      "nome": "Velmont Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.563165,
+      "lng": -46.693133,
+      "categoria": "restaurante",
+      "nome": "Casa Portuguesa",
+      "horario": "Mo-Sa 11:30-16:00"
+    },
+    {
+      "lat": -23.567892,
+      "lng": -46.697836,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.567676,
+      "lng": -46.695017,
+      "categoria": "restaurante",
+      "nome": "divinos",
+      "horario": ""
+    },
+    {
+      "lat": -23.56814,
+      "lng": -46.694878,
+      "categoria": "restaurante",
+      "nome": "Fitó",
+      "horario": ""
+    },
+    {
+      "lat": -23.566142,
+      "lng": -46.701042,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.570762,
+      "lng": -46.709558,
+      "categoria": "restaurante",
+      "nome": "Terra da garoa",
+      "horario": ""
+    },
+    {
+      "lat": -23.571228,
+      "lng": -46.707144,
+      "categoria": "restaurante",
+      "nome": "Casa do Mestiço",
+      "horario": ""
+    },
+    {
+      "lat": -23.560267,
+      "lng": -46.696147,
+      "categoria": "restaurante",
+      "nome": "NB Steak",
+      "horario": "Mo-Fr 12:00-16:00,18:00-23:30; Sa 12:00-23:30; Su 12:00-22:00"
+    },
+    {
+      "lat": -23.56757,
+      "lng": -46.693939,
+      "categoria": "restaurante",
+      "nome": "Sukiya Faria Lima",
+      "horario": "Mo-Su 11:00-22:40"
+    },
+    {
+      "lat": -23.570307,
+      "lng": -46.697915,
+      "categoria": "restaurante",
+      "nome": "Butantã Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.570361,
+      "lng": -46.698245,
+      "categoria": "restaurante",
+      "nome": "Bar e Restaurante Recando da Terra",
+      "horario": ""
+    },
+    {
+      "lat": -23.567283,
+      "lng": -46.700185,
+      "categoria": "restaurante",
+      "nome": "Restaurante Mercado Natural",
+      "horario": ""
+    },
+    {
+      "lat": -23.567211,
+      "lng": -46.700179,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.566478,
+      "lng": -46.700125,
+      "categoria": "restaurante",
+      "nome": "Eugenio",
+      "horario": ""
+    },
+    {
+      "lat": -23.566302,
+      "lng": -46.700113,
+      "categoria": "restaurante",
+      "nome": "A Muqueca",
+      "horario": ""
+    },
+    {
+      "lat": -23.566531,
+      "lng": -46.694697,
+      "categoria": "restaurante",
+      "nome": "Villa Coqueiro III",
+      "horario": ""
+    },
+    {
+      "lat": -23.566908,
+      "lng": -46.696427,
+      "categoria": "restaurante",
+      "nome": "Trajano Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.56716,
+      "lng": -46.695689,
+      "categoria": "restaurante",
+      "nome": "Lanchonete Confrei",
+      "horario": "Mo-Su 06:00-23:30"
+    },
+    {
+      "lat": -23.570722,
+      "lng": -46.709704,
+      "categoria": "restaurante",
+      "nome": "Vital Bar e Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.564512,
+      "lng": -46.694769,
+      "categoria": "restaurante",
+      "nome": "658 Bar & Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.560426,
+      "lng": -46.698074,
+      "categoria": "restaurante",
+      "nome": "Piu Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.560705,
+      "lng": -46.698138,
+      "categoria": "restaurante",
+      "nome": "Modern Mamma Osteria",
+      "horario": ""
+    },
+    {
+      "lat": -23.562052,
+      "lng": -46.698126,
+      "categoria": "restaurante",
+      "nome": "Kiloliba",
+      "horario": ""
+    },
+    {
+      "lat": -23.562296,
+      "lng": -46.699041,
+      "categoria": "restaurante",
+      "nome": "Yamanashi",
+      "horario": ""
+    },
+    {
+      "lat": -23.5598,
+      "lng": -46.699204,
+      "categoria": "restaurante",
+      "nome": "Pecorino Bae e Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.561876,
+      "lng": -46.696659,
+      "categoria": "restaurante",
+      "nome": "Dô",
+      "horario": ""
+    },
+    {
+      "lat": -23.561362,
+      "lng": -46.697886,
+      "categoria": "restaurante",
+      "nome": "NOU",
+      "horario": "Mo-Fr 12:00-15:00,19:30-24:00; Sa-Su 12:00-24:00"
+    },
+    {
+      "lat": -23.561272,
+      "lng": -46.697729,
+      "categoria": "restaurante",
+      "nome": "Graxa",
+      "horario": ""
+    },
+    {
+      "lat": -23.564706,
+      "lng": -46.699132,
+      "categoria": "restaurante",
+      "nome": "Det's",
+      "horario": ""
+    },
+    {
+      "lat": -23.564902,
+      "lng": -46.699135,
+      "categoria": "restaurante",
+      "nome": "Restaurante Aconchego",
+      "horario": ""
+    },
+    {
+      "lat": -23.560622,
+      "lng": -46.700145,
+      "categoria": "restaurante",
+      "nome": "Republica Gastronômica",
+      "horario": ""
+    },
+    {
+      "lat": -23.561126,
+      "lng": -46.700156,
+      "categoria": "restaurante",
+      "nome": "Restaurante Mercado",
+      "horario": ""
+    },
+    {
+      "lat": -23.561697,
+      "lng": -46.700176,
+      "categoria": "restaurante",
+      "nome": "Dona Maria",
+      "horario": ""
+    },
+    {
+      "lat": -23.570923,
+      "lng": -46.707293,
+      "categoria": "empresa",
+      "nome": "13º Oficial de Registro Civil do Butantã",
+      "horario": ""
+    },
+    {
+      "lat": -23.570806,
+      "lng": -46.698722,
+      "categoria": "empresa",
+      "nome": "VFS Global - Centro de Solicitação de Visto",
+      "horario": ""
+    },
+    {
+      "lat": -23.569725,
+      "lng": -46.697567,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.568313,
+      "lng": -46.697071,
+      "categoria": "empresa",
+      "nome": "Sesc",
+      "horario": ""
+    },
+    {
+      "lat": -23.567715,
+      "lng": -46.697498,
+      "categoria": "empresa",
+      "nome": "INSS",
+      "horario": ""
+    },
+    {
+      "lat": -23.571137,
+      "lng": -46.699464,
+      "categoria": "empresa",
+      "nome": "Opus Software",
+      "horario": ""
+    },
+    {
+      "lat": -23.568751,
+      "lng": -46.698692,
+      "categoria": "empresa",
+      "nome": "MeteoIA",
+      "horario": "Mo-Sa 08:00-19:00"
+    },
+    {
+      "lat": -23.570992,
+      "lng": -46.708965,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.565549,
+      "lng": -46.711137,
+      "categoria": "empresa",
+      "nome": "Engefort",
+      "horario": ""
+    },
+    {
+      "lat": -23.56971,
+      "lng": -46.701272,
+      "categoria": "empresa",
+      "nome": "Lactalis do Brasil",
+      "horario": "Mo-Fr 08:00 18:00"
+    },
+    {
+      "lat": -23.558451,
+      "lng": -46.699802,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.567238,
+      "lng": -46.697618,
+      "categoria": "empresa",
+      "nome": "Quanta Consultoria",
+      "horario": ""
+    },
+    {
+      "lat": -23.567682,
+      "lng": -46.695385,
+      "categoria": "mercado",
+      "nome": "Carrefour Express",
+      "horario": ""
+    },
+    {
+      "lat": -23.56779,
+      "lng": -46.692336,
+      "categoria": "mercado",
+      "nome": "Futurama",
+      "horario": ""
+    },
+    {
+      "lat": -23.567216,
+      "lng": -46.692383,
+      "categoria": "mercado",
+      "nome": "Futurama",
+      "horario": ""
+    },
+    {
+      "lat": -23.571544,
+      "lng": -46.707088,
+      "categoria": "farmacia",
+      "nome": "Center Fórmula",
+      "horario": ""
+    },
+    {
+      "lat": -23.567688,
+      "lng": -46.69546,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.570619,
+      "lng": -46.709935,
+      "categoria": "farmacia",
+      "nome": "Pague Menos",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.566104,
+      "lng": -46.696407,
+      "categoria": "farmacia",
+      "nome": "Farmacia Ubiratan",
+      "horario": ""
+    },
+    {
+      "lat": -23.563959,
+      "lng": -46.698176,
+      "categoria": "farmacia",
+      "nome": "Drogaria e Perfumaria Akyali",
+      "horario": ""
+    },
+    {
+      "lat": -23.571226,
+      "lng": -46.708193,
+      "categoria": "farmacia",
+      "nome": "Drogaria Central do Butantã",
+      "horario": ""
+    },
+    {
+      "lat": -23.561298,
+      "lng": -46.709876,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.56422,
+      "lng": -46.701678,
+      "categoria": "parque",
+      "nome": "Praça Victor Civita",
+      "horario": ""
+    },
+    {
+      "lat": -23.567532,
+      "lng": -46.707855,
+      "categoria": "parque",
+      "nome": "Praça Vicente Rodrigues",
+      "horario": ""
+    },
+    {
+      "lat": -23.558203,
+      "lng": -46.699767,
+      "categoria": "parque",
+      "nome": "Praça Roquete Pinto",
+      "horario": ""
+    },
+    {
+      "lat": -23.572799,
+      "lng": -46.704017,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.574549,
+      "lng": -46.701351,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.572038,
+      "lng": -46.694013,
+      "categoria": "parque",
+      "nome": "Praça Joaquim Roberto",
+      "horario": ""
+    },
+    {
+      "lat": -23.56701,
+      "lng": -46.694678,
+      "categoria": "parque",
+      "nome": "Largo da Batata",
+      "horario": ""
+    },
+    {
+      "lat": -23.567261,
+      "lng": -46.695442,
+      "categoria": "parque",
+      "nome": "Largo dos Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.56624,
+      "lng": -46.693736,
+      "categoria": "parque",
+      "nome": "Largo da Batata",
+      "horario": ""
+    },
+    {
+      "lat": -23.571816,
+      "lng": -46.700012,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.572376,
+      "lng": -46.699589,
+      "categoria": "parque",
+      "nome": "Praça Eugene Boudin",
+      "horario": ""
+    },
+    {
+      "lat": -23.572297,
+      "lng": -46.709244,
+      "categoria": "parque",
+      "nome": "Praça Waldemar Ortiz",
+      "horario": ""
+    },
+    {
+      "lat": -23.559783,
+      "lng": -46.70573,
+      "categoria": "parque",
+      "nome": "Praça Silveira Santos",
+      "horario": ""
+    },
+    {
+      "lat": -23.559704,
+      "lng": -46.70648,
+      "categoria": "parque",
+      "nome": "Praça Silveira Santos",
+      "horario": ""
+    },
+    {
+      "lat": -23.561696,
+      "lng": -46.694444,
+      "categoria": "parque",
+      "nome": "Praça Reverendo João Yasoji Ito",
+      "horario": ""
+    },
+    {
+      "lat": -23.570542,
+      "lng": -46.696323,
+      "categoria": "parque",
+      "nome": "Praça Erik Bryggman",
+      "horario": ""
+    },
+    {
+      "lat": -23.57146,
+      "lng": -46.69961,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.571516,
+      "lng": -46.700519,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.571828,
+      "lng": -46.699491,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.570179,
+      "lng": -46.696454,
+      "categoria": "parque",
+      "nome": "Praça Filippo Brunelleschi",
+      "horario": ""
+    },
+    {
+      "lat": -23.572189,
+      "lng": -46.704338,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.571817,
+      "lng": -46.702902,
+      "categoria": "parque",
+      "nome": "Praça Oliveira Penteado",
+      "horario": ""
+    },
+    {
+      "lat": -23.56935,
+      "lng": -46.708168,
+      "categoria": "parque",
+      "nome": "Praça Monte Castelo",
+      "horario": ""
+    },
+    {
+      "lat": -23.568187,
+      "lng": -46.707835,
+      "categoria": "parque",
+      "nome": "Praça Vicente Rodrigues",
+      "horario": ""
+    },
+    {
+      "lat": -23.572605,
+      "lng": -46.704691,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.572456,
+      "lng": -46.699117,
+      "categoria": "parque",
+      "nome": "Praça Eugene Boudin",
+      "horario": ""
+    },
+    {
+      "lat": -23.575263,
+      "lng": -46.703286,
+      "categoria": "parque",
+      "nome": "Praça Comendador José Henrique de Souza",
+      "horario": ""
+    },
+    {
+      "lat": -23.558008,
+      "lng": -46.700977,
+      "categoria": "parque",
+      "nome": "Praça Doutor Nagib Lotaif",
+      "horario": ""
+    },
+    {
+      "lat": -23.567875,
+      "lng": -46.696812,
+      "categoria": "parque",
+      "nome": "Bosque da Batata",
+      "horario": ""
+    },
+    {
+      "lat": -23.570614,
+      "lng": -46.695778,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.569113,
+      "lng": -46.698825,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.570362,
+      "lng": -46.693116,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.561272,
+      "lng": -46.697779,
+      "categoria": "academia",
+      "nome": "Canto do Corpo",
+      "horario": ""
+    },
+    {
+      "lat": -23.561757,
+      "lng": -46.69925,
+      "categoria": "academia",
+      "nome": "Lu Couto",
+      "horario": ""
+    },
+    {
+      "lat": -23.567262,
+      "lng": -46.694109,
+      "categoria": "metro",
+      "nome": "Faria Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.566899,
+      "lng": -46.693449,
+      "categoria": "metro",
+      "nome": "Faria Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.571152,
+      "lng": -46.707927,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571549,
+      "lng": -46.708025,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571801,
+      "lng": -46.708029,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571549,
+      "lng": -46.708295,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571794,
+      "lng": -46.708393,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.567249,
+      "lng": -46.701951,
+      "categoria": "metro",
+      "nome": "Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.571194,
+      "lng": -46.707923,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.567255,
+      "lng": -46.693959,
+      "categoria": "metro",
+      "nome": "Faria Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.5719,
+      "lng": -46.70809,
+      "categoria": "metro",
+      "nome": "Butantã",
+      "horario": ""
+    }
+  ],
+  "Perdizes": [
+    {
+      "lat": -23.535673,
+      "lng": -46.670408,
+      "categoria": "padaria",
+      "nome": "Nova Charmosa",
+      "horario": ""
+    },
+    {
+      "lat": -23.534198,
+      "lng": -46.67259,
+      "categoria": "cafe",
+      "nome": "Tânia's Cafe",
+      "horario": ""
+    },
+    {
+      "lat": -23.535269,
+      "lng": -46.678609,
+      "categoria": "cafe",
+      "nome": "Bistro Cafe Lavie",
+      "horario": ""
+    },
+    {
+      "lat": -23.541342,
+      "lng": -46.67065,
+      "categoria": "cafe",
+      "nome": "Ofner",
+      "horario": "Mo-Su 07:00-22:00"
+    },
+    {
+      "lat": -23.532883,
+      "lng": -46.680869,
+      "categoria": "escola",
+      "nome": "Escola de Yoga",
+      "horario": ""
+    },
+    {
+      "lat": -23.543929,
+      "lng": -46.681613,
+      "categoria": "escola",
+      "nome": "Aquarela",
+      "horario": ""
+    },
+    {
+      "lat": -23.530687,
+      "lng": -46.679911,
+      "categoria": "escola",
+      "nome": "Escola Municipal de Ensino Infantil Santos Dumont",
+      "horario": ""
+    },
+    {
+      "lat": -23.536842,
+      "lng": -46.684269,
+      "categoria": "escola",
+      "nome": "Escola Estadual José Cândido de Souza",
+      "horario": ""
+    },
+    {
+      "lat": -23.541215,
+      "lng": -46.669675,
+      "categoria": "escola",
+      "nome": "Colégio Pentagono",
+      "horario": ""
+    },
+    {
+      "lat": -23.530329,
+      "lng": -46.680431,
+      "categoria": "escola",
+      "nome": "Escola Estadual Miss Browe",
+      "horario": ""
+    },
+    {
+      "lat": -23.534564,
+      "lng": -46.684634,
+      "categoria": "escola",
+      "nome": "Colégio Sagrado Coração de Jesus",
+      "horario": ""
+    },
+    {
+      "lat": -23.535217,
+      "lng": -46.684145,
+      "categoria": "escola",
+      "nome": "Escola Perdizes Agnus Dei",
+      "horario": ""
+    },
+    {
+      "lat": -23.538062,
+      "lng": -46.676919,
+      "categoria": "escola",
+      "nome": "Gara School",
+      "horario": ""
+    },
+    {
+      "lat": -23.537556,
+      "lng": -46.667575,
+      "categoria": "petshop",
+      "nome": "Casarão do pet",
+      "horario": ""
+    },
+    {
+      "lat": -23.531473,
+      "lng": -46.677408,
+      "categoria": "veterinario",
+      "nome": "Veterinária Perdizes",
+      "horario": ""
+    },
+    {
+      "lat": -23.541998,
+      "lng": -46.681834,
+      "categoria": "veterinario",
+      "nome": "Clinicat",
+      "horario": ""
+    },
+    {
+      "lat": -23.537313,
+      "lng": -46.684349,
+      "categoria": "restaurante",
+      "nome": "choperia siri bar",
+      "horario": ""
+    },
+    {
+      "lat": -23.533119,
+      "lng": -46.677352,
+      "categoria": "restaurante",
+      "nome": "Nahamalho",
+      "horario": "Mo-We 12:00-15:00,19:00-23:00; Th,Fr 12:00-15:00,19:00-24:00; Sa 09:00-16:00,19:00-24:00"
+    },
+    {
+      "lat": -23.533918,
+      "lng": -46.67295,
+      "categoria": "restaurante",
+      "nome": "Olivo Espetu's bar",
+      "horario": ""
+    },
+    {
+      "lat": -23.536784,
+      "lng": -46.668737,
+      "categoria": "restaurante",
+      "nome": "Sushibol",
+      "horario": ""
+    },
+    {
+      "lat": -23.542285,
+      "lng": -46.671623,
+      "categoria": "restaurante",
+      "nome": "Hobby Hamburger",
+      "horario": ""
+    },
+    {
+      "lat": -23.53683,
+      "lng": -46.685749,
+      "categoria": "restaurante",
+      "nome": "Kafegala (FECHADO)",
+      "horario": ""
+    },
+    {
+      "lat": -23.542695,
+      "lng": -46.682459,
+      "categoria": "restaurante",
+      "nome": "Matsuya",
+      "horario": ""
+    },
+    {
+      "lat": -23.530171,
+      "lng": -46.675106,
+      "categoria": "restaurante",
+      "nome": "Duo Trattoria & Pizzeria",
+      "horario": ""
+    },
+    {
+      "lat": -23.53168,
+      "lng": -46.673752,
+      "categoria": "restaurante",
+      "nome": "Lanchonete Palheta",
+      "horario": ""
+    },
+    {
+      "lat": -23.531509,
+      "lng": -46.681699,
+      "categoria": "restaurante",
+      "nome": "Jardim Secreto Bistrô",
+      "horario": ""
+    },
+    {
+      "lat": -23.539409,
+      "lng": -46.684239,
+      "categoria": "restaurante",
+      "nome": "Tiquim",
+      "horario": ""
+    },
+    {
+      "lat": -23.536928,
+      "lng": -46.679883,
+      "categoria": "restaurante",
+      "nome": "Khadije Comida Árabe",
+      "horario": ""
+    },
+    {
+      "lat": -23.542104,
+      "lng": -46.681686,
+      "categoria": "restaurante",
+      "nome": "Congolinária",
+      "horario": "12:00-15:00,19:00-22:00; Sa 12:00-22:00; Su 12:00-15:30; Mo-Tu off"
+    },
+    {
+      "lat": -23.536768,
+      "lng": -46.672925,
+      "categoria": "restaurante",
+      "nome": "Casa RAW",
+      "horario": "12:00-15:30; Sa 12:00-16:00; Su 12:00-16:30; Mo off"
+    },
+    {
+      "lat": -23.530196,
+      "lng": -46.672375,
+      "categoria": "restaurante",
+      "nome": "Urbã",
+      "horario": "Mo-Fr 12:00-15:00; Sa-Su 12:00-16:00"
+    },
+    {
+      "lat": -23.539425,
+      "lng": -46.68318,
+      "categoria": "restaurante",
+      "nome": "Chimi Churri",
+      "horario": ""
+    },
+    {
+      "lat": -23.533633,
+      "lng": -46.675972,
+      "categoria": "restaurante",
+      "nome": "Milan Pizza",
+      "horario": ""
+    },
+    {
+      "lat": -23.542266,
+      "lng": -46.671959,
+      "categoria": "restaurante",
+      "nome": "DiBaco Perdizes",
+      "horario": ""
+    },
+    {
+      "lat": -23.537523,
+      "lng": -46.671805,
+      "categoria": "restaurante",
+      "nome": "Tradição Lanchonete",
+      "horario": ""
+    },
+    {
+      "lat": -23.540926,
+      "lng": -46.682274,
+      "categoria": "restaurante",
+      "nome": "Conquistas das Perdizes",
+      "horario": ""
+    },
+    {
+      "lat": -23.5398,
+      "lng": -46.681274,
+      "categoria": "restaurante",
+      "nome": "Delícia de Perdizes",
+      "horario": ""
+    },
+    {
+      "lat": -23.537529,
+      "lng": -46.668134,
+      "categoria": "restaurante",
+      "nome": "Arabesco",
+      "horario": ""
+    },
+    {
+      "lat": -23.536576,
+      "lng": -46.66909,
+      "categoria": "restaurante",
+      "nome": "San remo",
+      "horario": ""
+    },
+    {
+      "lat": -23.537597,
+      "lng": -46.67459,
+      "categoria": "restaurante",
+      "nome": "Macaxeira",
+      "horario": ""
+    },
+    {
+      "lat": -23.533407,
+      "lng": -46.674216,
+      "categoria": "empresa",
+      "nome": "Curso Sapientia",
+      "horario": ""
+    },
+    {
+      "lat": -23.536782,
+      "lng": -46.685346,
+      "categoria": "empresa",
+      "nome": "Apólix Corretora de Seguros Ltda.",
+      "horario": ""
+    },
+    {
+      "lat": -23.54034,
+      "lng": -46.6825,
+      "categoria": "empresa",
+      "nome": "Iokoi",
+      "horario": ""
+    },
+    {
+      "lat": -23.532051,
+      "lng": -46.673174,
+      "categoria": "empresa",
+      "nome": "Leal",
+      "horario": ""
+    },
+    {
+      "lat": -23.537224,
+      "lng": -46.678256,
+      "categoria": "mercado",
+      "nome": "Pão de Açúcar",
+      "horario": ""
+    },
+    {
+      "lat": -23.541462,
+      "lng": -46.67118,
+      "categoria": "mercado",
+      "nome": "Minuto Pão de Açúcar Perdizes",
+      "horario": "Mo-Sa 07:00-22:00; Su 08:00-20:00"
+    },
+    {
+      "lat": -23.539293,
+      "lng": -46.675246,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.536389,
+      "lng": -46.669294,
+      "categoria": "farmacia",
+      "nome": "Panvel",
+      "horario": ""
+    },
+    {
+      "lat": -23.54095,
+      "lng": -46.682483,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "Mo-Su 07:00-23:00"
+    },
+    {
+      "lat": -23.530654,
+      "lng": -46.682637,
+      "categoria": "farmacia",
+      "nome": "Farmacia&cia",
+      "horario": ""
+    },
+    {
+      "lat": -23.533135,
+      "lng": -46.669061,
+      "categoria": "farmacia",
+      "nome": "Turiassú",
+      "horario": ""
+    },
+    {
+      "lat": -23.537557,
+      "lng": -46.668164,
+      "categoria": "farmacia",
+      "nome": "Farma e cia",
+      "horario": ""
+    },
+    {
+      "lat": -23.54413,
+      "lng": -46.682508,
+      "categoria": "parque",
+      "nome": "Parque Sabesp",
+      "horario": ""
+    },
+    {
+      "lat": -23.546468,
+      "lng": -46.680531,
+      "categoria": "parque",
+      "nome": "Praça Rubens do Amaral",
+      "horario": ""
+    },
+    {
+      "lat": -23.544007,
+      "lng": -46.680142,
+      "categoria": "parque",
+      "nome": "Praça Abelardo Rocas",
+      "horario": ""
+    },
+    {
+      "lat": -23.530505,
+      "lng": -46.669693,
+      "categoria": "parque",
+      "nome": "Parque da Água Branca",
+      "horario": "Mo-Su 06:00-20:00"
+    },
+    {
+      "lat": -23.529811,
+      "lng": -46.677341,
+      "categoria": "parque",
+      "nome": "Praça Marrey Júnior",
+      "horario": ""
+    },
+    {
+      "lat": -23.541545,
+      "lng": -46.677588,
+      "categoria": "parque",
+      "nome": "Praça Irmãos Karmam",
+      "horario": ""
+    },
+    {
+      "lat": -23.54306,
+      "lng": -46.675148,
+      "categoria": "parque",
+      "nome": "Praça Terra do Sol",
+      "horario": ""
+    },
+    {
+      "lat": -23.546307,
+      "lng": -46.676199,
+      "categoria": "parque",
+      "nome": "Praça Ricardo Ramos",
+      "horario": ""
+    },
+    {
+      "lat": -23.545397,
+      "lng": -46.678808,
+      "categoria": "parque",
+      "nome": "Praça Joanna Henrique Ramon",
+      "horario": ""
+    },
+    {
+      "lat": -23.543557,
+      "lng": -46.677579,
+      "categoria": "parque",
+      "nome": "Praça Myrian de Barros Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.539031,
+      "lng": -46.677919,
+      "categoria": "parque",
+      "nome": "Praça Professor Lauro Travassos",
+      "horario": ""
+    },
+    {
+      "lat": -23.53823,
+      "lng": -46.674282,
+      "categoria": "parque",
+      "nome": "Praça Jorn Carlos Catello Branco",
+      "horario": ""
+    },
+    {
+      "lat": -23.540961,
+      "lng": -46.682514,
+      "categoria": "parque",
+      "nome": "Praça TV Tupi",
+      "horario": ""
+    },
+    {
+      "lat": -23.541653,
+      "lng": -46.676644,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.542378,
+      "lng": -46.672847,
+      "categoria": "parque",
+      "nome": "Praça Ciríaco Grisanti",
+      "horario": ""
+    },
+    {
+      "lat": -23.542157,
+      "lng": -46.669466,
+      "categoria": "parque",
+      "nome": "Praça Tadeusz Kosciuszko",
+      "horario": ""
+    },
+    {
+      "lat": -23.543183,
+      "lng": -46.66938,
+      "categoria": "parque",
+      "nome": "Praça Dom Carlos I de Portugal",
+      "horario": ""
+    },
+    {
+      "lat": -23.542315,
+      "lng": -46.668469,
+      "categoria": "parque",
+      "nome": "Praça Sílvio de Almeida",
+      "horario": ""
+    },
+    {
+      "lat": -23.534088,
+      "lng": -46.668708,
+      "categoria": "parque",
+      "nome": "Praça Victor Horta",
+      "horario": ""
+    },
+    {
+      "lat": -23.539414,
+      "lng": -46.668127,
+      "categoria": "parque",
+      "nome": "Praça Guimarães Moreira",
+      "horario": ""
+    },
+    {
+      "lat": -23.536031,
+      "lng": -46.674441,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.546172,
+      "lng": -46.673658,
+      "categoria": "parque",
+      "nome": "Praça Moraes Sarmento",
+      "horario": ""
+    },
+    {
+      "lat": -23.54366,
+      "lng": -46.677154,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.545369,
+      "lng": -46.672993,
+      "categoria": "parque",
+      "nome": "Praça Dr. João Freire de Mattos Guaryannas",
+      "horario": ""
+    },
+    {
+      "lat": -23.539584,
+      "lng": -46.681605,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.535294,
+      "lng": -46.670884,
+      "categoria": "academia",
+      "nome": "Full time Academia de Ginástica",
+      "horario": ""
+    },
+    {
+      "lat": -23.541302,
+      "lng": -46.679249,
+      "categoria": "academia",
+      "nome": "Sumaré Sport",
+      "horario": ""
+    },
+    {
+      "lat": -23.53709,
+      "lng": -46.684849,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.536355,
+      "lng": -46.683634,
+      "categoria": "academia",
+      "nome": "Humanfit",
+      "horario": ""
+    },
+    {
+      "lat": -23.532592,
+      "lng": -46.6774,
+      "categoria": "hospital",
+      "nome": "Pronto Socorro Itamaraty Perdizes",
+      "horario": "Mo-Th 08:00-19:00; Fr 08:00-18:00"
+    }
+  ],
+  "Moema": [
+    {
+      "lat": -23.604397,
+      "lng": -46.659051,
+      "categoria": "cafe",
+      "nome": "Fran's Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.606665,
+      "lng": -46.670695,
+      "categoria": "cafe",
+      "nome": "Gold Stone",
+      "horario": ""
+    },
+    {
+      "lat": -23.60036,
+      "lng": -46.666016,
+      "categoria": "cafe",
+      "nome": "Cheesecakeria",
+      "horario": ""
+    },
+    {
+      "lat": -23.605515,
+      "lng": -46.66929,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.602522,
+      "lng": -46.664767,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": "Mo-Su 06:30-21:00"
+    },
+    {
+      "lat": -23.606672,
+      "lng": -46.664812,
+      "categoria": "cafe",
+      "nome": "McCafé",
+      "horario": ""
+    },
+    {
+      "lat": -23.5948,
+      "lng": -46.671887,
+      "categoria": "cafe",
+      "nome": "Le Pain Quotidien",
+      "horario": "Mo-Su 07:00-22:00"
+    },
+    {
+      "lat": -23.604228,
+      "lng": -46.671378,
+      "categoria": "escola",
+      "nome": "HappyCode",
+      "horario": ""
+    },
+    {
+      "lat": -23.601476,
+      "lng": -46.65785,
+      "categoria": "escola",
+      "nome": "Escola Estadual Cesar Martinez",
+      "horario": ""
+    },
+    {
+      "lat": -23.601809,
+      "lng": -46.658165,
+      "categoria": "escola",
+      "nome": "EMEI Dona Anita Costa",
+      "horario": ""
+    },
+    {
+      "lat": -23.608062,
+      "lng": -46.660774,
+      "categoria": "escola",
+      "nome": "Colégio Internacional Ítalo Brasileiro",
+      "horario": ""
+    },
+    {
+      "lat": -23.595703,
+      "lng": -46.671851,
+      "categoria": "escola",
+      "nome": "Compa Colégio de Maria",
+      "horario": ""
+    },
+    {
+      "lat": -23.598215,
+      "lng": -46.67254,
+      "categoria": "petshop",
+      "nome": "MOM Cães e Gatos",
+      "horario": "Mo-Sa 09:00-20:00"
+    },
+    {
+      "lat": -23.604205,
+      "lng": -46.666224,
+      "categoria": "restaurante",
+      "nome": "Los 3 Amigos",
+      "horario": "Tu-Su 18:00-01:00"
+    },
+    {
+      "lat": -23.604066,
+      "lng": -46.659384,
+      "categoria": "restaurante",
+      "nome": "Consulado de Moema",
+      "horario": ""
+    },
+    {
+      "lat": -23.604601,
+      "lng": -46.658697,
+      "categoria": "restaurante",
+      "nome": "La Cabaña",
+      "horario": ""
+    },
+    {
+      "lat": -23.604679,
+      "lng": -46.658772,
+      "categoria": "restaurante",
+      "nome": "Os Gaúchos",
+      "horario": ""
+    },
+    {
+      "lat": -23.604715,
+      "lng": -46.658493,
+      "categoria": "restaurante",
+      "nome": "Vitória Régia",
+      "horario": ""
+    },
+    {
+      "lat": -23.606212,
+      "lng": -46.658417,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.606989,
+      "lng": -46.659165,
+      "categoria": "restaurante",
+      "nome": "DIB",
+      "horario": ""
+    },
+    {
+      "lat": -23.601515,
+      "lng": -46.667334,
+      "categoria": "restaurante",
+      "nome": "Kanji Sushi Lounge",
+      "horario": ""
+    },
+    {
+      "lat": -23.597775,
+      "lng": -46.665427,
+      "categoria": "restaurante",
+      "nome": "Pé no Parque",
+      "horario": ""
+    },
+    {
+      "lat": -23.608354,
+      "lng": -46.669257,
+      "categoria": "restaurante",
+      "nome": "Véu de Seda",
+      "horario": ""
+    },
+    {
+      "lat": -23.596448,
+      "lng": -46.668439,
+      "categoria": "restaurante",
+      "nome": "La Quottidiana Trattoria",
+      "horario": ""
+    },
+    {
+      "lat": -23.597261,
+      "lng": -46.668017,
+      "categoria": "restaurante",
+      "nome": "Empório Frutaria",
+      "horario": "Mo-Su 10:00-24:00"
+    },
+    {
+      "lat": -23.595681,
+      "lng": -46.667407,
+      "categoria": "restaurante",
+      "nome": "Yoi rolls & temaki",
+      "horario": ""
+    },
+    {
+      "lat": -23.595162,
+      "lng": -46.666272,
+      "categoria": "restaurante",
+      "nome": "Attimo",
+      "horario": ""
+    },
+    {
+      "lat": -23.6004,
+      "lng": -46.666055,
+      "categoria": "restaurante",
+      "nome": "La Vera Pasta",
+      "horario": ""
+    },
+    {
+      "lat": -23.603266,
+      "lng": -46.667473,
+      "categoria": "restaurante",
+      "nome": "VPI Pizza",
+      "horario": ""
+    },
+    {
+      "lat": -23.601547,
+      "lng": -46.665874,
+      "categoria": "restaurante",
+      "nome": "Adesso Pizza",
+      "horario": ""
+    },
+    {
+      "lat": -23.601512,
+      "lng": -46.665575,
+      "categoria": "restaurante",
+      "nome": "Giardino",
+      "horario": ""
+    },
+    {
+      "lat": -23.602621,
+      "lng": -46.662893,
+      "categoria": "restaurante",
+      "nome": "Stop Dog",
+      "horario": "Mo-Th 11:00-01:00, Fr,Sa 11:00-03:00"
+    },
+    {
+      "lat": -23.601024,
+      "lng": -46.668349,
+      "categoria": "restaurante",
+      "nome": "Hitô",
+      "horario": ""
+    },
+    {
+      "lat": -23.607235,
+      "lng": -46.659326,
+      "categoria": "restaurante",
+      "nome": "Hidden 2nd Floor",
+      "horario": ""
+    },
+    {
+      "lat": -23.600208,
+      "lng": -46.669038,
+      "categoria": "restaurante",
+      "nome": "Museo Verónica",
+      "horario": ""
+    },
+    {
+      "lat": -23.607921,
+      "lng": -46.66605,
+      "categoria": "restaurante",
+      "nome": "Casa do Don",
+      "horario": ""
+    },
+    {
+      "lat": -23.601824,
+      "lng": -46.669015,
+      "categoria": "restaurante",
+      "nome": "Mendoza Parrilla e Bar",
+      "horario": ""
+    },
+    {
+      "lat": -23.599481,
+      "lng": -46.668314,
+      "categoria": "restaurante",
+      "nome": "Quintal Verde",
+      "horario": ""
+    },
+    {
+      "lat": -23.601557,
+      "lng": -46.668868,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": "Mo-Fr 12:00-21:15; Sa 11:30-17:00"
+    },
+    {
+      "lat": -23.605685,
+      "lng": -46.663973,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.602002,
+      "lng": -46.666722,
+      "categoria": "restaurante",
+      "nome": "Parrillada Fuego Celeste - Unidade Morma",
+      "horario": ""
+    },
+    {
+      "lat": -23.60844,
+      "lng": -46.666346,
+      "categoria": "empresa",
+      "nome": "ABES Associação Brasileira de Empresas de Sofware",
+      "horario": ""
+    },
+    {
+      "lat": -23.595294,
+      "lng": -46.668505,
+      "categoria": "mercado",
+      "nome": "Pão de Açúcar",
+      "horario": "Mo-Su 08:00-22:00"
+    },
+    {
+      "lat": -23.606548,
+      "lng": -46.66887,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.599653,
+      "lng": -46.665558,
+      "categoria": "mercado",
+      "nome": "Mambo",
+      "horario": ""
+    },
+    {
+      "lat": -23.605753,
+      "lng": -46.669427,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "Mo-Su 08:00-24:00"
+    },
+    {
+      "lat": -23.595142,
+      "lng": -46.669685,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.597085,
+      "lng": -46.656385,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.599792,
+      "lng": -46.668288,
+      "categoria": "farmacia",
+      "nome": "Drogaria Sao Paulo",
+      "horario": "00:00 - 23:59"
+    },
+    {
+      "lat": -23.598076,
+      "lng": -46.674474,
+      "categoria": "parque",
+      "nome": "Praça Edgard Hermelino Leite",
+      "horario": ""
+    },
+    {
+      "lat": -23.595762,
+      "lng": -46.658387,
+      "categoria": "parque",
+      "nome": "Praça Desembargador Doutor Humberto de Andrade Junqueira",
+      "horario": ""
+    },
+    {
+      "lat": -23.597243,
+      "lng": -46.659614,
+      "categoria": "parque",
+      "nome": "Largo do Infante",
+      "horario": ""
+    },
+    {
+      "lat": -23.587712,
+      "lng": -46.658189,
+      "categoria": "parque",
+      "nome": "Parque Ibirapuera",
+      "horario": "05:00-24:00"
+    },
+    {
+      "lat": -23.596848,
+      "lng": -46.658966,
+      "categoria": "parque",
+      "nome": "Praça Caetano Manzi Sobrinho",
+      "horario": ""
+    },
+    {
+      "lat": -23.594016,
+      "lng": -46.665377,
+      "categoria": "parque",
+      "nome": "Praça Cidade de Milão",
+      "horario": ""
+    },
+    {
+      "lat": -23.597638,
+      "lng": -46.665092,
+      "categoria": "parque",
+      "nome": "Praça João do Pulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.595852,
+      "lng": -46.662896,
+      "categoria": "parque",
+      "nome": "Praça Menotti Del Picchia",
+      "horario": ""
+    },
+    {
+      "lat": -23.595657,
+      "lng": -46.664579,
+      "categoria": "parque",
+      "nome": "Praça Professor Jairo de Almeida Ramos",
+      "horario": ""
+    },
+    {
+      "lat": -23.596258,
+      "lng": -46.661718,
+      "categoria": "parque",
+      "nome": "Praça Professor Vicente Rao",
+      "horario": ""
+    },
+    {
+      "lat": -23.596614,
+      "lng": -46.660917,
+      "categoria": "parque",
+      "nome": "Praça Ronald Golias",
+      "horario": ""
+    },
+    {
+      "lat": -23.593274,
+      "lng": -46.669279,
+      "categoria": "parque",
+      "nome": "Praça Pereira Coutinho",
+      "horario": ""
+    },
+    {
+      "lat": -23.603287,
+      "lng": -46.66103,
+      "categoria": "parque",
+      "nome": "Praça Nossa Senhora Aparecida",
+      "horario": ""
+    },
+    {
+      "lat": -23.603788,
+      "lng": -46.662721,
+      "categoria": "parque",
+      "nome": "Praça do Pombo",
+      "horario": ""
+    },
+    {
+      "lat": -23.604082,
+      "lng": -46.667907,
+      "categoria": "parque",
+      "nome": "Praça Doutor Mário Pontes Alves",
+      "horario": ""
+    },
+    {
+      "lat": -23.603752,
+      "lng": -46.668174,
+      "categoria": "parque",
+      "nome": "Praça João Alves Meira",
+      "horario": ""
+    },
+    {
+      "lat": -23.596086,
+      "lng": -46.663489,
+      "categoria": "parque",
+      "nome": "Praça Renato Ynama",
+      "horario": ""
+    },
+    {
+      "lat": -23.5964,
+      "lng": -46.657224,
+      "categoria": "parque",
+      "nome": "Praça Desembargador Doutor Humberto de Andrade Junqueira",
+      "horario": ""
+    },
+    {
+      "lat": -23.598394,
+      "lng": -46.672985,
+      "categoria": "parque",
+      "nome": "Praça Luis Eulalio de Bueno Vidigal",
+      "horario": ""
+    },
+    {
+      "lat": -23.604042,
+      "lng": -46.662959,
+      "categoria": "parque",
+      "nome": "Praça do Pombo",
+      "horario": ""
+    },
+    {
+      "lat": -23.605145,
+      "lng": -46.661745,
+      "categoria": "parque",
+      "nome": "Parque da Escultura",
+      "horario": ""
+    },
+    {
+      "lat": -23.601132,
+      "lng": -46.66547,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.606809,
+      "lng": -46.669084,
+      "categoria": "academia",
+      "nome": "Kvra Gym",
+      "horario": ""
+    },
+    {
+      "lat": -23.60686,
+      "lng": -46.669828,
+      "categoria": "academia",
+      "nome": "Smartfit Bem-te-vi",
+      "horario": "Mo-Fr 05:00-23:00; Sa 08:00-17:00; Su 08:00-14:00"
+    },
+    {
+      "lat": -23.606651,
+      "lng": -46.671052,
+      "categoria": "academia",
+      "nome": "Moema Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.605416,
+      "lng": -46.669904,
+      "categoria": "academia",
+      "nome": "Action 360",
+      "horario": ""
+    },
+    {
+      "lat": -23.603991,
+      "lng": -46.664256,
+      "categoria": "academia",
+      "nome": "Selfit",
+      "horario": ""
+    },
+    {
+      "lat": -23.609399,
+      "lng": -46.665887,
+      "categoria": "academia",
+      "nome": "Iheathy",
+      "horario": ""
+    },
+    {
+      "lat": -23.601077,
+      "lng": -46.669558,
+      "categoria": "academia",
+      "nome": "Aura Pilates",
+      "horario": ""
+    },
+    {
+      "lat": -23.603136,
+      "lng": -46.662317,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.603524,
+      "lng": -46.661799,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.60144,
+      "lng": -46.661251,
+      "categoria": "hospital",
+      "nome": "Hospital Alvorada Moema",
+      "horario": ""
+    }
+  ],
+  "Itaim Bibi": [
+    {
+      "lat": -23.581769,
+      "lng": -46.674276,
+      "categoria": "padaria",
+      "nome": "Padaria Lareira",
+      "horario": ""
+    },
+    {
+      "lat": -23.586074,
+      "lng": -46.686247,
+      "categoria": "padaria",
+      "nome": "Padaria St. Ettiene",
+      "horario": ""
+    },
+    {
+      "lat": -23.58308,
+      "lng": -46.681393,
+      "categoria": "cafe",
+      "nome": "Le Pain Quotidien",
+      "horario": ""
+    },
+    {
+      "lat": -23.582421,
+      "lng": -46.676517,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.582749,
+      "lng": -46.684112,
+      "categoria": "cafe",
+      "nome": "Octavio",
+      "horario": ""
+    },
+    {
+      "lat": -23.584063,
+      "lng": -46.675355,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.584044,
+      "lng": -46.675294,
+      "categoria": "cafe",
+      "nome": "Vanilla Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.583991,
+      "lng": -46.675125,
+      "categoria": "cafe",
+      "nome": "Casa do Pão de Queijo",
+      "horario": ""
+    },
+    {
+      "lat": -23.5834,
+      "lng": -46.676095,
+      "categoria": "cafe",
+      "nome": "La Guapa",
+      "horario": ""
+    },
+    {
+      "lat": -23.583803,
+      "lng": -46.671988,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": "Mo-Su 05:30-00:00"
+    },
+    {
+      "lat": -23.589863,
+      "lng": -46.673247,
+      "categoria": "cafe",
+      "nome": "Café e restaurante",
+      "horario": "Mo-Fr 07:00-16:00"
+    },
+    {
+      "lat": -23.583463,
+      "lng": -46.683437,
+      "categoria": "cafe",
+      "nome": "Casa do Pão de Queijo",
+      "horario": ""
+    },
+    {
+      "lat": -23.581385,
+      "lng": -46.680707,
+      "categoria": "cafe",
+      "nome": "Santo Grão Itaim",
+      "horario": ""
+    },
+    {
+      "lat": -23.586999,
+      "lng": -46.679512,
+      "categoria": "cafe",
+      "nome": "Kopenhagen",
+      "horario": ""
+    },
+    {
+      "lat": -23.581139,
+      "lng": -46.684086,
+      "categoria": "cafe",
+      "nome": "Encontro paulistano",
+      "horario": ""
+    },
+    {
+      "lat": -23.592064,
+      "lng": -46.680257,
+      "categoria": "cafe",
+      "nome": "Ça-va Café",
+      "horario": "Mo-Sa 07:00-19:00; Su 08:00-17:00"
+    },
+    {
+      "lat": -23.58185,
+      "lng": -46.672636,
+      "categoria": "escola",
+      "nome": "Escola Estadual Ludovina Credidio Peixoto",
+      "horario": ""
+    },
+    {
+      "lat": -23.578885,
+      "lng": -46.682355,
+      "categoria": "escola",
+      "nome": "Let's Code",
+      "horario": ""
+    },
+    {
+      "lat": -23.589001,
+      "lng": -46.674904,
+      "categoria": "escola",
+      "nome": "Colegio Domus Sapientiae",
+      "horario": ""
+    },
+    {
+      "lat": -23.582989,
+      "lng": -46.673219,
+      "categoria": "escola",
+      "nome": "Escola Nossa Senhora das Graças",
+      "horario": ""
+    },
+    {
+      "lat": -23.592477,
+      "lng": -46.670905,
+      "categoria": "escola",
+      "nome": "E.E Martin Francisco",
+      "horario": ""
+    },
+    {
+      "lat": -23.579269,
+      "lng": -46.678802,
+      "categoria": "escola",
+      "nome": "Colégio Sagrado Coração de Maria",
+      "horario": ""
+    },
+    {
+      "lat": -23.585702,
+      "lng": -46.670172,
+      "categoria": "escola",
+      "nome": "Escola Lourenço Castanho - Unidade JK",
+      "horario": ""
+    },
+    {
+      "lat": -23.580866,
+      "lng": -46.685235,
+      "categoria": "veterinario",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.593798,
+      "lng": -46.677813,
+      "categoria": "restaurante",
+      "nome": "Pobre Juan",
+      "horario": ""
+    },
+    {
+      "lat": -23.582338,
+      "lng": -46.680428,
+      "categoria": "restaurante",
+      "nome": "Serafina",
+      "horario": ""
+    },
+    {
+      "lat": -23.582617,
+      "lng": -46.681262,
+      "categoria": "restaurante",
+      "nome": "Carcamano",
+      "horario": ""
+    },
+    {
+      "lat": -23.585087,
+      "lng": -46.679812,
+      "categoria": "restaurante",
+      "nome": "Kanpei",
+      "horario": ""
+    },
+    {
+      "lat": -23.587436,
+      "lng": -46.681816,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.588027,
+      "lng": -46.684023,
+      "categoria": "restaurante",
+      "nome": "Manish Culinária Árabe",
+      "horario": ""
+    },
+    {
+      "lat": -23.582372,
+      "lng": -46.676168,
+      "categoria": "restaurante",
+      "nome": "Frutaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.592686,
+      "lng": -46.681569,
+      "categoria": "restaurante",
+      "nome": "Allegrini",
+      "horario": ""
+    },
+    {
+      "lat": -23.587032,
+      "lng": -46.679543,
+      "categoria": "restaurante",
+      "nome": "Jamie's Italian",
+      "horario": "Su 12:00-22:30; Mo,Tu 12:00-23:00; We,Th 12:00-00:00; Fr,Sa 12:00-00:30"
+    },
+    {
+      "lat": -23.583393,
+      "lng": -46.681454,
+      "categoria": "restaurante",
+      "nome": "Davvero Gelato Tradizionale",
+      "horario": "Mo-Su 11:30-22:00"
+    },
+    {
+      "lat": -23.581209,
+      "lng": -46.679845,
+      "categoria": "restaurante",
+      "nome": "Due Cuochi Cucina",
+      "horario": ""
+    },
+    {
+      "lat": -23.588706,
+      "lng": -46.675571,
+      "categoria": "restaurante",
+      "nome": "Camarões",
+      "horario": ""
+    },
+    {
+      "lat": -23.584259,
+      "lng": -46.675531,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.583355,
+      "lng": -46.673895,
+      "categoria": "restaurante",
+      "nome": "Pomodori Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.580825,
+      "lng": -46.679219,
+      "categoria": "restaurante",
+      "nome": "Nino Cucina",
+      "horario": ""
+    },
+    {
+      "lat": -23.579181,
+      "lng": -46.67498,
+      "categoria": "restaurante",
+      "nome": "Barbacoa",
+      "horario": "Mo-Su 09:00-18:00"
+    },
+    {
+      "lat": -23.585006,
+      "lng": -46.685336,
+      "categoria": "restaurante",
+      "nome": "Loup Restaurante",
+      "horario": "Mo-Fr 12:00-15:00;Mo-Sa 19:00-01:00;Sa 12:00-17:30"
+    },
+    {
+      "lat": -23.582764,
+      "lng": -46.674128,
+      "categoria": "restaurante",
+      "nome": "Boteco Sabor do Itaim",
+      "horario": "06:00-22:00"
+    },
+    {
+      "lat": -23.586637,
+      "lng": -46.675164,
+      "categoria": "restaurante",
+      "nome": "Taberna da esquina",
+      "horario": ""
+    },
+    {
+      "lat": -23.582113,
+      "lng": -46.675027,
+      "categoria": "restaurante",
+      "nome": "3 Brasseurs",
+      "horario": ""
+    },
+    {
+      "lat": -23.580007,
+      "lng": -46.68432,
+      "categoria": "restaurante",
+      "nome": "Santinho",
+      "horario": ""
+    },
+    {
+      "lat": -23.585031,
+      "lng": -46.678841,
+      "categoria": "restaurante",
+      "nome": "Limonn",
+      "horario": ""
+    },
+    {
+      "lat": -23.581059,
+      "lng": -46.676886,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.590544,
+      "lng": -46.670713,
+      "categoria": "restaurante",
+      "nome": "Josephine",
+      "horario": ""
+    },
+    {
+      "lat": -23.578701,
+      "lng": -46.681512,
+      "categoria": "restaurante",
+      "nome": "Bolinha",
+      "horario": ""
+    },
+    {
+      "lat": -23.585434,
+      "lng": -46.683941,
+      "categoria": "restaurante",
+      "nome": "Balada Mix",
+      "horario": ""
+    },
+    {
+      "lat": -23.582486,
+      "lng": -46.683459,
+      "categoria": "restaurante",
+      "nome": "Sushi Massao",
+      "horario": ""
+    },
+    {
+      "lat": -23.582116,
+      "lng": -46.676313,
+      "categoria": "restaurante",
+      "nome": "Sanok",
+      "horario": ""
+    },
+    {
+      "lat": -23.582935,
+      "lng": -46.676046,
+      "categoria": "restaurante",
+      "nome": "Rodizio Arabe",
+      "horario": ""
+    },
+    {
+      "lat": -23.582589,
+      "lng": -46.674261,
+      "categoria": "restaurante",
+      "nome": "Estacao Itaim",
+      "horario": ""
+    },
+    {
+      "lat": -23.584954,
+      "lng": -46.675729,
+      "categoria": "restaurante",
+      "nome": "Pao com carne",
+      "horario": ""
+    },
+    {
+      "lat": -23.592997,
+      "lng": -46.675363,
+      "categoria": "restaurante",
+      "nome": "Brodo",
+      "horario": "Mo-We 12:00-15:00; Th-Sa 12:00-15:30, 19:30-23:00"
+    },
+    {
+      "lat": -23.592985,
+      "lng": -46.67507,
+      "categoria": "restaurante",
+      "nome": "Piazza Di Martini",
+      "horario": "Su-Fr 11:30-15:00, Sa 10:15-15:45"
+    },
+    {
+      "lat": -23.589297,
+      "lng": -46.677381,
+      "categoria": "restaurante",
+      "nome": "NB Steak",
+      "horario": ""
+    },
+    {
+      "lat": -23.58288,
+      "lng": -46.674088,
+      "categoria": "restaurante",
+      "nome": "Recanto Itaim Restaurante Grill",
+      "horario": "Mo-Fr 11:30-15:00"
+    },
+    {
+      "lat": -23.586798,
+      "lng": -46.682049,
+      "categoria": "empresa",
+      "nome": "Tecnisa S.A.",
+      "horario": ""
+    },
+    {
+      "lat": -23.584868,
+      "lng": -46.672219,
+      "categoria": "empresa",
+      "nome": "Cognatis",
+      "horario": "Mo-Sa 09:00-18:00"
+    },
+    {
+      "lat": -23.586882,
+      "lng": -46.681892,
+      "categoria": "empresa",
+      "nome": "Consulado Geral da Alemanha",
+      "horario": ""
+    },
+    {
+      "lat": -23.586026,
+      "lng": -46.682129,
+      "categoria": "empresa",
+      "nome": "Google Brasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.589161,
+      "lng": -46.675502,
+      "categoria": "empresa",
+      "nome": "Multirede",
+      "horario": ""
+    },
+    {
+      "lat": -23.589157,
+      "lng": -46.675561,
+      "categoria": "empresa",
+      "nome": "Magnesita",
+      "horario": ""
+    },
+    {
+      "lat": -23.57736,
+      "lng": -46.67309,
+      "categoria": "empresa",
+      "nome": "Omni Lab",
+      "horario": "Mo-Fr 09:00-17:00"
+    },
+    {
+      "lat": -23.584005,
+      "lng": -46.672883,
+      "categoria": "empresa",
+      "nome": "Mudanças Express",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.588847,
+      "lng": -46.681435,
+      "categoria": "empresa",
+      "nome": "TomTom",
+      "horario": ""
+    },
+    {
+      "lat": -23.580229,
+      "lng": -46.682064,
+      "categoria": "empresa",
+      "nome": "gowork",
+      "horario": ""
+    },
+    {
+      "lat": -23.585303,
+      "lng": -46.679712,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.590389,
+      "lng": -46.673937,
+      "categoria": "mercado",
+      "nome": "Pão de Açúcar",
+      "horario": "Mo-Sa 06:00-22:00, Su 07:00-20:00"
+    },
+    {
+      "lat": -23.584498,
+      "lng": -46.681092,
+      "categoria": "farmacia",
+      "nome": "Discover",
+      "horario": ""
+    },
+    {
+      "lat": -23.582784,
+      "lng": -46.686299,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.580844,
+      "lng": -46.670819,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.587474,
+      "lng": -46.677102,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.583784,
+      "lng": -46.672153,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "Mo-Su 07:00-23:00"
+    },
+    {
+      "lat": -23.593922,
+      "lng": -46.677191,
+      "categoria": "farmacia",
+      "nome": "Pague Menos",
+      "horario": ""
+    },
+    {
+      "lat": -23.593021,
+      "lng": -46.677223,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "Mo-Su 06:00-23:00"
+    },
+    {
+      "lat": -23.583182,
+      "lng": -46.686121,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.585622,
+      "lng": -46.684653,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.583466,
+      "lng": -46.67593,
+      "categoria": "farmacia",
+      "nome": "Farmácia São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.57825,
+      "lng": -46.681418,
+      "categoria": "parque",
+      "nome": "Praça do Vaticano",
+      "horario": ""
+    },
+    {
+      "lat": -23.584214,
+      "lng": -46.668214,
+      "categoria": "parque",
+      "nome": "Praça Doutor Hebrahim Hallak",
+      "horario": ""
+    },
+    {
+      "lat": -23.577186,
+      "lng": -46.679955,
+      "categoria": "parque",
+      "nome": "Praça Luis Delben Júnior",
+      "horario": ""
+    },
+    {
+      "lat": -23.590503,
+      "lng": -46.681399,
+      "categoria": "parque",
+      "nome": "Praça Ministro Dilson Funaro",
+      "horario": ""
+    },
+    {
+      "lat": -23.58541,
+      "lng": -46.682868,
+      "categoria": "parque",
+      "nome": "Praça Desembargador Adriano Marrey",
+      "horario": ""
+    },
+    {
+      "lat": -23.581684,
+      "lng": -46.684249,
+      "categoria": "parque",
+      "nome": "Praça Luís Carlos Paraná",
+      "horario": ""
+    },
+    {
+      "lat": -23.58253,
+      "lng": -46.684025,
+      "categoria": "parque",
+      "nome": "Praça Luís Carlos Paraná",
+      "horario": ""
+    },
+    {
+      "lat": -23.583677,
+      "lng": -46.670234,
+      "categoria": "parque",
+      "nome": "Praça Dom Gastão Liberal Pinto",
+      "horario": ""
+    },
+    {
+      "lat": -23.580166,
+      "lng": -46.678958,
+      "categoria": "parque",
+      "nome": "Praça Coração de Maria",
+      "horario": ""
+    },
+    {
+      "lat": -23.576865,
+      "lng": -46.673043,
+      "categoria": "parque",
+      "nome": "Praça Arthur Andrade Filho",
+      "horario": ""
+    },
+    {
+      "lat": -23.57684,
+      "lng": -46.672835,
+      "categoria": "parque",
+      "nome": "Praça Arthur Andrade Filho",
+      "horario": ""
+    },
+    {
+      "lat": -23.580604,
+      "lng": -46.682486,
+      "categoria": "parque",
+      "nome": "Praça Eid Mansur",
+      "horario": ""
+    },
+    {
+      "lat": -23.5803,
+      "lng": -46.6818,
+      "categoria": "parque",
+      "nome": "Praça John Herbert",
+      "horario": ""
+    },
+    {
+      "lat": -23.577025,
+      "lng": -46.680372,
+      "categoria": "parque",
+      "nome": "Praça Luis Delben Júnior",
+      "horario": ""
+    },
+    {
+      "lat": -23.577051,
+      "lng": -46.680132,
+      "categoria": "parque",
+      "nome": "Praça Luis Delben Júnior",
+      "horario": ""
+    },
+    {
+      "lat": -23.580681,
+      "lng": -46.683191,
+      "categoria": "parque",
+      "nome": "Praça do Imigrante Italiano",
+      "horario": ""
+    },
+    {
+      "lat": -23.57844,
+      "lng": -46.681211,
+      "categoria": "parque",
+      "nome": "Praça do Vaticano",
+      "horario": ""
+    },
+    {
+      "lat": -23.578252,
+      "lng": -46.681022,
+      "categoria": "parque",
+      "nome": "Praça do Vaticano",
+      "horario": ""
+    },
+    {
+      "lat": -23.578077,
+      "lng": -46.681234,
+      "categoria": "parque",
+      "nome": "Praça do Vaticano",
+      "horario": ""
+    },
+    {
+      "lat": -23.580813,
+      "lng": -46.668558,
+      "categoria": "parque",
+      "nome": "Praça Doutor Álvaro de Brito",
+      "horario": ""
+    },
+    {
+      "lat": -23.58524,
+      "lng": -46.671284,
+      "categoria": "parque",
+      "nome": "Praça Haya de La Torre",
+      "horario": ""
+    },
+    {
+      "lat": -23.585386,
+      "lng": -46.671968,
+      "categoria": "parque",
+      "nome": "Praça Haya de La Torre",
+      "horario": ""
+    },
+    {
+      "lat": -23.585739,
+      "lng": -46.671422,
+      "categoria": "parque",
+      "nome": "Praça Ministro Alfredo Buzaid",
+      "horario": ""
+    },
+    {
+      "lat": -23.585307,
+      "lng": -46.671603,
+      "categoria": "parque",
+      "nome": "Praça Haya de La Torre",
+      "horario": ""
+    },
+    {
+      "lat": -23.584902,
+      "lng": -46.66927,
+      "categoria": "parque",
+      "nome": "Praça José Borbolla",
+      "horario": ""
+    },
+    {
+      "lat": -23.586543,
+      "lng": -46.681642,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.590426,
+      "lng": -46.68205,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.590107,
+      "lng": -46.681809,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.578755,
+      "lng": -46.6708,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.585837,
+      "lng": -46.679212,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.589111,
+      "lng": -46.678887,
+      "categoria": "academia",
+      "nome": "Sett Academia",
+      "horario": ""
+    },
+    {
+      "lat": -23.579369,
+      "lng": -46.682199,
+      "categoria": "hospital",
+      "nome": "Ícone da Visão São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.584982,
+      "lng": -46.674863,
+      "categoria": "hospital",
+      "nome": "Hospital Sirio Libanes Unidade Itaim",
+      "horario": ""
+    },
+    {
+      "lat": -23.590744,
+      "lng": -46.673552,
+      "categoria": "hospital",
+      "nome": "Hospital e Maternidade São Luiz",
+      "horario": ""
+    },
+    {
+      "lat": -23.584184,
+      "lng": -46.670704,
+      "categoria": "hospital",
+      "nome": "Hospital Sancta Maggiore",
+      "horario": ""
+    },
+    {
+      "lat": -23.582873,
+      "lng": -46.667376,
+      "categoria": "hospital",
+      "nome": "Hospital Municipal Brigadeiro",
+      "horario": ""
+    },
+    {
+      "lat": -23.583942,
+      "lng": -46.669283,
+      "categoria": "hospital",
+      "nome": "A.C Camargo",
+      "horario": ""
+    }
+  ],
+  "Vila Mariana": [
+    {
+      "lat": -23.587987,
+      "lng": -46.642741,
+      "categoria": "padaria",
+      "nome": "Padaria Charme",
+      "horario": ""
+    },
+    {
+      "lat": -23.582666,
+      "lng": -46.640782,
+      "categoria": "padaria",
+      "nome": "Padaria Nova Karol",
+      "horario": ""
+    },
+    {
+      "lat": -23.589082,
+      "lng": -46.634349,
+      "categoria": "padaria",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.582322,
+      "lng": -46.637519,
+      "categoria": "padaria",
+      "nome": "Pão Caires",
+      "horario": ""
+    },
+    {
+      "lat": -23.585075,
+      "lng": -46.642205,
+      "categoria": "padaria",
+      "nome": "Padaria Orquídea Pérola",
+      "horario": "06:00-22:00"
+    },
+    {
+      "lat": -23.594875,
+      "lng": -46.637725,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.596301,
+      "lng": -46.639735,
+      "categoria": "cafe",
+      "nome": "Clemente Café",
+      "horario": "Mo-Fr 09:30-18:45; Sa 10:00-18:00"
+    },
+    {
+      "lat": -23.584246,
+      "lng": -46.633374,
+      "categoria": "cafe",
+      "nome": "M Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.593077,
+      "lng": -46.63728,
+      "categoria": "cafe",
+      "nome": "Donafi",
+      "horario": ""
+    },
+    {
+      "lat": -23.586477,
+      "lng": -46.641057,
+      "categoria": "cafe",
+      "nome": "Dela Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.592263,
+      "lng": -46.629856,
+      "categoria": "escola",
+      "nome": "Lycee Pasteur",
+      "horario": ""
+    },
+    {
+      "lat": -23.580728,
+      "lng": -46.636814,
+      "categoria": "escola",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.59742,
+      "lng": -46.634648,
+      "categoria": "escola",
+      "nome": "Colégio Lumen Vitae",
+      "horario": "Mo-Fr 07:00-17:00"
+    },
+    {
+      "lat": -23.589796,
+      "lng": -46.63637,
+      "categoria": "escola",
+      "nome": "Colégio Madre Cabrini",
+      "horario": ""
+    },
+    {
+      "lat": -23.595564,
+      "lng": -46.638845,
+      "categoria": "escola",
+      "nome": "Liceu Pasteur",
+      "horario": ""
+    },
+    {
+      "lat": -23.585585,
+      "lng": -46.641182,
+      "categoria": "escola",
+      "nome": "E.E Maestro Fabiano Lozano",
+      "horario": ""
+    },
+    {
+      "lat": -23.594108,
+      "lng": -46.634367,
+      "categoria": "escola",
+      "nome": "E.E Brasílio Machado",
+      "horario": ""
+    },
+    {
+      "lat": -23.595369,
+      "lng": -46.634186,
+      "categoria": "escola",
+      "nome": "E.E Lazar Segall",
+      "horario": ""
+    },
+    {
+      "lat": -23.583645,
+      "lng": -46.641432,
+      "categoria": "petshop",
+      "nome": "Cobasi",
+      "horario": "Mo-Sa 08:00-21:45; Su,PH 09:00-19:45"
+    },
+    {
+      "lat": -23.587656,
+      "lng": -46.640238,
+      "categoria": "veterinario",
+      "nome": "Ponto Pet",
+      "horario": ""
+    },
+    {
+      "lat": -23.589548,
+      "lng": -46.629629,
+      "categoria": "restaurante",
+      "nome": "Mascarino",
+      "horario": ""
+    },
+    {
+      "lat": -23.587115,
+      "lng": -46.640943,
+      "categoria": "restaurante",
+      "nome": "Casa Anro",
+      "horario": ""
+    },
+    {
+      "lat": -23.583166,
+      "lng": -46.641342,
+      "categoria": "restaurante",
+      "nome": "Sukiya",
+      "horario": "10:00-22:30"
+    },
+    {
+      "lat": -23.583265,
+      "lng": -46.641566,
+      "categoria": "restaurante",
+      "nome": "New Daruma",
+      "horario": ""
+    },
+    {
+      "lat": -23.593401,
+      "lng": -46.637865,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.58064,
+      "lng": -46.637255,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.580225,
+      "lng": -46.633226,
+      "categoria": "restaurante",
+      "nome": "Braccia",
+      "horario": ""
+    },
+    {
+      "lat": -23.581007,
+      "lng": -46.635154,
+      "categoria": "restaurante",
+      "nome": "Santa Vila Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.596745,
+      "lng": -46.634351,
+      "categoria": "restaurante",
+      "nome": "Porque",
+      "horario": ""
+    },
+    {
+      "lat": -23.588789,
+      "lng": -46.642275,
+      "categoria": "restaurante",
+      "nome": "Karuna",
+      "horario": "We-Sa 11:00-16:00"
+    },
+    {
+      "lat": -23.587417,
+      "lng": -46.64111,
+      "categoria": "restaurante",
+      "nome": "Dr. Tchê La Parrilla de La Villa",
+      "horario": "Tu-Fr 12:00-15:00; Sa 12:00-16:00; Su 12:00-17:00; Tu-Sa 18:00-23:00"
+    },
+    {
+      "lat": -23.581107,
+      "lng": -46.63834,
+      "categoria": "restaurante",
+      "nome": "Estrela da Ana Rosa",
+      "horario": ""
+    },
+    {
+      "lat": -23.58512,
+      "lng": -46.635178,
+      "categoria": "restaurante",
+      "nome": "Veloso",
+      "horario": ""
+    },
+    {
+      "lat": -23.588185,
+      "lng": -46.632382,
+      "categoria": "empresa",
+      "nome": "Caelum",
+      "horario": "Mo-Fr 08:00-20:00; Sa 09:00-12:00"
+    },
+    {
+      "lat": -23.584151,
+      "lng": -46.639577,
+      "categoria": "empresa",
+      "nome": "Consulado Geral da Bolívia em São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.583332,
+      "lng": -46.631988,
+      "categoria": "empresa",
+      "nome": "FGI",
+      "horario": ""
+    },
+    {
+      "lat": -23.585868,
+      "lng": -46.636612,
+      "categoria": "empresa",
+      "nome": "11º Tabelião de Notas",
+      "horario": "Mo-Fr 09:00-17:00:PH off"
+    },
+    {
+      "lat": -23.588238,
+      "lng": -46.630598,
+      "categoria": "mercado",
+      "nome": "econ",
+      "horario": ""
+    },
+    {
+      "lat": -23.593198,
+      "lng": -46.629466,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.58807,
+      "lng": -46.630082,
+      "categoria": "mercado",
+      "nome": "Minuto Pão de Açúcar",
+      "horario": "Mo-Sa 07:00-22:00; Su 08:00-20:00"
+    },
+    {
+      "lat": -23.590321,
+      "lng": -46.630429,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "Mo-Fr 07:00-23:00;Sa 07:00-23:00;Su 07:00-23:00"
+    },
+    {
+      "lat": -23.587828,
+      "lng": -46.642953,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": "Mo-Su,PH 00:00-00:00"
+    },
+    {
+      "lat": -23.589239,
+      "lng": -46.62956,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.586335,
+      "lng": -46.634427,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.592609,
+      "lng": -46.638264,
+      "categoria": "parque",
+      "nome": "Praça da Bíblia",
+      "horario": ""
+    },
+    {
+      "lat": -23.596238,
+      "lng": -46.633131,
+      "categoria": "parque",
+      "nome": "Parque Modernista",
+      "horario": ""
+    },
+    {
+      "lat": -23.589083,
+      "lng": -46.628786,
+      "categoria": "parque",
+      "nome": "Praça Monteiro dos Santos",
+      "horario": ""
+    },
+    {
+      "lat": -23.590826,
+      "lng": -46.629232,
+      "categoria": "parque",
+      "nome": "Praça Giordano Bruno",
+      "horario": ""
+    },
+    {
+      "lat": -23.58839,
+      "lng": -46.626386,
+      "categoria": "parque",
+      "nome": "Praça Cassiano Nogueira",
+      "horario": ""
+    },
+    {
+      "lat": -23.588433,
+      "lng": -46.627238,
+      "categoria": "parque",
+      "nome": "Praça Edgard Fernandes D´Almeida",
+      "horario": ""
+    },
+    {
+      "lat": -23.588111,
+      "lng": -46.627389,
+      "categoria": "parque",
+      "nome": "Praça Estevam de Almeida Neto",
+      "horario": ""
+    },
+    {
+      "lat": -23.580949,
+      "lng": -46.639075,
+      "categoria": "parque",
+      "nome": "Largo Dona Ana Rosa",
+      "horario": ""
+    },
+    {
+      "lat": -23.588685,
+      "lng": -46.631613,
+      "categoria": "parque",
+      "nome": "Praça Comunitária da Vila Mariana",
+      "horario": ""
+    },
+    {
+      "lat": -23.583935,
+      "lng": -46.639346,
+      "categoria": "parque",
+      "nome": "Praça Arquimedes da Silva",
+      "horario": ""
+    },
+    {
+      "lat": -23.583973,
+      "lng": -46.640515,
+      "categoria": "parque",
+      "nome": "Praça Damásio Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.596365,
+      "lng": -46.629187,
+      "categoria": "parque",
+      "nome": "Praça Kisao Tokita",
+      "horario": ""
+    },
+    {
+      "lat": -23.593692,
+      "lng": -46.631993,
+      "categoria": "parque",
+      "nome": "Praça Murupauba",
+      "horario": ""
+    },
+    {
+      "lat": -23.593234,
+      "lng": -46.629875,
+      "categoria": "parque",
+      "nome": "Praça Arnaldo Boris Davidoff",
+      "horario": ""
+    },
+    {
+      "lat": -23.591763,
+      "lng": -46.629553,
+      "categoria": "parque",
+      "nome": "Praça Antônio Tucci",
+      "horario": ""
+    },
+    {
+      "lat": -23.5912,
+      "lng": -46.629624,
+      "categoria": "parque",
+      "nome": "Praça Maria Anna Strefezza Tucci",
+      "horario": ""
+    },
+    {
+      "lat": -23.581719,
+      "lng": -46.628377,
+      "categoria": "parque",
+      "nome": "Praça Anápolis",
+      "horario": ""
+    },
+    {
+      "lat": -23.586894,
+      "lng": -46.635524,
+      "categoria": "parque",
+      "nome": "Praça Doutor Teodoro de Carvalho",
+      "horario": ""
+    },
+    {
+      "lat": -23.585874,
+      "lng": -46.630727,
+      "categoria": "parque",
+      "nome": "Praça Doutor Washington Pelúcio",
+      "horario": ""
+    },
+    {
+      "lat": -23.588991,
+      "lng": -46.629238,
+      "categoria": "parque",
+      "nome": "Praça Monteiro dos Santos",
+      "horario": ""
+    },
+    {
+      "lat": -23.585919,
+      "lng": -46.629848,
+      "categoria": "parque",
+      "nome": "Praça Doutor Péricles Maciel",
+      "horario": ""
+    },
+    {
+      "lat": -23.580672,
+      "lng": -46.630339,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.587585,
+      "lng": -46.624231,
+      "categoria": "parque",
+      "nome": "Praça Lions Clube Vila Mariana",
+      "horario": ""
+    },
+    {
+      "lat": -23.592398,
+      "lng": -46.63683,
+      "categoria": "parque",
+      "nome": "Praça Lasar Segall",
+      "horario": ""
+    },
+    {
+      "lat": -23.585645,
+      "lng": -46.635697,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.585939,
+      "lng": -46.635124,
+      "categoria": "parque",
+      "nome": "Praça Irmão Leão Antônio",
+      "horario": ""
+    },
+    {
+      "lat": -23.595056,
+      "lng": -46.629695,
+      "categoria": "parque",
+      "nome": "Praça Guté",
+      "horario": ""
+    },
+    {
+      "lat": -23.582477,
+      "lng": -46.634687,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.58964,
+      "lng": -46.629792,
+      "categoria": "academia",
+      "nome": "Mormaai Centre",
+      "horario": ""
+    },
+    {
+      "lat": -23.581523,
+      "lng": -46.638045,
+      "categoria": "metro",
+      "nome": "Ana Rosa - Linha 1 Azul e 2 Verde - Acesso à Rua Vergueiro, Lado Ímpar",
+      "horario": ""
+    },
+    {
+      "lat": -23.581525,
+      "lng": -46.638564,
+      "categoria": "metro",
+      "nome": "Ana Rosa - Linha 1 Azul e 2 Verde - Acesso ao Terminal de Ônibus",
+      "horario": ""
+    },
+    {
+      "lat": -23.581646,
+      "lng": -46.639189,
+      "categoria": "metro",
+      "nome": "Ana Rosa - Linha 1 Azul e 2 Verde - Acesso à Avenida Conselheiro Rodrigues Alves",
+      "horario": ""
+    },
+    {
+      "lat": -23.592681,
+      "lng": -46.630681,
+      "categoria": "metro",
+      "nome": "Chácara Klabin",
+      "horario": ""
+    },
+    {
+      "lat": -23.581442,
+      "lng": -46.638379,
+      "categoria": "metro",
+      "nome": "Ana Rosa",
+      "horario": ""
+    },
+    {
+      "lat": -23.589153,
+      "lng": -46.634664,
+      "categoria": "metro",
+      "nome": "Vila Mariana",
+      "horario": ""
+    },
+    {
+      "lat": -23.589404,
+      "lng": -46.635281,
+      "categoria": "metro",
+      "nome": "Vila Mariana - Linha 1 Azul - Acesso Avenida Domingos de Morais",
+      "horario": ""
+    },
+    {
+      "lat": -23.589529,
+      "lng": -46.634513,
+      "categoria": "metro",
+      "nome": "Vila Mariana - Linha 1 Azul - Acesso ao Terminal de Ônibus",
+      "horario": "04:40 (4:40 AM)"
+    },
+    {
+      "lat": -23.589051,
+      "lng": -46.634439,
+      "categoria": "metro",
+      "nome": "Vila Mariana - Linha 1 Azul - Acesso à Avenida Professor Noé Azevedo, Lado Ímpar",
+      "horario": "04:40 (4:40 AM)"
+    },
+    {
+      "lat": -23.589108,
+      "lng": -46.634861,
+      "categoria": "metro",
+      "nome": "Vila Mariana - Linha 1 Azul -Acesso à Avenida Professor Noé Azevedo, Lado Par",
+      "horario": "04:40 (4:40 AM)"
+    },
+    {
+      "lat": -23.59283,
+      "lng": -46.630481,
+      "categoria": "metro",
+      "nome": "Chácara Klabin - Linha 2 Verde",
+      "horario": ""
+    },
+    {
+      "lat": -23.592487,
+      "lng": -46.630493,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.591975,
+      "lng": -46.638761,
+      "categoria": "hospital",
+      "nome": "Hospital Israelita Albert Einstein",
+      "horario": ""
+    },
+    {
+      "lat": -23.597453,
+      "lng": -46.632524,
+      "categoria": "hospital",
+      "nome": "Hospital Santa Cruz",
+      "horario": ""
+    },
+    {
+      "lat": -23.595248,
+      "lng": -46.627516,
+      "categoria": "hospital",
+      "nome": "Hospital e Maternidade Sepaco Vila Mariana",
+      "horario": ""
+    },
+    {
+      "lat": -23.592755,
+      "lng": -46.629037,
+      "categoria": "hospital",
+      "nome": "Instituto de Medicina Física e de Reabilitação",
+      "horario": ""
+    },
+    {
+      "lat": -23.596634,
+      "lng": -46.635811,
+      "categoria": "hospital",
+      "nome": "Centro de Referência e Treinamento DST/Aids-SP",
+      "horario": ""
+    }
+  ],
+  "Bela Vista": [
+    {
+      "lat": -23.552793,
+      "lng": -46.645448,
+      "categoria": "padaria",
+      "nome": "Padaria São Domingos",
+      "horario": ""
+    },
+    {
+      "lat": -23.551219,
+      "lng": -46.64968,
+      "categoria": "padaria",
+      "nome": "Bologna",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.562686,
+      "lng": -46.647473,
+      "categoria": "padaria",
+      "nome": "Nova Charmosa",
+      "horario": "Mo-Su 06:00-22:00"
+    },
+    {
+      "lat": -23.556438,
+      "lng": -46.645338,
+      "categoria": "padaria",
+      "nome": "Padaria Italianinha",
+      "horario": ""
+    },
+    {
+      "lat": -23.554379,
+      "lng": -46.644008,
+      "categoria": "padaria",
+      "nome": "Padaria 14 de Julho",
+      "horario": ""
+    },
+    {
+      "lat": -23.552333,
+      "lng": -46.651451,
+      "categoria": "padaria",
+      "nome": "Árvore do Pão",
+      "horario": "Tu,We,Fr 10:30-19:00; Th 10:30-22:00; Sa 09:00-14:00"
+    },
+    {
+      "lat": -23.550157,
+      "lng": -46.645183,
+      "categoria": "cafe",
+      "nome": "Café Marokita",
+      "horario": ""
+    },
+    {
+      "lat": -23.558348,
+      "lng": -46.639159,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.559938,
+      "lng": -46.635599,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.553462,
+      "lng": -46.65299,
+      "categoria": "cafe",
+      "nome": "Fran's Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.557226,
+      "lng": -46.654125,
+      "categoria": "cafe",
+      "nome": "Arabia Express",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.554375,
+      "lng": -46.652192,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.557696,
+      "lng": -46.635354,
+      "categoria": "cafe",
+      "nome": "Coffee Selfie",
+      "horario": ""
+    },
+    {
+      "lat": -23.55784,
+      "lng": -46.635529,
+      "categoria": "cafe",
+      "nome": "Kazu café",
+      "horario": ""
+    },
+    {
+      "lat": -23.554747,
+      "lng": -46.649939,
+      "categoria": "cafe",
+      "nome": "Bella paim",
+      "horario": ""
+    },
+    {
+      "lat": -23.557668,
+      "lng": -46.654745,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.566909,
+      "lng": -46.645739,
+      "categoria": "cafe",
+      "nome": "Parahy",
+      "horario": "Mo-Fr 10:00-17:00"
+    },
+    {
+      "lat": -23.563645,
+      "lng": -46.652584,
+      "categoria": "cafe",
+      "nome": "Mixue",
+      "horario": ""
+    },
+    {
+      "lat": -23.564729,
+      "lng": -46.650604,
+      "categoria": "escola",
+      "nome": "Objetivo",
+      "horario": ""
+    },
+    {
+      "lat": -23.561764,
+      "lng": -46.639008,
+      "categoria": "escola",
+      "nome": "ETAPA - São Joaquim",
+      "horario": ""
+    },
+    {
+      "lat": -23.557986,
+      "lng": -46.652102,
+      "categoria": "escola",
+      "nome": "Centro de Pesquisa e Formação SESC",
+      "horario": ""
+    },
+    {
+      "lat": -23.55587,
+      "lng": -46.646422,
+      "categoria": "escola",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.557259,
+      "lng": -46.64172,
+      "categoria": "escola",
+      "nome": "EMEF Celso Leite Ribeiro Filho",
+      "horario": ""
+    },
+    {
+      "lat": -23.554797,
+      "lng": -46.64527,
+      "categoria": "escola",
+      "nome": "Colégio J. R. Passalacqua",
+      "horario": ""
+    },
+    {
+      "lat": -23.557061,
+      "lng": -46.650033,
+      "categoria": "escola",
+      "nome": "Colégio Vital Brazil",
+      "horario": ""
+    },
+    {
+      "lat": -23.557484,
+      "lng": -46.63909,
+      "categoria": "escola",
+      "nome": "Escola Pro-tec",
+      "horario": ""
+    },
+    {
+      "lat": -23.552913,
+      "lng": -46.643485,
+      "categoria": "escola",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.54958,
+      "lng": -46.647341,
+      "categoria": "escola",
+      "nome": "Escola Estadual Caetano de Campos",
+      "horario": ""
+    },
+    {
+      "lat": -23.552694,
+      "lng": -46.651347,
+      "categoria": "veterinario",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.552083,
+      "lng": -46.638306,
+      "categoria": "restaurante",
+      "nome": "Maria Paula Bar e Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.552066,
+      "lng": -46.64585,
+      "categoria": "restaurante",
+      "nome": "Prueba",
+      "horario": ""
+    },
+    {
+      "lat": -23.551014,
+      "lng": -46.649056,
+      "categoria": "restaurante",
+      "nome": "Cantina D'Amico Piolin",
+      "horario": ""
+    },
+    {
+      "lat": -23.557468,
+      "lng": -46.647419,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Ruberto's",
+      "horario": ""
+    },
+    {
+      "lat": -23.550075,
+      "lng": -46.64603,
+      "categoria": "restaurante",
+      "nome": "Planeta's",
+      "horario": ""
+    },
+    {
+      "lat": -23.557684,
+      "lng": -46.635646,
+      "categoria": "restaurante",
+      "nome": "Porque Sim",
+      "horario": ""
+    },
+    {
+      "lat": -23.557686,
+      "lng": -46.635551,
+      "categoria": "restaurante",
+      "nome": "Jardim Meio Hectare",
+      "horario": ""
+    },
+    {
+      "lat": -23.562143,
+      "lng": -46.638912,
+      "categoria": "restaurante",
+      "nome": "Liberdade Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.560129,
+      "lng": -46.642949,
+      "categoria": "restaurante",
+      "nome": "Nosso Ranchinho",
+      "horario": ""
+    },
+    {
+      "lat": -23.549809,
+      "lng": -46.645136,
+      "categoria": "restaurante",
+      "nome": "Yūbari 夕張",
+      "horario": ""
+    },
+    {
+      "lat": -23.550369,
+      "lng": -46.645105,
+      "categoria": "restaurante",
+      "nome": "Famiglia Mancini",
+      "horario": ""
+    },
+    {
+      "lat": -23.550453,
+      "lng": -46.645359,
+      "categoria": "restaurante",
+      "nome": "Walter Mancini",
+      "horario": ""
+    },
+    {
+      "lat": -23.549951,
+      "lng": -46.645311,
+      "categoria": "restaurante",
+      "nome": "Famiglia Mancini",
+      "horario": ""
+    },
+    {
+      "lat": -23.550013,
+      "lng": -46.645227,
+      "categoria": "restaurante",
+      "nome": "Madreperola",
+      "horario": ""
+    },
+    {
+      "lat": -23.557106,
+      "lng": -46.645685,
+      "categoria": "restaurante",
+      "nome": "Cantina C...Que Sabe!",
+      "horario": ""
+    },
+    {
+      "lat": -23.559225,
+      "lng": -46.646516,
+      "categoria": "restaurante",
+      "nome": "Gigetto",
+      "horario": ""
+    },
+    {
+      "lat": -23.558809,
+      "lng": -46.646529,
+      "categoria": "restaurante",
+      "nome": "Cantina Roperto",
+      "horario": "Mo-Su 09:00-22:00"
+    },
+    {
+      "lat": -23.558288,
+      "lng": -46.646346,
+      "categoria": "restaurante",
+      "nome": "Lazarella",
+      "horario": "Mo-Su 00:00-23:30"
+    },
+    {
+      "lat": -23.556855,
+      "lng": -46.646727,
+      "categoria": "restaurante",
+      "nome": "Cantina L'italiano",
+      "horario": ""
+    },
+    {
+      "lat": -23.559008,
+      "lng": -46.646655,
+      "categoria": "restaurante",
+      "nome": "Templo da Carne Marcos Bassi",
+      "horario": ""
+    },
+    {
+      "lat": -23.553869,
+      "lng": -46.653215,
+      "categoria": "restaurante",
+      "nome": "Tirrenos Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.555215,
+      "lng": -46.641084,
+      "categoria": "restaurante",
+      "nome": "Restaurante Gerações",
+      "horario": ""
+    },
+    {
+      "lat": -23.557858,
+      "lng": -46.635687,
+      "categoria": "restaurante",
+      "nome": "Restaurante Yamaga",
+      "horario": ""
+    },
+    {
+      "lat": -23.555288,
+      "lng": -46.640324,
+      "categoria": "restaurante",
+      "nome": "Feijão de Corda",
+      "horario": "Mo-Su 11:00-23:00"
+    },
+    {
+      "lat": -23.55768,
+      "lng": -46.635899,
+      "categoria": "restaurante",
+      "nome": "Lamen Kazu",
+      "horario": "Mo-Sa 11:00-15:00,18:00-22:30; Su,PH 11:00-15:00,18:00-21:00"
+    },
+    {
+      "lat": -23.557854,
+      "lng": -46.635568,
+      "categoria": "restaurante",
+      "nome": "Izakaya Kazu",
+      "horario": "Tu-Sa 11:00-15:00,18:00-22:30; Su 11:00-15:00,18:00-21:00"
+    },
+    {
+      "lat": -23.557854,
+      "lng": -46.635505,
+      "categoria": "restaurante",
+      "nome": "Meu Udon",
+      "horario": "Tu-Sa 11:00-15:00,18:00-22:30; Su 11:00-15:00,18:00-21:00"
+    },
+    {
+      "lat": -23.557442,
+      "lng": -46.644237,
+      "categoria": "restaurante",
+      "nome": "luncheonette",
+      "horario": ""
+    },
+    {
+      "lat": -23.549032,
+      "lng": -46.645384,
+      "categoria": "restaurante",
+      "nome": "Drosophyla",
+      "horario": ""
+    },
+    {
+      "lat": -23.561261,
+      "lng": -46.644189,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.558286,
+      "lng": -46.635936,
+      "categoria": "restaurante",
+      "nome": "Izakaya Issa",
+      "horario": "Mo-Fr 18:30-23:30; Sa-Su 11:30-15:30, 18:30-23:30"
+    },
+    {
+      "lat": -23.557156,
+      "lng": -46.635799,
+      "categoria": "restaurante",
+      "nome": "Nandemoyá",
+      "horario": ""
+    },
+    {
+      "lat": -23.55558,
+      "lng": -46.635564,
+      "categoria": "restaurante",
+      "nome": "Bento House",
+      "horario": ""
+    },
+    {
+      "lat": -23.555577,
+      "lng": -46.635639,
+      "categoria": "restaurante",
+      "nome": "Kareya",
+      "horario": ""
+    },
+    {
+      "lat": -23.564045,
+      "lng": -46.65155,
+      "categoria": "restaurante",
+      "nome": "Taste and See",
+      "horario": ""
+    },
+    {
+      "lat": -23.551513,
+      "lng": -46.649222,
+      "categoria": "empresa",
+      "nome": "5º Cartório de Registro de Imóveis",
+      "horario": ""
+    },
+    {
+      "lat": -23.55121,
+      "lng": -46.641882,
+      "categoria": "empresa",
+      "nome": "3º Cartório de Registro de Imóveis",
+      "horario": "Mo-Fr 09:00-16:00; PH off"
+    },
+    {
+      "lat": -23.550064,
+      "lng": -46.644972,
+      "categoria": "empresa",
+      "nome": "Receita Federal do Brasil Bela Vista",
+      "horario": ""
+    },
+    {
+      "lat": -23.554815,
+      "lng": -46.639966,
+      "categoria": "empresa",
+      "nome": "6º Tabelião de Protesto de Letras e Títulos",
+      "horario": ""
+    },
+    {
+      "lat": -23.551081,
+      "lng": -46.649802,
+      "categoria": "empresa",
+      "nome": "7º Cartório de Registro de Imóveis",
+      "horario": ""
+    },
+    {
+      "lat": -23.551868,
+      "lng": -46.638824,
+      "categoria": "empresa",
+      "nome": "Procuradoria Geral do Município",
+      "horario": ""
+    },
+    {
+      "lat": -23.563113,
+      "lng": -46.63915,
+      "categoria": "empresa",
+      "nome": "17º Tabelião de Notas",
+      "horario": ""
+    },
+    {
+      "lat": -23.554974,
+      "lng": -46.635933,
+      "categoria": "empresa",
+      "nome": "Freitas Leiloeiro Oficial Escritório",
+      "horario": ""
+    },
+    {
+      "lat": -23.551567,
+      "lng": -46.640304,
+      "categoria": "empresa",
+      "nome": "Lab NINJA",
+      "horario": ""
+    },
+    {
+      "lat": -23.55807,
+      "lng": -46.637098,
+      "categoria": "empresa",
+      "nome": "Casa de Portugal de São Paulo",
+      "horario": "Mo-Fr 08:00-17:00"
+    },
+    {
+      "lat": -23.557852,
+      "lng": -46.63586,
+      "categoria": "empresa",
+      "nome": "Sindicato dos Eletricitários de São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.558614,
+      "lng": -46.642833,
+      "categoria": "empresa",
+      "nome": "CRAI - Reference center and assistance for immigrants",
+      "horario": "Mo-Fr 09:00-12:00, 13:00-16:00"
+    },
+    {
+      "lat": -23.554178,
+      "lng": -46.637529,
+      "categoria": "empresa",
+      "nome": "Centro POP",
+      "horario": ""
+    },
+    {
+      "lat": -23.55457,
+      "lng": -46.647571,
+      "categoria": "mercado",
+      "nome": "Saga supermercado",
+      "horario": ""
+    },
+    {
+      "lat": -23.55771,
+      "lng": -46.640068,
+      "categoria": "mercado",
+      "nome": "Extra Supermercado",
+      "horario": ""
+    },
+    {
+      "lat": -23.555332,
+      "lng": -46.636078,
+      "categoria": "mercado",
+      "nome": "Hirota Food Express",
+      "horario": ""
+    },
+    {
+      "lat": -23.55617,
+      "lng": -46.652415,
+      "categoria": "mercado",
+      "nome": "Tutti Conveniências",
+      "horario": "Mo-Fr 07:00-22:00; Sa 08:00-19:00"
+    },
+    {
+      "lat": -23.552204,
+      "lng": -46.650451,
+      "categoria": "mercado",
+      "nome": "Mercado Frei Caneca",
+      "horario": "08:00-22:00"
+    },
+    {
+      "lat": -23.551288,
+      "lng": -46.650533,
+      "categoria": "mercado",
+      "nome": "Mercado Saraiva",
+      "horario": ""
+    },
+    {
+      "lat": -23.554209,
+      "lng": -46.652782,
+      "categoria": "mercado",
+      "nome": "Master",
+      "horario": ""
+    },
+    {
+      "lat": -23.557041,
+      "lng": -46.636246,
+      "categoria": "mercado",
+      "nome": "Mercado Extra",
+      "horario": ""
+    },
+    {
+      "lat": -23.55841,
+      "lng": -46.63694,
+      "categoria": "mercado",
+      "nome": "Supermercado Amigos",
+      "horario": ""
+    },
+    {
+      "lat": -23.550826,
+      "lng": -46.646484,
+      "categoria": "mercado",
+      "nome": "Sacolão Avanhandava",
+      "horario": ""
+    },
+    {
+      "lat": -23.553641,
+      "lng": -46.640724,
+      "categoria": "mercado",
+      "nome": "VMarché Vegan Market",
+      "horario": ""
+    },
+    {
+      "lat": -23.552845,
+      "lng": -46.643006,
+      "categoria": "farmacia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.559937,
+      "lng": -46.638113,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.566018,
+      "lng": -46.648144,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.550848,
+      "lng": -46.641897,
+      "categoria": "farmacia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.552956,
+      "lng": -46.652015,
+      "categoria": "farmacia",
+      "nome": "Droga Raia",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.553712,
+      "lng": -46.652748,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.554097,
+      "lng": -46.652078,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.554424,
+      "lng": -46.650455,
+      "categoria": "farmacia",
+      "nome": "Drogaria Nova Bela Vista Preço Popular",
+      "horario": ""
+    },
+    {
+      "lat": -23.562969,
+      "lng": -46.647277,
+      "categoria": "farmacia",
+      "nome": "Raia",
+      "horario": ""
+    },
+    {
+      "lat": -23.550784,
+      "lng": -46.642192,
+      "categoria": "parque",
+      "nome": "Praça General Craveiro Lopes",
+      "horario": ""
+    },
+    {
+      "lat": -23.550387,
+      "lng": -46.642372,
+      "categoria": "parque",
+      "nome": "Praça Emílio Miguel Abellá",
+      "horario": ""
+    },
+    {
+      "lat": -23.555846,
+      "lng": -46.639851,
+      "categoria": "parque",
+      "nome": "Praça Pérola Byington",
+      "horario": ""
+    },
+    {
+      "lat": -23.548704,
+      "lng": -46.646837,
+      "categoria": "parque",
+      "nome": "Praça Franklin Roosevelt",
+      "horario": ""
+    },
+    {
+      "lat": -23.554973,
+      "lng": -46.635525,
+      "categoria": "parque",
+      "nome": "Praça da Liberdade-Japão",
+      "horario": ""
+    },
+    {
+      "lat": -23.550004,
+      "lng": -46.640372,
+      "categoria": "parque",
+      "nome": "Praça e Memorial Vladimir Herzog",
+      "horario": ""
+    },
+    {
+      "lat": -23.555736,
+      "lng": -46.649878,
+      "categoria": "parque",
+      "nome": "Praça 14 Bis",
+      "horario": ""
+    },
+    {
+      "lat": -23.552771,
+      "lng": -46.637292,
+      "categoria": "parque",
+      "nome": "Praça Magdalena Tagliaferro",
+      "horario": ""
+    },
+    {
+      "lat": -23.553429,
+      "lng": -46.637088,
+      "categoria": "parque",
+      "nome": "Praça Magdalena Tagliaferro",
+      "horario": ""
+    },
+    {
+      "lat": -23.553472,
+      "lng": -46.645551,
+      "categoria": "parque",
+      "nome": "Praça Ítalo Bagnoli",
+      "horario": ""
+    },
+    {
+      "lat": -23.560175,
+      "lng": -46.654614,
+      "categoria": "parque",
+      "nome": "Praça Jorge Gabriel Sayegh",
+      "horario": ""
+    },
+    {
+      "lat": -23.559874,
+      "lng": -46.655021,
+      "categoria": "parque",
+      "nome": "Praça Nagib Ganme",
+      "horario": ""
+    },
+    {
+      "lat": -23.553,
+      "lng": -46.64936,
+      "categoria": "parque",
+      "nome": "Praça Contos Fluminenses",
+      "horario": ""
+    },
+    {
+      "lat": -23.552948,
+      "lng": -46.649775,
+      "categoria": "parque",
+      "nome": "Praça Contos Fluminenses",
+      "horario": ""
+    },
+    {
+      "lat": -23.553801,
+      "lng": -46.649145,
+      "categoria": "parque",
+      "nome": "Praça Contos Fluminenses",
+      "horario": ""
+    },
+    {
+      "lat": -23.557072,
+      "lng": -46.651553,
+      "categoria": "parque",
+      "nome": "Praça Capitão Gino Struffaldi",
+      "horario": ""
+    },
+    {
+      "lat": -23.551085,
+      "lng": -46.640324,
+      "categoria": "parque",
+      "nome": "Praça Paulo Kobayashi",
+      "horario": ""
+    },
+    {
+      "lat": -23.552175,
+      "lng": -46.645686,
+      "categoria": "parque",
+      "nome": "Praça Álvaro de Carvalho Aranha",
+      "horario": ""
+    },
+    {
+      "lat": -23.55748,
+      "lng": -46.636262,
+      "categoria": "parque",
+      "nome": "Largo da Pólvora",
+      "horario": "07:00-22:00"
+    },
+    {
+      "lat": -23.563287,
+      "lng": -46.653131,
+      "categoria": "parque",
+      "nome": "Parque Shopping Cidade São Paulo",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.558669,
+      "lng": -46.650133,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.558817,
+      "lng": -46.639135,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.562259,
+      "lng": -46.648125,
+      "categoria": "parque",
+      "nome": "Praça dos Franceses",
+      "horario": ""
+    },
+    {
+      "lat": -23.550207,
+      "lng": -46.646577,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.549409,
+      "lng": -46.646238,
+      "categoria": "parque",
+      "nome": "Praça Franklin Roosevelt",
+      "horario": ""
+    },
+    {
+      "lat": -23.555057,
+      "lng": -46.639027,
+      "categoria": "academia",
+      "nome": "Target Fit Club",
+      "horario": ""
+    },
+    {
+      "lat": -23.559008,
+      "lng": -46.637662,
+      "categoria": "academia",
+      "nome": "Blue Fit",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.551451,
+      "lng": -46.650328,
+      "categoria": "academia",
+      "nome": "Target Fit - Mansão Maromba",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.551598,
+      "lng": -46.651436,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.554813,
+      "lng": -46.651479,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.553549,
+      "lng": -46.652674,
+      "categoria": "academia",
+      "nome": "Fórmula",
+      "horario": ""
+    },
+    {
+      "lat": -23.560489,
+      "lng": -46.638441,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": ""
+    },
+    {
+      "lat": -23.553098,
+      "lng": -46.651191,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.551503,
+      "lng": -46.644759,
+      "categoria": "academia",
+      "nome": "Blue",
+      "horario": ""
+    },
+    {
+      "lat": -23.566976,
+      "lng": -46.647203,
+      "categoria": "academia",
+      "nome": "Competition",
+      "horario": "Mo-Su 06:00-22:30"
+    },
+    {
+      "lat": -23.561831,
+      "lng": -46.638497,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.561793,
+      "lng": -46.638849,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.555163,
+      "lng": -46.636005,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.561597,
+      "lng": -46.638608,
+      "categoria": "metro",
+      "nome": "São Joaquim",
+      "horario": ""
+    },
+    {
+      "lat": -23.555319,
+      "lng": -46.635684,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.56573,
+      "lng": -46.649385,
+      "categoria": "hospital",
+      "nome": "Pró Matre Paulista",
+      "horario": ""
+    },
+    {
+      "lat": -23.567385,
+      "lng": -46.641539,
+      "categoria": "hospital",
+      "nome": "Hospital Beneficência Portuguesa",
+      "horario": ""
+    },
+    {
+      "lat": -23.557465,
+      "lng": -46.653766,
+      "categoria": "hospital",
+      "nome": "Hospital Sírio Libanês",
+      "horario": ""
+    },
+    {
+      "lat": -23.560858,
+      "lng": -46.650909,
+      "categoria": "hospital",
+      "nome": "Hospital IGESP",
+      "horario": ""
+    },
+    {
+      "lat": -23.560266,
+      "lng": -46.647359,
+      "categoria": "hospital",
+      "nome": "Hospital Municipal Infantil Menino Jesus",
+      "horario": ""
+    },
+    {
+      "lat": -23.562301,
+      "lng": -46.638025,
+      "categoria": "hospital",
+      "nome": "Hospital Oswaldo Cruz",
+      "horario": ""
+    },
+    {
+      "lat": -23.556325,
+      "lng": -46.639304,
+      "categoria": "hospital",
+      "nome": "Hospital Pérola Byington",
+      "horario": ""
+    },
+    {
+      "lat": -23.565092,
+      "lng": -46.646819,
+      "categoria": "hospital",
+      "nome": "Hospital Samaritano",
+      "horario": ""
+    },
+    {
+      "lat": -23.559289,
+      "lng": -46.655282,
+      "categoria": "hospital",
+      "nome": "Hospital Nove de Julho",
+      "horario": ""
+    }
+  ],
+  "Butantã": [
+    {
+      "lat": -23.576732,
+      "lng": -46.714592,
+      "categoria": "padaria",
+      "nome": "Previdência do Alvarenga",
+      "horario": ""
+    },
+    {
+      "lat": -23.567343,
+      "lng": -46.700345,
+      "categoria": "cafe",
+      "nome": "Aro 27 - Bike Café",
+      "horario": ""
+    },
+    {
+      "lat": -23.572362,
+      "lng": -46.709989,
+      "categoria": "cafe",
+      "nome": "Café do Posto",
+      "horario": ""
+    },
+    {
+      "lat": -23.568528,
+      "lng": -46.713419,
+      "categoria": "escola",
+      "nome": "Escola da Vila",
+      "horario": ""
+    },
+    {
+      "lat": -23.575976,
+      "lng": -46.71569,
+      "categoria": "escola",
+      "nome": "Espaço Ekoa - Unidade 2",
+      "horario": ""
+    },
+    {
+      "lat": -23.568249,
+      "lng": -46.715772,
+      "categoria": "escola",
+      "nome": "E. E. Alberto Torres",
+      "horario": ""
+    },
+    {
+      "lat": -23.568469,
+      "lng": -46.708411,
+      "categoria": "petshop",
+      "nome": "Laika",
+      "horario": ""
+    },
+    {
+      "lat": -23.57054,
+      "lng": -46.698433,
+      "categoria": "restaurante",
+      "nome": "Terra Roxa",
+      "horario": ""
+    },
+    {
+      "lat": -23.565164,
+      "lng": -46.700935,
+      "categoria": "restaurante",
+      "nome": "Velmont Grill",
+      "horario": ""
+    },
+    {
+      "lat": -23.566142,
+      "lng": -46.701042,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.570762,
+      "lng": -46.709558,
+      "categoria": "restaurante",
+      "nome": "Terra da garoa",
+      "horario": ""
+    },
+    {
+      "lat": -23.571228,
+      "lng": -46.707144,
+      "categoria": "restaurante",
+      "nome": "Casa do Mestiço",
+      "horario": ""
+    },
+    {
+      "lat": -23.570361,
+      "lng": -46.698245,
+      "categoria": "restaurante",
+      "nome": "Bar e Restaurante Recando da Terra",
+      "horario": ""
+    },
+    {
+      "lat": -23.567283,
+      "lng": -46.700185,
+      "categoria": "restaurante",
+      "nome": "Restaurante Mercado Natural",
+      "horario": ""
+    },
+    {
+      "lat": -23.567211,
+      "lng": -46.700179,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.566478,
+      "lng": -46.700125,
+      "categoria": "restaurante",
+      "nome": "Eugenio",
+      "horario": ""
+    },
+    {
+      "lat": -23.566302,
+      "lng": -46.700113,
+      "categoria": "restaurante",
+      "nome": "A Muqueca",
+      "horario": ""
+    },
+    {
+      "lat": -23.570722,
+      "lng": -46.709704,
+      "categoria": "restaurante",
+      "nome": "Vital Bar e Restaurante",
+      "horario": ""
+    },
+    {
+      "lat": -23.566107,
+      "lng": -46.700075,
+      "categoria": "restaurante",
+      "nome": "Well'S",
+      "horario": ""
+    },
+    {
+      "lat": -23.571589,
+      "lng": -46.706954,
+      "categoria": "restaurante",
+      "nome": "Estrela da Vidal",
+      "horario": ""
+    },
+    {
+      "lat": -23.570741,
+      "lng": -46.710654,
+      "categoria": "restaurante",
+      "nome": "Padrão",
+      "horario": ""
+    },
+    {
+      "lat": -23.56763,
+      "lng": -46.700394,
+      "categoria": "restaurante",
+      "nome": "Quebec",
+      "horario": ""
+    },
+    {
+      "lat": -23.570923,
+      "lng": -46.707293,
+      "categoria": "empresa",
+      "nome": "13º Oficial de Registro Civil do Butantã",
+      "horario": ""
+    },
+    {
+      "lat": -23.570806,
+      "lng": -46.698722,
+      "categoria": "empresa",
+      "nome": "VFS Global - Centro de Solicitação de Visto",
+      "horario": ""
+    },
+    {
+      "lat": -23.571137,
+      "lng": -46.699464,
+      "categoria": "empresa",
+      "nome": "Opus Software",
+      "horario": ""
+    },
+    {
+      "lat": -23.568751,
+      "lng": -46.698692,
+      "categoria": "empresa",
+      "nome": "MeteoIA",
+      "horario": "Mo-Sa 08:00-19:00"
+    },
+    {
+      "lat": -23.570992,
+      "lng": -46.708965,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.565549,
+      "lng": -46.711137,
+      "categoria": "empresa",
+      "nome": "Engefort",
+      "horario": ""
+    },
+    {
+      "lat": -23.56971,
+      "lng": -46.701272,
+      "categoria": "empresa",
+      "nome": "Lactalis do Brasil",
+      "horario": "Mo-Fr 08:00 18:00"
+    },
+    {
+      "lat": -23.57895,
+      "lng": -46.71024,
+      "categoria": "mercado",
+      "nome": "Recanto Supermercado e Hortifruti",
+      "horario": ""
+    },
+    {
+      "lat": -23.571544,
+      "lng": -46.707088,
+      "categoria": "farmacia",
+      "nome": "Center Fórmula",
+      "horario": ""
+    },
+    {
+      "lat": -23.570619,
+      "lng": -46.709935,
+      "categoria": "farmacia",
+      "nome": "Pague Menos",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.571226,
+      "lng": -46.708193,
+      "categoria": "farmacia",
+      "nome": "Drogaria Central do Butantã",
+      "horario": ""
+    },
+    {
+      "lat": -23.56422,
+      "lng": -46.701678,
+      "categoria": "parque",
+      "nome": "Praça Victor Civita",
+      "horario": ""
+    },
+    {
+      "lat": -23.567532,
+      "lng": -46.707855,
+      "categoria": "parque",
+      "nome": "Praça Vicente Rodrigues",
+      "horario": ""
+    },
+    {
+      "lat": -23.572799,
+      "lng": -46.704017,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.574549,
+      "lng": -46.701351,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.56496,
+      "lng": -46.713067,
+      "categoria": "parque",
+      "nome": "Praça Professor Reinaldo Porchat de Assis",
+      "horario": ""
+    },
+    {
+      "lat": -23.571816,
+      "lng": -46.700012,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.572376,
+      "lng": -46.699589,
+      "categoria": "parque",
+      "nome": "Praça Eugene Boudin",
+      "horario": ""
+    },
+    {
+      "lat": -23.574104,
+      "lng": -46.710653,
+      "categoria": "parque",
+      "nome": "Praça Professor Rômulo Ribeiro Pieroni",
+      "horario": ""
+    },
+    {
+      "lat": -23.573177,
+      "lng": -46.711541,
+      "categoria": "parque",
+      "nome": "Praça Max Lothar Hess",
+      "horario": ""
+    },
+    {
+      "lat": -23.572297,
+      "lng": -46.709244,
+      "categoria": "parque",
+      "nome": "Praça Waldemar Ortiz",
+      "horario": ""
+    },
+    {
+      "lat": -23.576463,
+      "lng": -46.711709,
+      "categoria": "parque",
+      "nome": "Praça Euclides Parente Ramos",
+      "horario": ""
+    },
+    {
+      "lat": -23.573483,
+      "lng": -46.711915,
+      "categoria": "parque",
+      "nome": "Praça Max Lothar Hess",
+      "horario": ""
+    },
+    {
+      "lat": -23.57146,
+      "lng": -46.69961,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.571516,
+      "lng": -46.700519,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.571828,
+      "lng": -46.699491,
+      "categoria": "parque",
+      "nome": "Praça Antônio Sabino",
+      "horario": ""
+    },
+    {
+      "lat": -23.572189,
+      "lng": -46.704338,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.571817,
+      "lng": -46.702902,
+      "categoria": "parque",
+      "nome": "Praça Oliveira Penteado",
+      "horario": ""
+    },
+    {
+      "lat": -23.56935,
+      "lng": -46.708168,
+      "categoria": "parque",
+      "nome": "Praça Monte Castelo",
+      "horario": ""
+    },
+    {
+      "lat": -23.568187,
+      "lng": -46.707835,
+      "categoria": "parque",
+      "nome": "Praça Vicente Rodrigues",
+      "horario": ""
+    },
+    {
+      "lat": -23.56247,
+      "lng": -46.711059,
+      "categoria": "parque",
+      "nome": "Praça Jackson Gouvêia de Barros",
+      "horario": ""
+    },
+    {
+      "lat": -23.572605,
+      "lng": -46.704691,
+      "categoria": "parque",
+      "nome": "Praça Jorge de Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.572456,
+      "lng": -46.699117,
+      "categoria": "parque",
+      "nome": "Praça Eugene Boudin",
+      "horario": ""
+    },
+    {
+      "lat": -23.575263,
+      "lng": -46.703286,
+      "categoria": "parque",
+      "nome": "Praça Comendador José Henrique de Souza",
+      "horario": ""
+    },
+    {
+      "lat": -23.579269,
+      "lng": -46.710656,
+      "categoria": "parque",
+      "nome": "Praça Paula Moreira",
+      "horario": ""
+    },
+    {
+      "lat": -23.569592,
+      "lng": -46.714375,
+      "categoria": "parque",
+      "nome": "Praça Alexandre José Barbosa",
+      "horario": ""
+    },
+    {
+      "lat": -23.569113,
+      "lng": -46.698825,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.575069,
+      "lng": -46.707181,
+      "categoria": "parque",
+      "nome": "Praça Arquiteto Plínio Croce",
+      "horario": ""
+    },
+    {
+      "lat": -23.574024,
+      "lng": -46.709849,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.575331,
+      "lng": -46.707283,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.574917,
+      "lng": -46.707687,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.57455,
+      "lng": -46.708377,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.574308,
+      "lng": -46.70915,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.56913,
+      "lng": -46.713193,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.56947,
+      "lng": -46.71507,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.575323,
+      "lng": -46.712383,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571152,
+      "lng": -46.707927,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571549,
+      "lng": -46.708025,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571801,
+      "lng": -46.708029,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571549,
+      "lng": -46.708295,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.571794,
+      "lng": -46.708393,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.567249,
+      "lng": -46.701951,
+      "categoria": "metro",
+      "nome": "Pinheiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.571194,
+      "lng": -46.707923,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.5719,
+      "lng": -46.70809,
+      "categoria": "metro",
+      "nome": "Butantã",
+      "horario": ""
+    },
+    {
+      "lat": -23.578248,
+      "lng": -46.708134,
+      "categoria": "hospital",
+      "nome": "Hospital Luz Butantã",
+      "horario": ""
+    }
+  ],
+  "Tatuapé": [
+    {
+      "lat": -23.534696,
+      "lng": -46.568467,
+      "categoria": "padaria",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.546207,
+      "lng": -46.573985,
+      "categoria": "padaria",
+      "nome": "Padaria Lisboa",
+      "horario": ""
+    },
+    {
+      "lat": -23.535074,
+      "lng": -46.579186,
+      "categoria": "padaria",
+      "nome": "Oxxo",
+      "horario": ""
+    },
+    {
+      "lat": -23.535133,
+      "lng": -46.575447,
+      "categoria": "padaria",
+      "nome": "Oxxo",
+      "horario": ""
+    },
+    {
+      "lat": -23.534652,
+      "lng": -46.568291,
+      "categoria": "padaria",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.541883,
+      "lng": -46.568368,
+      "categoria": "padaria",
+      "nome": "Dona Izulina",
+      "horario": "Mo-Su 06:00-22:00"
+    },
+    {
+      "lat": -23.541642,
+      "lng": -46.577341,
+      "categoria": "cafe",
+      "nome": "Casa do Pão de Queijo",
+      "horario": ""
+    },
+    {
+      "lat": -23.541589,
+      "lng": -46.576031,
+      "categoria": "cafe",
+      "nome": "Rei do Mate",
+      "horario": ""
+    },
+    {
+      "lat": -23.541387,
+      "lng": -46.575801,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.539057,
+      "lng": -46.576454,
+      "categoria": "cafe",
+      "nome": "Rei do Mate",
+      "horario": ""
+    },
+    {
+      "lat": -23.538987,
+      "lng": -46.576158,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": ""
+    },
+    {
+      "lat": -23.534307,
+      "lng": -46.56972,
+      "categoria": "cafe",
+      "nome": "DuckBill Cookies & Coffee",
+      "horario": ""
+    },
+    {
+      "lat": -23.538325,
+      "lng": -46.579861,
+      "categoria": "escola",
+      "nome": "Escola Estadual Oswaldo Catalano",
+      "horario": ""
+    },
+    {
+      "lat": -23.533799,
+      "lng": -46.573566,
+      "categoria": "escola",
+      "nome": "E.E Erasmo Braga",
+      "horario": ""
+    },
+    {
+      "lat": -23.542599,
+      "lng": -46.568404,
+      "categoria": "escola",
+      "nome": "Colégio Agostiniano Mendel",
+      "horario": ""
+    },
+    {
+      "lat": -23.539535,
+      "lng": -46.580746,
+      "categoria": "escola",
+      "nome": "Escola Municipal de Ensino Fundamental Artur Azevedo",
+      "horario": ""
+    },
+    {
+      "lat": -23.543625,
+      "lng": -46.574342,
+      "categoria": "escola",
+      "nome": "E.E Visconde Congonhas do Campo",
+      "horario": ""
+    },
+    {
+      "lat": -23.539081,
+      "lng": -46.584617,
+      "categoria": "escola",
+      "nome": "Colégio Agostiniano São Jose",
+      "horario": ""
+    },
+    {
+      "lat": -23.546695,
+      "lng": -46.575551,
+      "categoria": "escola",
+      "nome": "EMEF General Othelo Franco",
+      "horario": ""
+    },
+    {
+      "lat": -23.532063,
+      "lng": -46.57805,
+      "categoria": "escola",
+      "nome": "Colégio Saab",
+      "horario": ""
+    },
+    {
+      "lat": -23.541537,
+      "lng": -46.570824,
+      "categoria": "restaurante",
+      "nome": "La Tivoli",
+      "horario": "Mo-Fr 18:00 -23:00; Sa 12:00-00:30; Su 12:00-23:00"
+    },
+    {
+      "lat": -23.537845,
+      "lng": -46.584036,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Nova São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.535337,
+      "lng": -46.570269,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.541354,
+      "lng": -46.575245,
+      "categoria": "restaurante",
+      "nome": "Casa do Pastel",
+      "horario": ""
+    },
+    {
+      "lat": -23.543323,
+      "lng": -46.574574,
+      "categoria": "restaurante",
+      "nome": "Espetinho",
+      "horario": ""
+    },
+    {
+      "lat": -23.540856,
+      "lng": -46.574604,
+      "categoria": "restaurante",
+      "nome": "Vegan Point",
+      "horario": "Mo-Sa 11:30-15:00 open \"Almoço\"; We-Sa 18:00-23:00 open \"Bar\""
+    },
+    {
+      "lat": -23.537664,
+      "lng": -46.572912,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.544936,
+      "lng": -46.573363,
+      "categoria": "restaurante",
+      "nome": "Coffee J.A",
+      "horario": ""
+    },
+    {
+      "lat": -23.544434,
+      "lng": -46.573474,
+      "categoria": "restaurante",
+      "nome": "Amigos Da Costela",
+      "horario": ""
+    },
+    {
+      "lat": -23.54718,
+      "lng": -46.573521,
+      "categoria": "restaurante",
+      "nome": "Lounge Novelli Bar&",
+      "horario": ""
+    },
+    {
+      "lat": -23.541568,
+      "lng": -46.57618,
+      "categoria": "restaurante",
+      "nome": "All Parmegiana",
+      "horario": ""
+    },
+    {
+      "lat": -23.541911,
+      "lng": -46.57721,
+      "categoria": "restaurante",
+      "nome": "Pizza Hut",
+      "horario": ""
+    },
+    {
+      "lat": -23.538706,
+      "lng": -46.576692,
+      "categoria": "restaurante",
+      "nome": "Outback Steakhouse",
+      "horario": ""
+    },
+    {
+      "lat": -23.538318,
+      "lng": -46.575445,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.535229,
+      "lng": -46.57781,
+      "categoria": "empresa",
+      "nome": "Alfândega da Receita Federal do Brasil",
+      "horario": "Mo-Fr 09:00-15:00"
+    },
+    {
+      "lat": -23.542707,
+      "lng": -46.572561,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.547199,
+      "lng": -46.573002,
+      "categoria": "empresa",
+      "nome": "Consultoria Apollo II",
+      "horario": ""
+    },
+    {
+      "lat": -23.54402,
+      "lng": -46.572235,
+      "categoria": "empresa",
+      "nome": "Melissa Zanini",
+      "horario": ""
+    },
+    {
+      "lat": -23.536586,
+      "lng": -46.581465,
+      "categoria": "mercado",
+      "nome": "Atacadão",
+      "horario": "Mo-Sa 07:00-22:00; Su 08:00-20:00"
+    },
+    {
+      "lat": -23.544862,
+      "lng": -46.572938,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.535376,
+      "lng": -46.575389,
+      "categoria": "farmacia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.541598,
+      "lng": -46.577481,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.538983,
+      "lng": -46.576784,
+      "categoria": "farmacia",
+      "nome": "Extrafarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.545529,
+      "lng": -46.573508,
+      "categoria": "parque",
+      "nome": "Praça Silvio Romero",
+      "horario": ""
+    },
+    {
+      "lat": -23.5369,
+      "lng": -46.56957,
+      "categoria": "parque",
+      "nome": "Praça Hugo Tambellini",
+      "horario": ""
+    },
+    {
+      "lat": -23.544586,
+      "lng": -46.568468,
+      "categoria": "parque",
+      "nome": "Praça Karnick Avedis Nahas",
+      "horario": ""
+    },
+    {
+      "lat": -23.536233,
+      "lng": -46.572271,
+      "categoria": "parque",
+      "nome": "Praça José Moreno",
+      "horario": ""
+    },
+    {
+      "lat": -23.541481,
+      "lng": -46.574259,
+      "categoria": "parque",
+      "nome": "Praça Coronel Sandoval de Figueiredo",
+      "horario": ""
+    },
+    {
+      "lat": -23.541679,
+      "lng": -46.574215,
+      "categoria": "parque",
+      "nome": "Praça Coronel Sandoval de Figueiredo",
+      "horario": ""
+    },
+    {
+      "lat": -23.541024,
+      "lng": -46.571284,
+      "categoria": "parque",
+      "nome": "Praça Santa Therezinha",
+      "horario": ""
+    },
+    {
+      "lat": -23.540935,
+      "lng": -46.570825,
+      "categoria": "parque",
+      "nome": "Praça Santa Therezinha",
+      "horario": ""
+    },
+    {
+      "lat": -23.531485,
+      "lng": -46.577629,
+      "categoria": "parque",
+      "nome": "Praça Louveira",
+      "horario": ""
+    },
+    {
+      "lat": -23.543937,
+      "lng": -46.582395,
+      "categoria": "parque",
+      "nome": "Praça Edmundo Benvenutti",
+      "horario": ""
+    },
+    {
+      "lat": -23.545856,
+      "lng": -46.576209,
+      "categoria": "parque",
+      "nome": "Praça Manoel Borges de Souza Nunes",
+      "horario": ""
+    },
+    {
+      "lat": -23.54606,
+      "lng": -46.576484,
+      "categoria": "parque",
+      "nome": "Praça Manoel Borges de Souza Nunes",
+      "horario": ""
+    },
+    {
+      "lat": -23.544685,
+      "lng": -46.579528,
+      "categoria": "parque",
+      "nome": "Praça Armando Miranda",
+      "horario": ""
+    },
+    {
+      "lat": -23.538746,
+      "lng": -46.5717,
+      "categoria": "parque",
+      "nome": "Praça Pádua Dias",
+      "horario": ""
+    },
+    {
+      "lat": -23.538641,
+      "lng": -46.57135,
+      "categoria": "parque",
+      "nome": "Praça Pádua Dias",
+      "horario": ""
+    },
+    {
+      "lat": -23.547331,
+      "lng": -46.579783,
+      "categoria": "parque",
+      "nome": "Praça Edmundo Migliaccio",
+      "horario": ""
+    },
+    {
+      "lat": -23.546167,
+      "lng": -46.576135,
+      "categoria": "parque",
+      "nome": "Praça Manoel Borges de Souza Nunes",
+      "horario": ""
+    },
+    {
+      "lat": -23.542475,
+      "lng": -46.579909,
+      "categoria": "parque",
+      "nome": "Praça João Fernando de Almeida Prado",
+      "horario": ""
+    },
+    {
+      "lat": -23.541941,
+      "lng": -46.57928,
+      "categoria": "parque",
+      "nome": "Praça Senador Virgílio Távora",
+      "horario": ""
+    },
+    {
+      "lat": -23.540216,
+      "lng": -46.580412,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.545651,
+      "lng": -46.571332,
+      "categoria": "academia",
+      "nome": "FSAKM - Federação Sulamericana de Krav Maga",
+      "horario": ""
+    },
+    {
+      "lat": -23.542322,
+      "lng": -46.566932,
+      "categoria": "academia",
+      "nome": "Just Fit",
+      "horario": "Mo-Fr 06:00-23:00; Sa 09:00-18:00; Su,PH 10:00-16:00"
+    },
+    {
+      "lat": -23.536068,
+      "lng": -46.58159,
+      "categoria": "academia",
+      "nome": "Redfit - Unidade Atacadão Celso Garcia",
+      "horario": ""
+    },
+    {
+      "lat": -23.537787,
+      "lng": -46.57493,
+      "categoria": "academia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.533963,
+      "lng": -46.572572,
+      "categoria": "academia",
+      "nome": "Pró 3",
+      "horario": ""
+    },
+    {
+      "lat": -23.540252,
+      "lng": -46.576642,
+      "categoria": "metro",
+      "nome": "Tatuapé",
+      "horario": ""
+    },
+    {
+      "lat": -23.542853,
+      "lng": -46.583089,
+      "categoria": "hospital",
+      "nome": "Pronto Atendimento Sancta Maggiore Tatuapé",
+      "horario": ""
+    }
+  ],
+  "Santana": [
+    {
+      "lat": -23.49737,
+      "lng": -46.626163,
+      "categoria": "padaria",
+      "nome": "Conselheiro Pães e Doçes",
+      "horario": ""
+    },
+    {
+      "lat": -23.500881,
+      "lng": -46.624914,
+      "categoria": "padaria",
+      "nome": "Delano",
+      "horario": ""
+    },
+    {
+      "lat": -23.500099,
+      "lng": -46.631505,
+      "categoria": "padaria",
+      "nome": "Panificadora",
+      "horario": ""
+    },
+    {
+      "lat": -23.499986,
+      "lng": -46.624055,
+      "categoria": "cafe",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.508997,
+      "lng": -46.627162,
+      "categoria": "cafe",
+      "nome": "The Captain",
+      "horario": ""
+    },
+    {
+      "lat": -23.502109,
+      "lng": -46.629996,
+      "categoria": "cafe",
+      "nome": "Sodie doce",
+      "horario": ""
+    },
+    {
+      "lat": -23.499405,
+      "lng": -46.624919,
+      "categoria": "escola",
+      "nome": "Conservatorio Musical São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.501653,
+      "lng": -46.625256,
+      "categoria": "escola",
+      "nome": "Escola Estadual Padre Antônio Vieira",
+      "horario": ""
+    },
+    {
+      "lat": -23.503023,
+      "lng": -46.631586,
+      "categoria": "escola",
+      "nome": "Escola Municipal de Educação Infantil José Bonifácio Andrada e Silva",
+      "horario": ""
+    },
+    {
+      "lat": -23.505036,
+      "lng": -46.621171,
+      "categoria": "escola",
+      "nome": "Escola de Administração Penitenciária Doutor Luiz Camargo Wolfmann",
+      "horario": ""
+    },
+    {
+      "lat": -23.497964,
+      "lng": -46.628342,
+      "categoria": "escola",
+      "nome": "Maple Bear",
+      "horario": ""
+    },
+    {
+      "lat": -23.500592,
+      "lng": -46.61621,
+      "categoria": "escola",
+      "nome": "Escola Estadual Bueno Aires",
+      "horario": ""
+    },
+    {
+      "lat": -23.496994,
+      "lng": -46.625202,
+      "categoria": "escola",
+      "nome": "Colégio Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.508975,
+      "lng": -46.626831,
+      "categoria": "escola",
+      "nome": "Colegio Elite",
+      "horario": ""
+    },
+    {
+      "lat": -23.505829,
+      "lng": -46.626994,
+      "categoria": "escola",
+      "nome": "Colégio Marillac",
+      "horario": ""
+    },
+    {
+      "lat": -23.496226,
+      "lng": -46.628004,
+      "categoria": "escola",
+      "nome": "Escola Estadual Frontino Guimarães",
+      "horario": ""
+    },
+    {
+      "lat": -23.506139,
+      "lng": -46.626,
+      "categoria": "escola",
+      "nome": "Escola de Funileiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.494774,
+      "lng": -46.626038,
+      "categoria": "petshop",
+      "nome": "Consulado da Ração",
+      "horario": ""
+    },
+    {
+      "lat": -23.502283,
+      "lng": -46.630536,
+      "categoria": "restaurante",
+      "nome": "Lig Lig",
+      "horario": ""
+    },
+    {
+      "lat": -23.497347,
+      "lng": -46.625967,
+      "categoria": "restaurante",
+      "nome": "Restaurante Baruch",
+      "horario": ""
+    },
+    {
+      "lat": -23.506153,
+      "lng": -46.624623,
+      "categoria": "restaurante",
+      "nome": "Feijão de Corda",
+      "horario": ""
+    },
+    {
+      "lat": -23.499302,
+      "lng": -46.625722,
+      "categoria": "restaurante",
+      "nome": "Lig Lig",
+      "horario": ""
+    },
+    {
+      "lat": -23.499558,
+      "lng": -46.625768,
+      "categoria": "restaurante",
+      "nome": "Sukiya Santana",
+      "horario": "Mo-Su 11:00-22:40"
+    },
+    {
+      "lat": -23.500801,
+      "lng": -46.62581,
+      "categoria": "restaurante",
+      "nome": "Restaurante Nova Voluntarios",
+      "horario": ""
+    },
+    {
+      "lat": -23.501126,
+      "lng": -46.621291,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.504373,
+      "lng": -46.622375,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.499984,
+      "lng": -46.62416,
+      "categoria": "restaurante",
+      "nome": "Villa do kilo",
+      "horario": ""
+    },
+    {
+      "lat": -23.506843,
+      "lng": -46.626358,
+      "categoria": "restaurante",
+      "nome": "Nova Brisa",
+      "horario": ""
+    },
+    {
+      "lat": -23.505008,
+      "lng": -46.626444,
+      "categoria": "restaurante",
+      "nome": "Sabor da Mineira",
+      "horario": ""
+    },
+    {
+      "lat": -23.504739,
+      "lng": -46.627096,
+      "categoria": "restaurante",
+      "nome": "Nakato",
+      "horario": ""
+    },
+    {
+      "lat": -23.494313,
+      "lng": -46.627637,
+      "categoria": "restaurante",
+      "nome": "Sayoko Sushi",
+      "horario": ""
+    },
+    {
+      "lat": -23.499378,
+      "lng": -46.620417,
+      "categoria": "restaurante",
+      "nome": "La Braciera Pizza Napoletana - Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.499157,
+      "lng": -46.624895,
+      "categoria": "restaurante",
+      "nome": "Molho Madeira",
+      "horario": ""
+    },
+    {
+      "lat": -23.499891,
+      "lng": -46.624931,
+      "categoria": "restaurante",
+      "nome": "Bar e Restaurante Trevo",
+      "horario": ""
+    },
+    {
+      "lat": -23.503214,
+      "lng": -46.634631,
+      "categoria": "restaurante",
+      "nome": "Guaco",
+      "horario": ""
+    },
+    {
+      "lat": -23.503232,
+      "lng": -46.634155,
+      "categoria": "restaurante",
+      "nome": "Riconcito Peruano",
+      "horario": ""
+    },
+    {
+      "lat": -23.50323,
+      "lng": -46.634719,
+      "categoria": "restaurante",
+      "nome": "Temakeria & Cia",
+      "horario": ""
+    },
+    {
+      "lat": -23.49901,
+      "lng": -46.626006,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": "Mo-Sa 08:00-17:00"
+    },
+    {
+      "lat": -23.503246,
+      "lng": -46.623521,
+      "categoria": "restaurante",
+      "nome": "Portal de Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.501143,
+      "lng": -46.619515,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.508209,
+      "lng": -46.62611,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.501953,
+      "lng": -46.623948,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.500246,
+      "lng": -46.626297,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.500245,
+      "lng": -46.626457,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.50042,
+      "lng": -46.62681,
+      "categoria": "restaurante",
+      "nome": "Ponto da esfina",
+      "horario": ""
+    },
+    {
+      "lat": -23.502557,
+      "lng": -46.627992,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.502764,
+      "lng": -46.627179,
+      "categoria": "restaurante",
+      "nome": "Champa",
+      "horario": ""
+    },
+    {
+      "lat": -23.500088,
+      "lng": -46.631697,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.504015,
+      "lng": -46.625054,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.502906,
+      "lng": -46.619914,
+      "categoria": "restaurante",
+      "nome": "Ponta da esfina",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.502079,
+      "lng": -46.629906,
+      "categoria": "restaurante",
+      "nome": "Burger & beef",
+      "horario": ""
+    },
+    {
+      "lat": -23.502363,
+      "lng": -46.62899,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.50532,
+      "lng": -46.626202,
+      "categoria": "restaurante",
+      "nome": "Fior de Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.502342,
+      "lng": -46.615249,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.506195,
+      "lng": -46.623804,
+      "categoria": "empresa",
+      "nome": "Instituto Supera",
+      "horario": ""
+    },
+    {
+      "lat": -23.499791,
+      "lng": -46.624209,
+      "categoria": "empresa",
+      "nome": "SPTrans",
+      "horario": ""
+    },
+    {
+      "lat": -23.498671,
+      "lng": -46.625526,
+      "categoria": "empresa",
+      "nome": "CVC",
+      "horario": ""
+    },
+    {
+      "lat": -23.501054,
+      "lng": -46.625848,
+      "categoria": "empresa",
+      "nome": "Cartório de Sant'Anna",
+      "horario": ""
+    },
+    {
+      "lat": -23.502251,
+      "lng": -46.622484,
+      "categoria": "empresa",
+      "nome": "Peter Souza Sociedade de Advocacia",
+      "horario": ""
+    },
+    {
+      "lat": -23.497832,
+      "lng": -46.627967,
+      "categoria": "empresa",
+      "nome": "FullPDV Sistemas",
+      "horario": "Mo-Fr 07:00-21:00"
+    },
+    {
+      "lat": -23.499988,
+      "lng": -46.616195,
+      "categoria": "empresa",
+      "nome": "Intersys do Brasil Sistemas de Codificação Ltda.",
+      "horario": "Mo-Fr 00:00-24:00"
+    },
+    {
+      "lat": -23.500626,
+      "lng": -46.62577,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": "Mo-Sa 07:00-22:00"
+    },
+    {
+      "lat": -23.495791,
+      "lng": -46.625757,
+      "categoria": "farmacia",
+      "nome": "PromoFarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.499941,
+      "lng": -46.62556,
+      "categoria": "farmacia",
+      "nome": "Bifarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.49614,
+      "lng": -46.625751,
+      "categoria": "farmacia",
+      "nome": "Promofarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.502784,
+      "lng": -46.623523,
+      "categoria": "farmacia",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.500112,
+      "lng": -46.631909,
+      "categoria": "farmacia",
+      "nome": "Raia",
+      "horario": ""
+    },
+    {
+      "lat": -23.507637,
+      "lng": -46.62834,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.500821,
+      "lng": -46.615344,
+      "categoria": "parque",
+      "nome": "Praça Orlando Silva",
+      "horario": ""
+    },
+    {
+      "lat": -23.504046,
+      "lng": -46.629124,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.507437,
+      "lng": -46.620167,
+      "categoria": "parque",
+      "nome": "Parque da Juventude",
+      "horario": ""
+    },
+    {
+      "lat": -23.504823,
+      "lng": -46.627435,
+      "categoria": "parque",
+      "nome": "Praça Heróis da Força Expedicionária Brasileira",
+      "horario": ""
+    },
+    {
+      "lat": -23.496954,
+      "lng": -46.628393,
+      "categoria": "parque",
+      "nome": "Largo Conselheiro Moreira de Barros",
+      "horario": ""
+    },
+    {
+      "lat": -23.494357,
+      "lng": -46.627351,
+      "categoria": "parque",
+      "nome": "Praça Miguel Delgado",
+      "horario": ""
+    },
+    {
+      "lat": -23.496403,
+      "lng": -46.619708,
+      "categoria": "parque",
+      "nome": "Mirante de Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.499472,
+      "lng": -46.624654,
+      "categoria": "parque",
+      "nome": "Praça Margarida de Albuquerque Gimenez",
+      "horario": ""
+    },
+    {
+      "lat": -23.49948,
+      "lng": -46.624262,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.498491,
+      "lng": -46.619628,
+      "categoria": "parque",
+      "nome": "Praça Tenório de Aguiar",
+      "horario": ""
+    },
+    {
+      "lat": -23.504982,
+      "lng": -46.628049,
+      "categoria": "parque",
+      "nome": "Praça Heróis da Força Expedicionária Brasileira",
+      "horario": ""
+    },
+    {
+      "lat": -23.510538,
+      "lng": -46.628449,
+      "categoria": "parque",
+      "nome": "Praça Nakhle Khouri Gharib",
+      "horario": ""
+    },
+    {
+      "lat": -23.509007,
+      "lng": -46.628244,
+      "categoria": "parque",
+      "nome": "Praça Alexandre Gemignani",
+      "horario": ""
+    },
+    {
+      "lat": -23.503681,
+      "lng": -46.633882,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.499068,
+      "lng": -46.61985,
+      "categoria": "parque",
+      "nome": "Praça Luzia Leme",
+      "horario": ""
+    },
+    {
+      "lat": -23.496897,
+      "lng": -46.620219,
+      "categoria": "parque",
+      "nome": "Praça Vaz Guaçú",
+      "horario": ""
+    },
+    {
+      "lat": -23.503464,
+      "lng": -46.633962,
+      "categoria": "parque",
+      "nome": "Praça Tenente Coronel Heleuses Nogueira",
+      "horario": ""
+    },
+    {
+      "lat": -23.496547,
+      "lng": -46.618546,
+      "categoria": "parque",
+      "nome": "Praça Condessa Siciliano",
+      "horario": ""
+    },
+    {
+      "lat": -23.496488,
+      "lng": -46.622122,
+      "categoria": "parque",
+      "nome": "Praça Roberto Felippe Merida Herrera",
+      "horario": ""
+    },
+    {
+      "lat": -23.499737,
+      "lng": -46.615644,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.501068,
+      "lng": -46.61554,
+      "categoria": "parque",
+      "nome": "Praça Orlando Silva",
+      "horario": ""
+    },
+    {
+      "lat": -23.497492,
+      "lng": -46.62101,
+      "categoria": "parque",
+      "nome": "Praça Belem da Cachoeira",
+      "horario": ""
+    },
+    {
+      "lat": -23.503716,
+      "lng": -46.626451,
+      "categoria": "academia",
+      "nome": "Academia",
+      "horario": ""
+    },
+    {
+      "lat": -23.503728,
+      "lng": -46.626283,
+      "categoria": "academia",
+      "nome": "Smarkim gym",
+      "horario": ""
+    },
+    {
+      "lat": -23.502236,
+      "lng": -46.631552,
+      "categoria": "academia",
+      "nome": "High point",
+      "horario": ""
+    },
+    {
+      "lat": -23.506692,
+      "lng": -46.617382,
+      "categoria": "academia",
+      "nome": "Outdoor gym station",
+      "horario": ""
+    },
+    {
+      "lat": -23.50011,
+      "lng": -46.619602,
+      "categoria": "academia",
+      "nome": "C4 gym",
+      "horario": ""
+    },
+    {
+      "lat": -23.509131,
+      "lng": -46.625081,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.502553,
+      "lng": -46.625051,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.502612,
+      "lng": -46.624434,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.509128,
+      "lng": -46.625203,
+      "categoria": "metro",
+      "nome": "Carandiru",
+      "horario": ""
+    },
+    {
+      "lat": -23.502437,
+      "lng": -46.625089,
+      "categoria": "metro",
+      "nome": "Santana",
+      "horario": ""
+    },
+    {
+      "lat": -23.495795,
+      "lng": -46.625132,
+      "categoria": "hospital",
+      "nome": "Hospital San Paolo",
+      "horario": "Mo-Su 08:00-24:00"
+    }
+  ],
+  "Brooklin": [
+    {
+      "lat": -23.611647,
+      "lng": -46.695058,
+      "categoria": "padaria",
+      "nome": "União Fialense",
+      "horario": ""
+    },
+    {
+      "lat": -23.623439,
+      "lng": -46.688324,
+      "categoria": "padaria",
+      "nome": "Pássaros e flores pães e doces",
+      "horario": ""
+    },
+    {
+      "lat": -23.608718,
+      "lng": -46.694532,
+      "categoria": "cafe",
+      "nome": "Starbucks",
+      "horario": "Mo-Fr 07:00-21:00"
+    },
+    {
+      "lat": -23.613987,
+      "lng": -46.686417,
+      "categoria": "cafe",
+      "nome": "Lá de Minas",
+      "horario": ""
+    },
+    {
+      "lat": -23.609341,
+      "lng": -46.686271,
+      "categoria": "cafe",
+      "nome": "Parise Gourmet",
+      "horario": "10:30-18:00; Sa 10:30-16:00; Su off"
+    },
+    {
+      "lat": -23.610511,
+      "lng": -46.697333,
+      "categoria": "cafe",
+      "nome": "Café Doce",
+      "horario": ""
+    },
+    {
+      "lat": -23.611413,
+      "lng": -46.693928,
+      "categoria": "cafe",
+      "nome": "Sterna Café",
+      "horario": "Mo-Fr 08:00-17:00"
+    },
+    {
+      "lat": -23.622611,
+      "lng": -46.688094,
+      "categoria": "escola",
+      "nome": "Beatíssima Virgem Maria",
+      "horario": ""
+    },
+    {
+      "lat": -23.612916,
+      "lng": -46.681428,
+      "categoria": "escola",
+      "nome": "Diko Pataca",
+      "horario": ""
+    },
+    {
+      "lat": -23.61181,
+      "lng": -46.688535,
+      "categoria": "escola",
+      "nome": "Colégio do C.E.C.I",
+      "horario": ""
+    },
+    {
+      "lat": -23.614081,
+      "lng": -46.681964,
+      "categoria": "restaurante",
+      "nome": "Uffizi",
+      "horario": ""
+    },
+    {
+      "lat": -23.609423,
+      "lng": -46.694641,
+      "categoria": "restaurante",
+      "nome": "Garfus",
+      "horario": ""
+    },
+    {
+      "lat": -23.607553,
+      "lng": -46.693256,
+      "categoria": "restaurante",
+      "nome": "Yoi! Rolls & Temakis",
+      "horario": ""
+    },
+    {
+      "lat": -23.610205,
+      "lng": -46.695118,
+      "categoria": "restaurante",
+      "nome": "Tomate Cereja",
+      "horario": ""
+    },
+    {
+      "lat": -23.610621,
+      "lng": -46.692577,
+      "categoria": "restaurante",
+      "nome": "Officina",
+      "horario": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-16:00"
+    },
+    {
+      "lat": -23.621843,
+      "lng": -46.687493,
+      "categoria": "restaurante",
+      "nome": "Fratelli Basilico",
+      "horario": "18:00-23:00; Fr-Sa 18:00-00:30; Mo off"
+    },
+    {
+      "lat": -23.623973,
+      "lng": -46.688649,
+      "categoria": "restaurante",
+      "nome": "Vicolo Nostro",
+      "horario": ""
+    },
+    {
+      "lat": -23.62382,
+      "lng": -46.688276,
+      "categoria": "restaurante",
+      "nome": "Portucho",
+      "horario": ""
+    },
+    {
+      "lat": -23.612277,
+      "lng": -46.695634,
+      "categoria": "restaurante",
+      "nome": "Charme do Brooklin",
+      "horario": ""
+    },
+    {
+      "lat": -23.609175,
+      "lng": -46.696092,
+      "categoria": "restaurante",
+      "nome": "Terra do Fogo",
+      "horario": ""
+    },
+    {
+      "lat": -23.610686,
+      "lng": -46.697024,
+      "categoria": "restaurante",
+      "nome": "Mercatto",
+      "horario": ""
+    },
+    {
+      "lat": -23.609366,
+      "lng": -46.694655,
+      "categoria": "restaurante",
+      "nome": "Barakah Cozinha Árabe",
+      "horario": ""
+    },
+    {
+      "lat": -23.611397,
+      "lng": -46.693879,
+      "categoria": "empresa",
+      "nome": "Telogis do Brasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.609199,
+      "lng": -46.693218,
+      "categoria": "empresa",
+      "nome": "Carambola",
+      "horario": ""
+    },
+    {
+      "lat": -23.62317,
+      "lng": -46.692877,
+      "categoria": "empresa",
+      "nome": "Mestrado e centro de pesquisa em Design",
+      "horario": ""
+    },
+    {
+      "lat": -23.622597,
+      "lng": -46.693321,
+      "categoria": "empresa",
+      "nome": "Central do aluno",
+      "horario": ""
+    },
+    {
+      "lat": -23.608573,
+      "lng": -46.694441,
+      "categoria": "empresa",
+      "nome": "Vivo Eco Berrini",
+      "horario": "Mo-Fr 07:00-22:00"
+    },
+    {
+      "lat": -23.611789,
+      "lng": -46.695843,
+      "categoria": "empresa",
+      "nome": "Expanda",
+      "horario": "Mo-Fr 09:00-18:00"
+    },
+    {
+      "lat": -23.611814,
+      "lng": -46.695704,
+      "categoria": "empresa",
+      "nome": "Póvoa Boutique Imobiliária",
+      "horario": "Mo-Fr 09:00-18:00"
+    },
+    {
+      "lat": -23.61041,
+      "lng": -46.686276,
+      "categoria": "mercado",
+      "nome": "Pão de Açúcar",
+      "horario": "PH,Mo-Su 06:00-22:00"
+    },
+    {
+      "lat": -23.613614,
+      "lng": -46.682538,
+      "categoria": "mercado",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.612179,
+      "lng": -46.684049,
+      "categoria": "mercado",
+      "nome": "Pão de Açúcar",
+      "horario": ""
+    },
+    {
+      "lat": -23.62289,
+      "lng": -46.683749,
+      "categoria": "mercado",
+      "nome": "Dia",
+      "horario": ""
+    },
+    {
+      "lat": -23.613579,
+      "lng": -46.68057,
+      "categoria": "farmacia",
+      "nome": "Pague Menos",
+      "horario": ""
+    },
+    {
+      "lat": -23.62002,
+      "lng": -46.694284,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.616609,
+      "lng": -46.68082,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": ""
+    },
+    {
+      "lat": -23.610307,
+      "lng": -46.697137,
+      "categoria": "farmacia",
+      "nome": "Drogaria São Paulo",
+      "horario": ""
+    },
+    {
+      "lat": -23.612828,
+      "lng": -46.692765,
+      "categoria": "parque",
+      "nome": "Praça Arlindo Rossi",
+      "horario": ""
+    },
+    {
+      "lat": -23.610296,
+      "lng": -46.694462,
+      "categoria": "parque",
+      "nome": "Praça James Maxwell",
+      "horario": ""
+    },
+    {
+      "lat": -23.612535,
+      "lng": -46.697321,
+      "categoria": "parque",
+      "nome": "Praça José Antero Guedes",
+      "horario": ""
+    },
+    {
+      "lat": -23.610928,
+      "lng": -46.692785,
+      "categoria": "parque",
+      "nome": "Praça Sir William Crookes",
+      "horario": ""
+    },
+    {
+      "lat": -23.615598,
+      "lng": -46.689772,
+      "categoria": "parque",
+      "nome": "Praça Ubirajara Medeiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.608609,
+      "lng": -46.692626,
+      "categoria": "parque",
+      "nome": "Praça Lions Monções",
+      "horario": ""
+    },
+    {
+      "lat": -23.61976,
+      "lng": -46.694138,
+      "categoria": "parque",
+      "nome": "Praça Boaventura Farina",
+      "horario": ""
+    },
+    {
+      "lat": -23.615359,
+      "lng": -46.690765,
+      "categoria": "parque",
+      "nome": "Praça dos Libaneses",
+      "horario": ""
+    },
+    {
+      "lat": -23.608227,
+      "lng": -46.685022,
+      "categoria": "parque",
+      "nome": "Praça Antônio Nunes de Siqueira",
+      "horario": ""
+    },
+    {
+      "lat": -23.610769,
+      "lng": -46.692674,
+      "categoria": "parque",
+      "nome": "Praça Sir William Crookes",
+      "horario": ""
+    },
+    {
+      "lat": -23.614994,
+      "lng": -46.689252,
+      "categoria": "parque",
+      "nome": "Praça Doutor Antônio Bias da Costa Bueno",
+      "horario": ""
+    },
+    {
+      "lat": -23.615556,
+      "lng": -46.689795,
+      "categoria": "parque",
+      "nome": "Praça Ubirajara Medeiros",
+      "horario": ""
+    },
+    {
+      "lat": -23.61701,
+      "lng": -46.685103,
+      "categoria": "parque",
+      "nome": "Praça Andre Pucca",
+      "horario": ""
+    },
+    {
+      "lat": -23.617211,
+      "lng": -46.686079,
+      "categoria": "parque",
+      "nome": "Praça Moysés Cury",
+      "horario": ""
+    },
+    {
+      "lat": -23.618335,
+      "lng": -46.684215,
+      "categoria": "parque",
+      "nome": "Praça Júlia Bechara Curi",
+      "horario": ""
+    },
+    {
+      "lat": -23.61778,
+      "lng": -46.685138,
+      "categoria": "parque",
+      "nome": "Praça Presidente Camille Chamoun",
+      "horario": ""
+    },
+    {
+      "lat": -23.616661,
+      "lng": -46.687013,
+      "categoria": "parque",
+      "nome": "Praça Alexandre Issa Maluf",
+      "horario": ""
+    },
+    {
+      "lat": -23.611738,
+      "lng": -46.696286,
+      "categoria": "parque",
+      "nome": "Praça Humberto Valente",
+      "horario": ""
+    },
+    {
+      "lat": -23.622598,
+      "lng": -46.686061,
+      "categoria": "parque",
+      "nome": "Praça do Sagrado Coração de Jesus",
+      "horario": ""
+    },
+    {
+      "lat": -23.615144,
+      "lng": -46.681365,
+      "categoria": "parque",
+      "nome": "Bosque Paulistânia",
+      "horario": "Mo-Sa 08:00-20:00"
+    },
+    {
+      "lat": -23.61515,
+      "lng": -46.693808,
+      "categoria": "parque",
+      "nome": "Praça Comunitária",
+      "horario": "Mo-Su 06:00-24:00"
+    },
+    {
+      "lat": -23.615447,
+      "lng": -46.694009,
+      "categoria": "parque",
+      "nome": "Praça Comunitária II",
+      "horario": "Mo-Su 06:00-22:00"
+    },
+    {
+      "lat": -23.621927,
+      "lng": -46.687064,
+      "categoria": "academia",
+      "nome": "Crossfit Juntos",
+      "horario": "Mo-Sa 07:00-20:00"
+    },
+    {
+      "lat": -23.618733,
+      "lng": -46.682085,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.618475,
+      "lng": -46.682443,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.615249,
+      "lng": -46.694282,
+      "categoria": "hospital",
+      "nome": "Hospital Premier",
+      "horario": ""
+    }
+  ],
+  "Saúde": [
+    {
+      "lat": -23.61093,
+      "lng": -46.634253,
+      "categoria": "padaria",
+      "nome": "Koban",
+      "horario": ""
+    },
+    {
+      "lat": -23.610384,
+      "lng": -46.638077,
+      "categoria": "padaria",
+      "nome": "Pão Caseiro",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.610683,
+      "lng": -46.63681,
+      "categoria": "padaria",
+      "nome": "Maria Pães e Doces",
+      "horario": ""
+    },
+    {
+      "lat": -23.612058,
+      "lng": -46.64535,
+      "categoria": "padaria",
+      "nome": "Sol Padaria",
+      "horario": ""
+    },
+    {
+      "lat": -23.617017,
+      "lng": -46.638459,
+      "categoria": "cafe",
+      "nome": "Everday",
+      "horario": ""
+    },
+    {
+      "lat": -23.619069,
+      "lng": -46.640879,
+      "categoria": "cafe",
+      "nome": "Cafeteria - Doces e Salgados",
+      "horario": "Mo-Sa 08:00-18:00"
+    },
+    {
+      "lat": -23.620493,
+      "lng": -46.62966,
+      "categoria": "escola",
+      "nome": "Escola Estadual Professora Maria Ribeiro Guimarães Bueno",
+      "horario": ""
+    },
+    {
+      "lat": -23.620795,
+      "lng": -46.639888,
+      "categoria": "escola",
+      "nome": "Colégio Internacional Radial",
+      "horario": ""
+    },
+    {
+      "lat": -23.621496,
+      "lng": -46.641136,
+      "categoria": "escola",
+      "nome": "Sociedade Beneficiente Feminina Mika",
+      "horario": ""
+    },
+    {
+      "lat": -23.623666,
+      "lng": -46.631777,
+      "categoria": "escola",
+      "nome": "Sagrada Familia De Nazare",
+      "horario": ""
+    },
+    {
+      "lat": -23.615435,
+      "lng": -46.638949,
+      "categoria": "escola",
+      "nome": "Cetrus",
+      "horario": ""
+    },
+    {
+      "lat": -23.617013,
+      "lng": -46.635944,
+      "categoria": "escola",
+      "nome": "Colégio Terra",
+      "horario": ""
+    },
+    {
+      "lat": -23.616707,
+      "lng": -46.635121,
+      "categoria": "escola",
+      "nome": "Kumon - Unidade Carneiro da Cunha",
+      "horario": ""
+    },
+    {
+      "lat": -23.62608,
+      "lng": -46.635805,
+      "categoria": "escola",
+      "nome": "Escola Estadual Professora Lygia de Azevedo Souza e Sá",
+      "horario": ""
+    },
+    {
+      "lat": -23.612598,
+      "lng": -46.634739,
+      "categoria": "escola",
+      "nome": "Escola Estadual Professora Helena Lemmi",
+      "horario": ""
+    },
+    {
+      "lat": -23.617231,
+      "lng": -46.633906,
+      "categoria": "escola",
+      "nome": "Colegio Conte",
+      "horario": ""
+    },
+    {
+      "lat": -23.619385,
+      "lng": -46.640133,
+      "categoria": "escola",
+      "nome": "Escola Vila Monteiro Lobato",
+      "horario": ""
+    },
+    {
+      "lat": -23.620991,
+      "lng": -46.643933,
+      "categoria": "escola",
+      "nome": "Escola Estadual Professor Lourenço Filho",
+      "horario": ""
+    },
+    {
+      "lat": -23.615372,
+      "lng": -46.635781,
+      "categoria": "petshop",
+      "nome": "Cãopanheiros Peludos",
+      "horario": ""
+    },
+    {
+      "lat": -23.617425,
+      "lng": -46.640808,
+      "categoria": "petshop",
+      "nome": "Estudio Pet (IEP)",
+      "horario": ""
+    },
+    {
+      "lat": -23.618884,
+      "lng": -46.640886,
+      "categoria": "petshop",
+      "nome": "MCM Pet Shop",
+      "horario": "Mo-Sa 08:00-19:00"
+    },
+    {
+      "lat": -23.619333,
+      "lng": -46.648165,
+      "categoria": "petshop",
+      "nome": "Pet Avian - Day Care",
+      "horario": ""
+    },
+    {
+      "lat": -23.618132,
+      "lng": -46.636906,
+      "categoria": "veterinario",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.620367,
+      "lng": -46.647723,
+      "categoria": "veterinario",
+      "nome": "Beleza Animal",
+      "horario": ""
+    },
+    {
+      "lat": -23.621804,
+      "lng": -46.63849,
+      "categoria": "veterinario",
+      "nome": "Pet Dogstore",
+      "horario": ""
+    },
+    {
+      "lat": -23.610898,
+      "lng": -46.634271,
+      "categoria": "restaurante",
+      "nome": "Kusuki",
+      "horario": ""
+    },
+    {
+      "lat": -23.620592,
+      "lng": -46.636355,
+      "categoria": "restaurante",
+      "nome": "Restaurante Libanes",
+      "horario": ""
+    },
+    {
+      "lat": -23.610954,
+      "lng": -46.63695,
+      "categoria": "restaurante",
+      "nome": "Restaurante Miape",
+      "horario": ""
+    },
+    {
+      "lat": -23.61798,
+      "lng": -46.637624,
+      "categoria": "restaurante",
+      "nome": "Saborear",
+      "horario": ""
+    },
+    {
+      "lat": -23.610166,
+      "lng": -46.638078,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.610459,
+      "lng": -46.637343,
+      "categoria": "restaurante",
+      "nome": "Gauchão",
+      "horario": ""
+    },
+    {
+      "lat": -23.610946,
+      "lng": -46.637552,
+      "categoria": "restaurante",
+      "nome": "Limão com mel",
+      "horario": ""
+    },
+    {
+      "lat": -23.611112,
+      "lng": -46.636961,
+      "categoria": "restaurante",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.620641,
+      "lng": -46.637492,
+      "categoria": "restaurante",
+      "nome": "Ramen K",
+      "horario": ""
+    },
+    {
+      "lat": -23.616762,
+      "lng": -46.631784,
+      "categoria": "restaurante",
+      "nome": "Pepperoni",
+      "horario": "Mo-Su 18:00-24:00"
+    },
+    {
+      "lat": -23.61822,
+      "lng": -46.635973,
+      "categoria": "restaurante",
+      "nome": "Acaizeiro",
+      "horario": ""
+    },
+    {
+      "lat": -23.617257,
+      "lng": -46.639879,
+      "categoria": "restaurante",
+      "nome": "Yukury Asa Gohan",
+      "horario": "Mo-Sa 10:00-16:00"
+    },
+    {
+      "lat": -23.617987,
+      "lng": -46.639631,
+      "categoria": "restaurante",
+      "nome": "Thaifood",
+      "horario": ""
+    },
+    {
+      "lat": -23.615727,
+      "lng": -46.643451,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Charles",
+      "horario": "Su-Th 18:00-23:00; Fr-Sa 18:00-23:30"
+    },
+    {
+      "lat": -23.621281,
+      "lng": -46.634607,
+      "categoria": "restaurante",
+      "nome": "Pizzaria Luau",
+      "horario": ""
+    },
+    {
+      "lat": -23.621644,
+      "lng": -46.637547,
+      "categoria": "restaurante",
+      "nome": "Evilazio Grill Steakhouse",
+      "horario": ""
+    },
+    {
+      "lat": -23.620657,
+      "lng": -46.636705,
+      "categoria": "restaurante",
+      "nome": "Italianinho VB",
+      "horario": ""
+    },
+    {
+      "lat": -23.621683,
+      "lng": -46.637285,
+      "categoria": "restaurante",
+      "nome": "Victor Sushi e Comida Japonesa",
+      "horario": ""
+    },
+    {
+      "lat": -23.6222,
+      "lng": -46.644095,
+      "categoria": "restaurante",
+      "nome": "Churrascaria Costela de Ouro",
+      "horario": ""
+    },
+    {
+      "lat": -23.616076,
+      "lng": -46.638852,
+      "categoria": "empresa",
+      "nome": "Cartório Saúde - RCPN - 21º Subdistrito",
+      "horario": ""
+    },
+    {
+      "lat": -23.622552,
+      "lng": -46.636084,
+      "categoria": "empresa",
+      "nome": "DDS DataDirect Solutions",
+      "horario": "09:00-18:00"
+    },
+    {
+      "lat": -23.620252,
+      "lng": -46.637162,
+      "categoria": "empresa",
+      "nome": "ILS Contabilidade",
+      "horario": ""
+    },
+    {
+      "lat": -23.618175,
+      "lng": -46.636846,
+      "categoria": "empresa",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.612747,
+      "lng": -46.635314,
+      "categoria": "empresa",
+      "nome": "Curcia Imóveis",
+      "horario": ""
+    },
+    {
+      "lat": -23.618203,
+      "lng": -46.636733,
+      "categoria": "empresa",
+      "nome": "E7",
+      "horario": ""
+    },
+    {
+      "lat": -23.621496,
+      "lng": -46.641136,
+      "categoria": "escola",
+      "nome": "Sociedade Beneficiente Feminina Mika",
+      "horario": ""
+    },
+    {
+      "lat": -23.617639,
+      "lng": -46.640668,
+      "categoria": "empresa",
+      "nome": "UNINOVE (Polo Saúde)",
+      "horario": ""
+    },
+    {
+      "lat": -23.619217,
+      "lng": -46.648286,
+      "categoria": "empresa",
+      "nome": "Associação Brasileira dos Concessionários Volkswagen Truck & Bus",
+      "horario": ""
+    },
+    {
+      "lat": -23.62412,
+      "lng": -46.646177,
+      "categoria": "empresa",
+      "nome": "Mello Imóveis - 44 Anos de Tradição",
+      "horario": ""
+    },
+    {
+      "lat": -23.622027,
+      "lng": -46.647056,
+      "categoria": "empresa",
+      "nome": "Union Telecom Com de Equip",
+      "horario": ""
+    },
+    {
+      "lat": -23.62132,
+      "lng": -46.646853,
+      "categoria": "empresa",
+      "nome": "Anual Imóveis",
+      "horario": ""
+    },
+    {
+      "lat": -23.622288,
+      "lng": -46.64695,
+      "categoria": "empresa",
+      "nome": "Associação Brasileira de Esclerose Múltipla",
+      "horario": ""
+    },
+    {
+      "lat": -23.621667,
+      "lng": -46.637404,
+      "categoria": "empresa",
+      "nome": "Impacto Visual",
+      "horario": ""
+    },
+    {
+      "lat": -23.624677,
+      "lng": -46.643566,
+      "categoria": "empresa",
+      "nome": "Sindicato dos Empregados em Editoras de Livros",
+      "horario": ""
+    },
+    {
+      "lat": -23.617328,
+      "lng": -46.638443,
+      "categoria": "mercado",
+      "nome": "Eden Produtos Naturais",
+      "horario": ""
+    },
+    {
+      "lat": -23.614876,
+      "lng": -46.643598,
+      "categoria": "mercado",
+      "nome": "Supermercado Vila das Frutas",
+      "horario": ""
+    },
+    {
+      "lat": -23.617104,
+      "lng": -46.632111,
+      "categoria": "mercado",
+      "nome": "DIA Supermercado",
+      "horario": ""
+    },
+    {
+      "lat": -23.609272,
+      "lng": -46.638236,
+      "categoria": "farmacia",
+      "nome": "Drogasil",
+      "horario": "24/7"
+    },
+    {
+      "lat": -23.617616,
+      "lng": -46.639203,
+      "categoria": "farmacia",
+      "nome": "Farma Conde",
+      "horario": ""
+    },
+    {
+      "lat": -23.617562,
+      "lng": -46.639194,
+      "categoria": "farmacia",
+      "nome": "Ultrafarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.622111,
+      "lng": -46.640188,
+      "categoria": "farmacia",
+      "nome": "Farma Conde",
+      "horario": ""
+    },
+    {
+      "lat": -23.611051,
+      "lng": -46.63705,
+      "categoria": "farmacia",
+      "nome": "Farma Lima",
+      "horario": ""
+    },
+    {
+      "lat": -23.618999,
+      "lng": -46.630894,
+      "categoria": "parque",
+      "nome": "Praça Argemiro Alves de Sá",
+      "horario": ""
+    },
+    {
+      "lat": -23.610506,
+      "lng": -46.64186,
+      "categoria": "parque",
+      "nome": "Praça Guaçunduva",
+      "horario": ""
+    },
+    {
+      "lat": -23.610615,
+      "lng": -46.637563,
+      "categoria": "parque",
+      "nome": "Praça da Árvore",
+      "horario": ""
+    },
+    {
+      "lat": -23.622813,
+      "lng": -46.636271,
+      "categoria": "parque",
+      "nome": "Praça Jornalista Otávio Câmara de Oliveira",
+      "horario": ""
+    },
+    {
+      "lat": -23.613951,
+      "lng": -46.637994,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.61242,
+      "lng": -46.646439,
+      "categoria": "parque",
+      "nome": "Praça Etienne Allegrain",
+      "horario": ""
+    },
+    {
+      "lat": -23.613195,
+      "lng": -46.644445,
+      "categoria": "parque",
+      "nome": "Praça Maria Hecilda Campos Salgado",
+      "horario": ""
+    },
+    {
+      "lat": -23.6182,
+      "lng": -46.643057,
+      "categoria": "parque",
+      "nome": "Praça Cônego Olavo Braga Scardigno",
+      "horario": ""
+    },
+    {
+      "lat": -23.620704,
+      "lng": -46.636585,
+      "categoria": "parque",
+      "nome": "Praça Waldemar Marchetti",
+      "horario": ""
+    },
+    {
+      "lat": -23.611085,
+      "lng": -46.641517,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.611508,
+      "lng": -46.636741,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.613134,
+      "lng": -46.637843,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.616338,
+      "lng": -46.632078,
+      "categoria": "parque",
+      "nome": "Park Catulo 426",
+      "horario": ""
+    },
+    {
+      "lat": -23.623073,
+      "lng": -46.632632,
+      "categoria": "parque",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.621669,
+      "lng": -46.637709,
+      "categoria": "parque",
+      "nome": "Praça Paracatu Biobedas",
+      "horario": ""
+    },
+    {
+      "lat": -23.610596,
+      "lng": -46.636817,
+      "categoria": "academia",
+      "nome": "Reafit Pilates e Fitness",
+      "horario": "Mo-Th 07:00-21:00; Fr 07:00-18:00; Sa 08:00-12:00"
+    },
+    {
+      "lat": -23.624828,
+      "lng": -46.64534,
+      "categoria": "academia",
+      "nome": "Clube Helvetia",
+      "horario": ""
+    },
+    {
+      "lat": -23.619331,
+      "lng": -46.637842,
+      "categoria": "academia",
+      "nome": "Nivel A",
+      "horario": "06:00-00:00"
+    },
+    {
+      "lat": -23.621433,
+      "lng": -46.641381,
+      "categoria": "academia",
+      "nome": "Studio BeLev",
+      "horario": ""
+    },
+    {
+      "lat": -23.618081,
+      "lng": -46.641187,
+      "categoria": "academia",
+      "nome": "Ayus Studio Pilates",
+      "horario": ""
+    },
+    {
+      "lat": -23.616456,
+      "lng": -46.643337,
+      "categoria": "academia",
+      "nome": "Action 360º",
+      "horario": ""
+    },
+    {
+      "lat": -23.613913,
+      "lng": -46.632986,
+      "categoria": "academia",
+      "nome": "Clarke Academia",
+      "horario": ""
+    },
+    {
+      "lat": -23.614811,
+      "lng": -46.637618,
+      "categoria": "academia",
+      "nome": "Academia Nova Arena",
+      "horario": ""
+    },
+    {
+      "lat": -23.616364,
+      "lng": -46.638531,
+      "categoria": "academia",
+      "nome": "Smart Fit",
+      "horario": "Tu-Fr 05:00-23:00; Su 08:00-14:00; Sa 08:00-17:00"
+    },
+    {
+      "lat": -23.618473,
+      "lng": -46.638901,
+      "categoria": "metro",
+      "nome": "Saúde - Linha 1 Azul - Acesso Lado Ímpar",
+      "horario": ""
+    },
+    {
+      "lat": -23.610449,
+      "lng": -46.637523,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso Lado Ímpar",
+      "horario": ""
+    },
+    {
+      "lat": -23.610563,
+      "lng": -46.638209,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso Lado Par",
+      "horario": ""
+    },
+    {
+      "lat": -23.610866,
+      "lng": -46.637532,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso à Praça",
+      "horario": ""
+    },
+    {
+      "lat": -23.625547,
+      "lng": -46.641014,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.625764,
+      "lng": -46.640627,
+      "categoria": "metro",
+      "nome": "",
+      "horario": ""
+    },
+    {
+      "lat": -23.618555,
+      "lng": -46.639426,
+      "categoria": "metro",
+      "nome": "Saúde - Linha 1 Azul - Acesso Lado Par",
+      "horario": ""
+    },
+    {
+      "lat": -23.625584,
+      "lng": -46.640817,
+      "categoria": "metro",
+      "nome": "São Judas",
+      "horario": ""
+    },
+    {
+      "lat": -23.618426,
+      "lng": -46.639204,
+      "categoria": "metro",
+      "nome": "Saúde – Ultrafarma",
+      "horario": ""
+    },
+    {
+      "lat": -23.610568,
+      "lng": -46.6379,
+      "categoria": "metro",
+      "nome": "Praça da Árvore",
+      "horario": ""
+    },
+    {
+      "lat": -23.610747,
+      "lng": -46.637623,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso à Praça",
+      "horario": ""
+    },
+    {
+      "lat": -23.610828,
+      "lng": -46.637659,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso à Praça",
+      "horario": ""
+    },
+    {
+      "lat": -23.610406,
+      "lng": -46.637637,
+      "categoria": "metro",
+      "nome": "Praça da Árvore - Linha 1 Azul - Acesso Lado Ímpar",
+      "horario": ""
+    },
+    {
+      "lat": -23.618242,
+      "lng": -46.632095,
+      "categoria": "hospital",
+      "nome": "Sancta Maggiore",
+      "horario": ""
+    }
+  ]
+}

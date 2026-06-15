@@ -1,0 +1,22 @@
+# --- Segredos (NUNCA commitar) ---
+.env
+.env.*
+!.env.example
+*.key
+secrets.*
+
+# --- Dados sensíveis / pesados ---
+# datasets do Kaggle (grandes, baixe localmente)
+data/*.csv
+# contatos capturados (privacidade!)
+cache/leads.csv
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+
+# --- Config local do Claude Code ---
+.claude/settings.local.json

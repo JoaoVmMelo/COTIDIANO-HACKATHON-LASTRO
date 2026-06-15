@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>COTIDIANO — Pitch</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;700;800;900&family=Red+Hat+Text:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body { overflow: hidden; }
+    .progress { position: fixed; top: 0; left: 0; height: 4px; background: var(--accent); z-index: 50; transition: width .4s ease; }
+    .deck { position: relative; height: 100vh; }
+    .slide { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center;
+      padding: 8vh 9vw; opacity: 0; visibility: hidden; transform: translateY(16px);
+      transition: opacity .45s ease, transform .45s ease, visibility .45s; overflow-y: auto; }
+    .slide.active { opacity: 1; visibility: visible; transform: none; }
+    .slide.hero { background: var(--bg-hero); color: var(--text-inverse); }
+    .slide.hero .s-tag, .slide.hero h1, .slide.hero h2, .slide.hero p { color: #fff; }
+
+    .s-tag { display: inline-flex; align-items: center; gap: 8px; color: var(--accent); font-weight: 700;
+      font-size: 14px; text-transform: uppercase; letter-spacing: .1em; margin-bottom: 18px; }
+    .slide.hero .s-tag { color: rgba(255,255,255,.9); }
+    .badge { display: inline-flex; align-items: center; gap: 9px; background: rgba(255,255,255,.16);
+      border: 1px solid rgba(255,255,255,.28); padding: 8px 16px; border-radius: 999px; font-weight: 600;
+      font-size: 14px; margin-bottom: 26px; width: fit-content; }
+    .slide h1 { font-size: clamp(40px, 8vw, 92px); font-weight: 900; line-height: .98; letter-spacing: -.03em; }
+    .slide h2 { font-size: clamp(28px, 4.6vw, 52px); font-weight: 800; line-height: 1.05; letter-spacing: -.02em; max-width: 20ch; }
+    .lead { font-size: clamp(18px, 2.2vw, 26px); color: var(--text-muted); margin-top: 20px; max-width: 40ch; }
+    .slide.hero .lead { color: rgba(255,255,255,.85); }
+    .tagline { font-family: var(--font-display); font-weight: 800; font-size: clamp(22px, 3.4vw, 40px);
+      line-height: 1.12; margin-top: 22px; max-width: 22ch; }
+    .quote { font-family: var(--font-display); font-weight: 900; font-size: clamp(30px, 5.5vw, 68px);
+      line-height: 1.08; letter-spacing: -.02em; max-width: 16ch; }
+    .quote .accent { color: var(--accent); }
+    .slide.hero .quote .accent { color: var(--mint); }
+
+    .cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 30px; max-width: 880px; }
+    .pcard { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 22px; box-shadow: var(--shadow-sm); }
+    .slide.hero .pcard { background: rgba(255,255,255,.1); border-color: rgba(255,255,255,.2); }
+    .pcard .ic { width: 42px; height: 42px; border-radius: 11px; display: grid; place-items: center;
+      background: var(--accent-light); color: var(--accent); margin-bottom: 14px; }
+    .slide.hero .pcard .ic { background: rgba(255,255,255,.18); color: #fff; }
+    .pcard h3 { font-family: var(--font-display); font-size: 19px; font-weight: 800; margin-bottom: 5px; }
+    .pcard p { color: var(--text-muted); font-size: 15px; line-height: 1.45; }
+    .slide.hero .pcard p { color: rgba(255,255,255,.82); }
+
+    .points { margin-top: 26px; display: flex; flex-direction: column; gap: 16px; max-width: 720px; }
+    .point { display: flex; align-items: flex-start; gap: 14px; font-size: clamp(17px, 2vw, 21px); }
+    .point .dot { flex-shrink: 0; width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center;
+      background: var(--accent-light); color: var(--accent); margin-top: 2px; }
+    .slide.hero .point .dot { background: rgba(255,255,255,.18); color: #fff; }
+    .slide.hero .point { color: rgba(255,255,255,.92); }
+    .slide.hero .point b { color: #fff; }
+    .point b { font-weight: 700; }
+
+    .big-stat { font-family: var(--font-display); font-weight: 900; font-size: clamp(60px, 11vw, 150px);
+      line-height: 1; letter-spacing: -.04em; color: var(--accent); }
+    .slide.hero .big-stat { color: var(--mint); }
+    .demo-line { margin-top: 26px; padding: 20px 24px; border-radius: var(--radius); background: var(--bg-2);
+      border-left: 5px solid var(--accent); max-width: 760px; }
+    .demo-line .q { font-family: var(--font-display); font-weight: 800; font-size: clamp(20px, 2.6vw, 30px); }
+    .demo-line .a { color: var(--text-muted); margin-top: 8px; font-size: 17px; }
+
+    .chat-eg { margin-top: 12px; background: var(--bg-2); border: 1px solid var(--border); border-radius: 13px;
+      border-top-left-radius: 4px; padding: 10px 13px; font-size: 14.5px; font-style: italic; color: var(--text); }
+    .pcard .saida { margin-top: 11px; font-size: 15px; color: var(--text-muted); }
+    .pcard .saida b { color: var(--accent); font-style: normal; }
+    .pcard .num { font-family: var(--font-display); font-weight: 900; color: var(--accent); margin-right: 4px; }
+
+    /* nav */
+    .nav { position: fixed; bottom: 22px; right: 28px; display: flex; align-items: center; gap: 10px; z-index: 50; }
+    .nav button { width: 44px; height: 44px; border-radius: 12px; border: 1px solid var(--border);
+      background: var(--card-bg); color: var(--text); cursor: pointer; display: grid; place-items: center;
+      box-shadow: var(--shadow-sm); transition: border-color .15s, color .15s; }
+    .nav button:hover { border-color: var(--accent); color: var(--accent); }
+    .counter { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--text-muted); font-size: 14px;
+      min-width: 54px; text-align: center; }
+    .dots { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; z-index: 50; }
+    .dots i { width: 9px; height: 9px; border-radius: 50%; background: var(--border-strong); cursor: pointer; transition: background .2s, transform .2s; }
+    .dots i.on { background: var(--accent); transform: scale(1.25); }
+    .hint { position: fixed; bottom: 28px; left: 28px; color: var(--text-dim); font-size: 13px; z-index: 50; }
+    .slide.hero ~ .hint { color: var(--text-dim); }
+
+    @media (max-width: 760px) { .cards { grid-template-columns: 1fr; } .dots { display: none; } }
+  </style>
+</head>
+<body>
+  <div class="progress" id="progress"></div>
+  <div class="deck" id="deck">
+
+    <!-- 1. CAPA -->
+    <section class="slide hero active">
+      <span class="badge">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .962 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.962 0z"/></svg>
+        Hackathon Lastro · Lais
+      </span>
+      <h1>COTIDIANO</h1>
+      <p class="tagline">Ninguém aluga um preço por m².<br>A pessoa aluga <span style="color:var(--mint)">uma vida</span>.</p>
+      <p class="lead">A IA que simula o seu cotidiano real num bairro — e vira o topo de funil que entrega leads quentes pra Lastro.</p>
+    </section>
+
+    <!-- 2. PROBLEMA -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg>
+        O problema
+      </span>
+      <h2>Você escolhe pelo aluguel. Você se arrepende pela vida.</h2>
+      <div class="points">
+        <div class="point"><span class="dot">!</span><span>Condomínio caro, <b>1h30 de trânsito</b>, nenhuma padaria por perto — e um contrato de <b>30 meses</b> preso.</span></div>
+        <div class="point"><span class="dot">!</span><span>A pessoa decide olhando o preço do m²… e descobre o <b>custo real da vida</b> tarde demais.</span></div>
+        <div class="point"><span class="dot">!</span><span>Pra imobiliária, esse cliente no início da jornada é um <b>lead frio que se perde</b>.</span></div>
+      </div>
+    </section>
+
+    <!-- 3. SOLUÇÃO -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
+        A solução
+      </span>
+      <h2>A Lais simula o seu cotidiano naquele bairro.</h2>
+      <div class="cards">
+        <div class="pcard"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"/><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"/><path d="M18 12a2 2 0 0 0 0 4h4v-4Z"/></svg></div><h3>Custo de vida completo</h3><p>Moradia + condomínio + contas + transporte, com intervalo de confiança. Estimativa transparente.</p></div>
+        <div class="pcard"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg></div><h3>Trajeto real</h3><p>Rota por ruas até o <b>seu</b> trabalho — não um endereço genérico.</p></div>
+        <div class="pcard"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><h3>A rotina concreta</h3><p>A padaria que abre 6h, o petshop pro cachorro, o almoço perto do escritório — com nomes reais.</p></div>
+        <div class="pcard"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/><circle cx="12" cy="12" r="10"/></svg></div><h3>Score de compatibilidade</h3><p>Uma nota 0–100 ponderada pelo seu perfil: pet, filhos, metrô, orçamento.</p></div>
+      </div>
+    </section>
+
+    <!-- 4. TRÊS CONVERSAS -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
+        Três conversas com a Laís
+      </span>
+      <h2>Uma IA, três jeitos de conversar.</h2>
+      <div class="cards" style="grid-template-columns:repeat(3,1fr); max-width:1080px">
+        <div class="pcard">
+          <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></div>
+          <h3><span class="num">1 ·</span>Acha meu bairro</h3>
+          <div class="chat-eg">"Tenho R$ 5 mil e trabalho na Faria Lima."</div>
+          <p class="saida">→ Ela <b>recomenda</b> os bairros que cabem no bolso e ficam perto do seu trabalho.</p>
+        </div>
+        <div class="pcard">
+          <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+          <h3><span class="num">2 ·</span>Como seria minha vida</h3>
+          <div class="chat-eg">"Já escolhi Pinheiros. Como é o dia a dia?"</div>
+          <p class="saida">→ Ela <b>desenha sua rotina</b>: padaria, trajeto, pet e o almoço perto do escritório — com nomes reais.</p>
+        </div>
+        <div class="pcard">
+          <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg></div>
+          <h3><span class="num">3 ·</span>E se…? <span style="font-size:13px;color:var(--accent)">(agêntica)</span></h3>
+          <div class="chat-eg">"E se fosse R$ 3.500? E indo de bike?"</div>
+          <p class="saida">→ Ela <b>recalcula na hora</b>, executando o código. Não decora resposta.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. DEMO / WOW -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
+        Demo ao vivo
+      </span>
+      <h2>Uma IA agêntica que <span style="color:var(--accent)">recalcula de verdade</span>.</h2>
+      <div class="demo-line">
+        <div class="q">"E se meu orçamento caísse pra R$ 3.500?"</div>
+        <div class="a">→ A Lais <b>recomputa os bairros na hora</b>. Ela executa o motor de cálculo — não decora resposta.</div>
+      </div>
+      <p class="lead">Dois modos: ela te <b>recomenda</b> o bairro ideal, ou você <b>dá um local</b> e ela conta como seria viver ali.</p>
+    </section>
+
+    <!-- 5. IMPACTO -->
+    <section class="slide hero">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="m19 9-5 5-4-4-3 3"/></svg>
+        Impacto no negócio
+      </span>
+      <h2>O topo de funil da Lais.</h2>
+      <p class="tagline">A Lais <span style="color:var(--mint)">converte</span> leads.<br>O COTIDIANO <span style="color:var(--mint)">gera leads melhores</span> pra ela converter.</p>
+      <div class="points" style="margin-top:30px">
+        <div class="point"><span class="dot"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span>A pessoa usa de graça, se engaja e <b>deixa o contato</b> pelo relatório.</span></div>
+        <div class="point"><span class="dot"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span>O lead chega <b>já qualificado</b>: orçamento, onde trabalha, estilo, bairros que considerou.</span></div>
+        <div class="point"><span class="dot"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Widget embedável</b> no site da imobiliária → gera lead passivamente.</span></div>
+      </div>
+    </section>
+
+    <!-- 6. VIABILIDADE -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m16.2 7.8 2.9-2.9"/><path d="M18 12h4"/><path d="m16.2 16.2 2.9 2.9"/><path d="M12 18v4"/><path d="m4.9 19.1 2.9-2.9"/><path d="M2 12h4"/><path d="m4.9 4.9 2.9 2.9"/></svg>
+        Viabilidade
+      </span>
+      <h2>Roda hoje. De graça. Sem quebrar.</h2>
+      <div class="points">
+        <div class="point"><span class="dot">✓</span><span>Ponta a ponta com <b>fallback offline</b> — o demo não trava sem internet.</span></div>
+        <div class="point"><span class="dot">✓</span><span>Dados <b>grátis e sem chave</b>: OpenStreetMap (locais), OSRM (rotas), Nominatim (geocoding).</span></div>
+        <div class="point"><span class="dot">✓</span><span><b>Honestidade como força</b>: custo é estimativa com intervalo de confiança, nunca "valor oficial".</span></div>
+        <div class="point"><span class="dot">✓</span><span><b>Escalável</b>: dados globais → replicável em qualquer cidade.</span></div>
+      </div>
+    </section>
+
+    <!-- 7. DIFERENCIAÇÃO -->
+    <section class="slide hero">
+      <p class="quote">Os portais te mostram <span class="accent">imóveis</span>.<br>A gente te mostra a <span class="accent">sua vida</span>.</p>
+    </section>
+
+    <!-- 8. VISÃO -->
+    <section class="slide">
+      <span class="s-tag">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+        Pra onde vai
+      </span>
+      <h2>De lead magnet a plataforma de decisão.</h2>
+      <div class="cards">
+        <div class="pcard"><h3>Dados mais ricos</h3><p>Google Places (avaliações/horários) e GTFS da SPTrans (trajeto de ônibus real).</p></div>
+        <div class="pcard"><h3>Moat de dados</h3><p>"Quanto você paga?" → base própria de custo real, que ninguém tem.</p></div>
+        <div class="pcard"><h3>Verticais</h3><p>Relocação corporativa, estudantes, famílias.</p></div>
+        <div class="pcard"><h3>B2B2C</h3><p>Widget pras imobiliárias parceiras — aquisição em escala.</p></div>
+      </div>
+    </section>
+
+    <!-- 9. FECHAMENTO -->
+    <section class="slide hero">
+      <span class="badge"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg> COTIDIANO</span>
+      <h1 style="font-size:clamp(34px,6vw,72px)">A sua vida,<br>antes de assinar o contrato.</h1>
+      <p class="lead">Dado real de localização e rota. IA agêntica por cima. Lead qualificado no fim. Obrigado! 🙌</p>
+    </section>
+
+  </div>
+
+  <div class="progress-wrap"></div>
+  <div class="dots" id="dots"></div>
+  <div class="hint">← → para navegar</div>
+  <div class="nav">
+    <button id="prev" title="Anterior"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+    <span class="counter" id="counter">1 / 9</span>
+    <button id="next" title="Próximo"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+    <button id="theme" title="Tema"><span id="theme-ic"></span></button>
+  </div>
+
+  <script>
+    const slides = [...document.querySelectorAll(".slide")];
+    const dots = document.getElementById("dots");
+    let i = 0;
+    slides.forEach((_, k) => { const d = document.createElement("i"); d.onclick = () => go(k); dots.appendChild(d); });
+    const SUN = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>';
+    const MOON = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>';
+
+    function go(n) {
+      i = Math.max(0, Math.min(slides.length - 1, n));
+      slides.forEach((s, k) => s.classList.toggle("active", k === i));
+      [...dots.children].forEach((d, k) => d.classList.toggle("on", k === i));
+      document.getElementById("counter").textContent = `${i + 1} / ${slides.length}`;
+      document.getElementById("progress").style.width = `${(i + 1) / slides.length * 100}%`;
+    }
+    document.getElementById("next").onclick = () => go(i + 1);
+    document.getElementById("prev").onclick = () => go(i - 1);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight" || e.key === " ") go(i + 1);
+      if (e.key === "ArrowLeft") go(i - 1);
+    });
+    function theme(t) {
+      document.documentElement.setAttribute("data-theme", t);
+      localStorage.setItem("cotidiano-theme", t);
+      document.getElementById("theme-ic").innerHTML = t === "dark" ? SUN : MOON;
+    }
+    theme(localStorage.getItem("cotidiano-theme") || "light");
+    document.getElementById("theme").onclick = () =>
+      theme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    go(0);
+  </script>
+</body>
+</html>

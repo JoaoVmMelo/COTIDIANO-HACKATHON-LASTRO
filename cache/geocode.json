@@ -1,0 +1,82 @@
+{
+  "cachoeirinha": {
+    "lat": -23.4630177,
+    "lng": -46.6610721,
+    "nome": "Cachoeirinha, São Paulo"
+  },
+  "rua mendonça junior": {
+    "lat": -23.4788239,
+    "lng": -46.6634206,
+    "nome": "Rua Mendonça Júnior, Vila Amélia"
+  },
+  "rua mendonça júnior, vila amélia": {
+    "lat": -23.4788239,
+    "lng": -46.6634206,
+    "nome": "Rua Mendonça Júnior, Vila Amélia"
+  },
+  "rua cirilo": {
+    "lat": -23.4919943,
+    "lng": -46.6448957,
+    "nome": "Rua Cirilo de Oliveira, Imirim"
+  },
+  "diadema": {
+    "lat": -23.6866428,
+    "lng": -46.6246935,
+    "nome": "Diadema, São Paulo"
+  },
+  "usp, são paulo": {
+    "lat": -23.5575973,
+    "lng": -46.7118744,
+    "nome": "Cidade Universitária, Marginal Pinheiros (Expressa)"
+  },
+  "tatuapé": {
+    "lat": -23.5332785,
+    "lng": -46.5823128,
+    "nome": "Casa do Sítio Tatuapé, Rua Guabiju"
+  },
+  "usp": {
+    "lat": -23.5575973,
+    "lng": -46.7118744,
+    "nome": "Cidade Universitária, Marginal Pinheiros (Expressa)"
+  },
+  "avenida brigadeiro faria lima, 1500": {
+    "lat": -23.5670073,
+    "lng": -46.6941269,
+    "nome": "Avenida Brigadeiro Faria Lima, Pinheiros"
+  },
+  "av. nossa senhora da assunção 647": {
+    "lat": -23.5738625,
+    "lng": -46.7420765,
+    "nome": "Avenida Nossa Senhora Da Assunção, 250"
+  },
+  "paulista": {
+    "lat": -23.555315,
+    "lng": -46.6619477,
+    "nome": "Paulista - Pernambucanas, Paulista"
+  },
+  "berrini": {
+    "lat": -23.6047104,
+    "lng": -46.69678,
+    "nome": "Berrini, Ciclovia do Rio Pinheiros"
+  },
+  "santana": {
+    "lat": -23.499321,
+    "lng": -46.6289326,
+    "nome": "Santana, São Paulo"
+  },
+  "santana, são paulo": {
+    "lat": -23.499321,
+    "lng": -46.6289326,
+    "nome": "Santana, São Paulo"
+  },
+  "avenida paulista": {
+    "lat": -23.5564923,
+    "lng": -46.6618125,
+    "nome": "Avenida Paulista, Consolação"
+  },
+  "avenida paulista, consolação": {
+    "lat": -23.5572014,
+    "lng": -46.6610391,
+    "nome": "Avenida Paulista, Consolação"
+  }
+}

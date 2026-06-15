@@ -1,0 +1,4732 @@
+{
+  "Aclimação": {
+    "aluguel_m2_medio": 40.75,
+    "preco_m2_venda": 10187,
+    "preco_m2_ci_lo": 9070,
+    "preco_m2_ci_hi": 11304,
+    "preco_m2_p10": 6286,
+    "preco_m2_p90": 15412,
+    "n_transacoes": 50,
+    "condominio_medio": 688
+  },
+  "Alphaville": {
+    "aluguel_m2_medio": 39.57,
+    "preco_m2_venda": 9893,
+    "preco_m2_ci_lo": 7595,
+    "preco_m2_ci_hi": 12191,
+    "preco_m2_p10": 6057,
+    "preco_m2_p90": 12604,
+    "n_transacoes": 24,
+    "condominio_medio": 1955
+  },
+  "Alphaville Centro Industrial E Empresarial/alphaville.": {
+    "aluguel_m2_medio": 50.53,
+    "preco_m2_venda": 12633,
+    "preco_m2_ci_lo": 10668,
+    "preco_m2_ci_hi": 14597,
+    "preco_m2_p10": 10195,
+    "preco_m2_p90": 14678,
+    "n_transacoes": 5,
+    "condominio_medio": 1440
+  },
+  "Alphaville Empresarial": {
+    "aluguel_m2_medio": 67.82,
+    "preco_m2_venda": 16955,
+    "preco_m2_ci_lo": 15036,
+    "preco_m2_ci_hi": 18873,
+    "preco_m2_p10": 12260,
+    "preco_m2_p90": 23765,
+    "n_transacoes": 22,
+    "condominio_medio": 842
+  },
+  "Alphaville Industrial": {
+    "aluguel_m2_medio": 64.12,
+    "preco_m2_venda": 16030,
+    "preco_m2_ci_lo": 13926,
+    "preco_m2_ci_hi": 18134,
+    "preco_m2_p10": 9295,
+    "preco_m2_p90": 25000,
+    "n_transacoes": 35,
+    "condominio_medio": 1286
+  },
+  "Alto da Lapa": {
+    "aluguel_m2_medio": 47.47,
+    "preco_m2_venda": 11867,
+    "preco_m2_ci_lo": 9347,
+    "preco_m2_ci_hi": 14388,
+    "preco_m2_p10": 6943,
+    "preco_m2_p90": 17917,
+    "n_transacoes": 15,
+    "condominio_medio": 1046
+  },
+  "Alto da Mooca": {
+    "aluguel_m2_medio": 36.33,
+    "preco_m2_venda": 9081,
+    "preco_m2_ci_lo": 7813,
+    "preco_m2_ci_hi": 10349,
+    "preco_m2_p10": 5647,
+    "preco_m2_p90": 14738,
+    "n_transacoes": 34,
+    "condominio_medio": 570
+  },
+  "Alto de Pinheiros": {
+    "aluguel_m2_medio": 53.09,
+    "preco_m2_venda": 13272,
+    "preco_m2_ci_lo": 11251,
+    "preco_m2_ci_hi": 15293,
+    "preco_m2_p10": 8086,
+    "preco_m2_p90": 18485,
+    "n_transacoes": 20,
+    "condominio_medio": 1946
+  },
+  "Americanópolis": {
+    "aluguel_m2_medio": 21.29,
+    "preco_m2_venda": 5322,
+    "preco_m2_ci_lo": 4616,
+    "preco_m2_ci_hi": 6027,
+    "preco_m2_p10": 3795,
+    "preco_m2_p90": 6404,
+    "n_transacoes": 10,
+    "condominio_medio": 48
+  },
+  "Barra Funda": {
+    "aluguel_m2_medio": 54.8,
+    "preco_m2_venda": 13700,
+    "preco_m2_ci_lo": 12772,
+    "preco_m2_ci_hi": 14627,
+    "preco_m2_p10": 7572,
+    "preco_m2_p90": 19588,
+    "n_transacoes": 82,
+    "condominio_medio": 658
+  },
+  "Bela Vista": {
+    "aluguel_m2_medio": 56.65,
+    "preco_m2_venda": 14162,
+    "preco_m2_ci_lo": 13454,
+    "preco_m2_ci_hi": 14871,
+    "preco_m2_p10": 7359,
+    "preco_m2_p90": 24530,
+    "n_transacoes": 337,
+    "condominio_medio": 613
+  },
+  "Belenzinho": {
+    "aluguel_m2_medio": 52.5,
+    "preco_m2_venda": 13126,
+    "preco_m2_ci_lo": 11249,
+    "preco_m2_ci_hi": 15003,
+    "preco_m2_p10": 8511,
+    "preco_m2_p90": 20370,
+    "n_transacoes": 31,
+    "condominio_medio": 448
+  },
+  "Bom Retiro": {
+    "aluguel_m2_medio": 48.74,
+    "preco_m2_venda": 12186,
+    "preco_m2_ci_lo": 9918,
+    "preco_m2_ci_hi": 14454,
+    "preco_m2_p10": 5329,
+    "preco_m2_p90": 19250,
+    "n_transacoes": 28,
+    "condominio_medio": 566
+  },
+  "Bosque da Saúde": {
+    "aluguel_m2_medio": 37.3,
+    "preco_m2_venda": 9326,
+    "preco_m2_ci_lo": 8166,
+    "preco_m2_ci_hi": 10486,
+    "preco_m2_p10": 6502,
+    "preco_m2_p90": 13026,
+    "n_transacoes": 23,
+    "condominio_medio": 690
+  },
+  "Brooklin": {
+    "aluguel_m2_medio": 73.32,
+    "preco_m2_venda": 18330,
+    "preco_m2_ci_lo": 14735,
+    "preco_m2_ci_hi": 21924,
+    "preco_m2_p10": 8523,
+    "preco_m2_p90": 30242,
+    "n_transacoes": 21,
+    "condominio_medio": 899
+  },
+  "Brooklin Paulista": {
+    "aluguel_m2_medio": 55.71,
+    "preco_m2_venda": 13928,
+    "preco_m2_ci_lo": 11858,
+    "preco_m2_ci_hi": 15997,
+    "preco_m2_p10": 6847,
+    "preco_m2_p90": 23695,
+    "n_transacoes": 46,
+    "condominio_medio": 1129
+  },
+  "Brás": {
+    "aluguel_m2_medio": 48.83,
+    "preco_m2_venda": 12206,
+    "preco_m2_ci_lo": 11318,
+    "preco_m2_ci_hi": 13095,
+    "preco_m2_p10": 6250,
+    "preco_m2_p90": 18750,
+    "n_transacoes": 141,
+    "condominio_medio": 458
+  },
+  "Bussocaba": {
+    "aluguel_m2_medio": 23.82,
+    "preco_m2_venda": 5955,
+    "preco_m2_ci_lo": 5113,
+    "preco_m2_ci_hi": 6796,
+    "preco_m2_p10": 4875,
+    "preco_m2_p90": 6722,
+    "n_transacoes": 5,
+    "condominio_medio": 624
+  },
+  "Butantã": {
+    "aluguel_m2_medio": 65.16,
+    "preco_m2_venda": 16290,
+    "preco_m2_ci_lo": 13804,
+    "preco_m2_ci_hi": 18775,
+    "preco_m2_p10": 6476,
+    "preco_m2_p90": 27044,
+    "n_transacoes": 42,
+    "condominio_medio": 682
+  },
+  "Cambuci": {
+    "aluguel_m2_medio": 42.96,
+    "preco_m2_venda": 10739,
+    "preco_m2_ci_lo": 10052,
+    "preco_m2_ci_hi": 11427,
+    "preco_m2_p10": 6874,
+    "preco_m2_p90": 15006,
+    "n_transacoes": 104,
+    "condominio_medio": 496
+  },
+  "Campanário": {
+    "aluguel_m2_medio": 30.41,
+    "preco_m2_venda": 7604,
+    "preco_m2_ci_lo": 5998,
+    "preco_m2_ci_hi": 9209,
+    "preco_m2_p10": 5402,
+    "preco_m2_p90": 10326,
+    "n_transacoes": 8,
+    "condominio_medio": 556
+  },
+  "Campestre": {
+    "aluguel_m2_medio": 39.1,
+    "preco_m2_venda": 9774,
+    "preco_m2_ci_lo": 8280,
+    "preco_m2_ci_hi": 11268,
+    "preco_m2_p10": 5653,
+    "preco_m2_p90": 14067,
+    "n_transacoes": 18,
+    "condominio_medio": 432
+  },
+  "Campo Belo": {
+    "aluguel_m2_medio": 54.46,
+    "preco_m2_venda": 13615,
+    "preco_m2_ci_lo": 12409,
+    "preco_m2_ci_hi": 14821,
+    "preco_m2_p10": 6735,
+    "preco_m2_p90": 22833,
+    "n_transacoes": 108,
+    "condominio_medio": 1210
+  },
+  "Campo Grande": {
+    "aluguel_m2_medio": 29.38,
+    "preco_m2_venda": 7346,
+    "preco_m2_ci_lo": 4698,
+    "preco_m2_ci_hi": 9994,
+    "preco_m2_p10": 4772,
+    "preco_m2_p90": 10322,
+    "n_transacoes": 8,
+    "condominio_medio": 262
+  },
+  "Campos Elíseos": {
+    "aluguel_m2_medio": 40.29,
+    "preco_m2_venda": 10073,
+    "preco_m2_ci_lo": 9053,
+    "preco_m2_ci_hi": 11093,
+    "preco_m2_p10": 5357,
+    "preco_m2_p90": 16272,
+    "n_transacoes": 115,
+    "condominio_medio": 503
+  },
+  "Cangaiba": {
+    "aluguel_m2_medio": 25.08,
+    "preco_m2_venda": 6269,
+    "preco_m2_ci_lo": 4997,
+    "preco_m2_ci_hi": 7542,
+    "preco_m2_p10": 4684,
+    "preco_m2_p90": 8439,
+    "n_transacoes": 8,
+    "condominio_medio": 290
+  },
+  "Cangaíba": {
+    "aluguel_m2_medio": 27.68,
+    "preco_m2_venda": 6919,
+    "preco_m2_ci_lo": 6384,
+    "preco_m2_ci_hi": 7454,
+    "preco_m2_p10": 6123,
+    "preco_m2_p90": 7571,
+    "n_transacoes": 6,
+    "condominio_medio": 374
+  },
+  "Canhema": {
+    "aluguel_m2_medio": 24.53,
+    "preco_m2_venda": 6132,
+    "preco_m2_ci_lo": 3246,
+    "preco_m2_ci_hi": 9018,
+    "preco_m2_p10": 3680,
+    "preco_m2_p90": 9345,
+    "n_transacoes": 5,
+    "condominio_medio": 109
+  },
+  "Carandiru": {
+    "aluguel_m2_medio": 33.89,
+    "preco_m2_venda": 8474,
+    "preco_m2_ci_lo": 5830,
+    "preco_m2_ci_hi": 11117,
+    "preco_m2_p10": 4863,
+    "preco_m2_p90": 12881,
+    "n_transacoes": 8,
+    "condominio_medio": 336
+  },
+  "Casa Verde": {
+    "aluguel_m2_medio": 41.44,
+    "preco_m2_venda": 10361,
+    "preco_m2_ci_lo": 8856,
+    "preco_m2_ci_hi": 11867,
+    "preco_m2_p10": 5003,
+    "preco_m2_p90": 16494,
+    "n_transacoes": 32,
+    "condominio_medio": 488
+  },
+  "Casa Verde Alta": {
+    "aluguel_m2_medio": 23.59,
+    "preco_m2_venda": 5898,
+    "preco_m2_ci_lo": 5233,
+    "preco_m2_ci_hi": 6562,
+    "preco_m2_p10": 4062,
+    "preco_m2_p90": 7784,
+    "n_transacoes": 21,
+    "condominio_medio": 182
+  },
+  "Catumbi": {
+    "aluguel_m2_medio": 39.8,
+    "preco_m2_venda": 9949,
+    "preco_m2_ci_lo": 6654,
+    "preco_m2_ci_hi": 13244,
+    "preco_m2_p10": 6472,
+    "preco_m2_p90": 13750,
+    "n_transacoes": 5,
+    "condominio_medio": 424
+  },
+  "Centro": {
+    "aluguel_m2_medio": 44.8,
+    "preco_m2_venda": 11200,
+    "preco_m2_ci_lo": 10391,
+    "preco_m2_ci_hi": 12008,
+    "preco_m2_p10": 5568,
+    "preco_m2_p90": 18634,
+    "n_transacoes": 176,
+    "condominio_medio": 552
+  },
+  "Centro Histórico de São Paulo": {
+    "aluguel_m2_medio": 43.91,
+    "preco_m2_venda": 10976,
+    "preco_m2_ci_lo": 9710,
+    "preco_m2_ci_hi": 12243,
+    "preco_m2_p10": 5110,
+    "preco_m2_p90": 18574,
+    "n_transacoes": 72,
+    "condominio_medio": 558
+  },
+  "Cerqueira César": {
+    "aluguel_m2_medio": 72.84,
+    "preco_m2_venda": 18211,
+    "preco_m2_ci_lo": 16946,
+    "preco_m2_ci_hi": 19475,
+    "preco_m2_p10": 9944,
+    "preco_m2_p90": 29763,
+    "n_transacoes": 136,
+    "condominio_medio": 1968
+  },
+  "Chora Menino": {
+    "aluguel_m2_medio": 31.42,
+    "preco_m2_venda": 7854,
+    "preco_m2_ci_lo": 6396,
+    "preco_m2_ci_hi": 9312,
+    "preco_m2_p10": 4833,
+    "preco_m2_p90": 10887,
+    "n_transacoes": 14,
+    "condominio_medio": 409
+  },
+  "Chácara Agrindus": {
+    "aluguel_m2_medio": 27.05,
+    "preco_m2_venda": 6763,
+    "preco_m2_ci_lo": 5062,
+    "preco_m2_ci_hi": 8463,
+    "preco_m2_p10": 5051,
+    "preco_m2_p90": 8843,
+    "n_transacoes": 5,
+    "condominio_medio": 731
+  },
+  "Chácara Belenzinho": {
+    "aluguel_m2_medio": 31.79,
+    "preco_m2_venda": 7948,
+    "preco_m2_ci_lo": 5189,
+    "preco_m2_ci_hi": 10707,
+    "preco_m2_p10": 4167,
+    "preco_m2_p90": 9000,
+    "n_transacoes": 21,
+    "condominio_medio": 135
+  },
+  "Chácara Califórnia": {
+    "aluguel_m2_medio": 39.97,
+    "preco_m2_venda": 9992,
+    "preco_m2_ci_lo": 8789,
+    "preco_m2_ci_hi": 11195,
+    "preco_m2_p10": 6717,
+    "preco_m2_p90": 12673,
+    "n_transacoes": 18,
+    "condominio_medio": 452
+  },
+  "Chácara Cruzeiro do Sul": {
+    "aluguel_m2_medio": 30.03,
+    "preco_m2_venda": 7509,
+    "preco_m2_ci_lo": 6453,
+    "preco_m2_ci_hi": 8564,
+    "preco_m2_p10": 5921,
+    "preco_m2_p90": 8668,
+    "n_transacoes": 6,
+    "condominio_medio": 158
+  },
+  "Chácara Inglesa": {
+    "aluguel_m2_medio": 39.43,
+    "preco_m2_venda": 9858,
+    "preco_m2_ci_lo": 8429,
+    "preco_m2_ci_hi": 11288,
+    "preco_m2_p10": 4864,
+    "preco_m2_p90": 15220,
+    "n_transacoes": 36,
+    "condominio_medio": 810
+  },
+  "Chácara Mafalda": {
+    "aluguel_m2_medio": 30.75,
+    "preco_m2_venda": 7686,
+    "preco_m2_ci_lo": 6034,
+    "preco_m2_ci_hi": 9339,
+    "preco_m2_p10": 4444,
+    "preco_m2_p90": 11184,
+    "n_transacoes": 11,
+    "condominio_medio": 208
+  },
+  "Chácara Monte Alegre": {
+    "aluguel_m2_medio": 32.34,
+    "preco_m2_venda": 8085,
+    "preco_m2_ci_lo": 5975,
+    "preco_m2_ci_hi": 10195,
+    "preco_m2_p10": 5271,
+    "preco_m2_p90": 11182,
+    "n_transacoes": 8,
+    "condominio_medio": 1480
+  },
+  "Chácara Santo Antônio (zona Leste)": {
+    "aluguel_m2_medio": 31.49,
+    "preco_m2_venda": 7873,
+    "preco_m2_ci_lo": 7001,
+    "preco_m2_ci_hi": 8745,
+    "preco_m2_p10": 6165,
+    "preco_m2_p90": 10284,
+    "n_transacoes": 15,
+    "condominio_medio": 298
+  },
+  "Chácara Santo Antônio (zona Sul)": {
+    "aluguel_m2_medio": 54.24,
+    "preco_m2_venda": 13560,
+    "preco_m2_ci_lo": 11358,
+    "preco_m2_ci_hi": 15763,
+    "preco_m2_p10": 7172,
+    "preco_m2_p90": 20206,
+    "n_transacoes": 25,
+    "condominio_medio": 879
+  },
+  "Chácara Seis de Outubro": {
+    "aluguel_m2_medio": 34.84,
+    "preco_m2_venda": 8710,
+    "preco_m2_ci_lo": 7189,
+    "preco_m2_ci_hi": 10231,
+    "preco_m2_p10": 6380,
+    "preco_m2_p90": 11805,
+    "n_transacoes": 9,
+    "condominio_medio": 297
+  },
+  "Cidade Ademar": {
+    "aluguel_m2_medio": 27.96,
+    "preco_m2_venda": 6991,
+    "preco_m2_ci_lo": 5796,
+    "preco_m2_ci_hi": 8185,
+    "preco_m2_p10": 5719,
+    "preco_m2_p90": 8316,
+    "n_transacoes": 5,
+    "condominio_medio": 783
+  },
+  "Cidade Antônio Estevão de Carvalho": {
+    "aluguel_m2_medio": 25.42,
+    "preco_m2_venda": 6355,
+    "preco_m2_ci_lo": 4850,
+    "preco_m2_ci_hi": 7860,
+    "preco_m2_p10": 4641,
+    "preco_m2_p90": 8646,
+    "n_transacoes": 6,
+    "condominio_medio": 85
+  },
+  "Cidade Dutra": {
+    "aluguel_m2_medio": 30.22,
+    "preco_m2_venda": 7556,
+    "preco_m2_ci_lo": 5627,
+    "preco_m2_ci_hi": 9485,
+    "preco_m2_p10": 5339,
+    "preco_m2_p90": 10235,
+    "n_transacoes": 6,
+    "condominio_medio": 308
+  },
+  "Cidade Líder": {
+    "aluguel_m2_medio": 32.93,
+    "preco_m2_venda": 8232,
+    "preco_m2_ci_lo": 5387,
+    "preco_m2_ci_hi": 11076,
+    "preco_m2_p10": 5575,
+    "preco_m2_p90": 14026,
+    "n_transacoes": 9,
+    "condominio_medio": 278
+  },
+  "Cidade Monções": {
+    "aluguel_m2_medio": 78.12,
+    "preco_m2_venda": 19531,
+    "preco_m2_ci_lo": 17484,
+    "preco_m2_ci_hi": 21577,
+    "preco_m2_p10": 10721,
+    "preco_m2_p90": 29828,
+    "n_transacoes": 49,
+    "condominio_medio": 1423
+  },
+  "Cidade Mãe do Céu": {
+    "aluguel_m2_medio": 45.15,
+    "preco_m2_venda": 11288,
+    "preco_m2_ci_lo": 9511,
+    "preco_m2_ci_hi": 13064,
+    "preco_m2_p10": 5841,
+    "preco_m2_p90": 16574,
+    "n_transacoes": 28,
+    "condominio_medio": 326
+  },
+  "Cidade Patriarca": {
+    "aluguel_m2_medio": 30.93,
+    "preco_m2_venda": 7733,
+    "preco_m2_ci_lo": 6875,
+    "preco_m2_ci_hi": 8592,
+    "preco_m2_p10": 5197,
+    "preco_m2_p90": 9818,
+    "n_transacoes": 20,
+    "condominio_medio": 196
+  },
+  "Cidade São Francisco": {
+    "aluguel_m2_medio": 44.26,
+    "preco_m2_venda": 11066,
+    "preco_m2_ci_lo": 6551,
+    "preco_m2_ci_hi": 15581,
+    "preco_m2_p10": 6708,
+    "preco_m2_p90": 16630,
+    "n_transacoes": 6,
+    "condominio_medio": 1082
+  },
+  "Cidade Vargas": {
+    "aluguel_m2_medio": 33.81,
+    "preco_m2_venda": 8452,
+    "preco_m2_ci_lo": 6424,
+    "preco_m2_ci_hi": 10479,
+    "preco_m2_p10": 5833,
+    "preco_m2_p90": 11950,
+    "n_transacoes": 11,
+    "condominio_medio": 300
+  },
+  "Cidade das Flores": {
+    "aluguel_m2_medio": 29.97,
+    "preco_m2_venda": 7491,
+    "preco_m2_ci_lo": 5655,
+    "preco_m2_ci_hi": 9328,
+    "preco_m2_p10": 5206,
+    "preco_m2_p90": 9681,
+    "n_transacoes": 6,
+    "condominio_medio": 436
+  },
+  "City Bussocaba": {
+    "aluguel_m2_medio": 38.8,
+    "preco_m2_venda": 9701,
+    "preco_m2_ci_lo": 7035,
+    "preco_m2_ci_hi": 12368,
+    "preco_m2_p10": 7940,
+    "preco_m2_p90": 12593,
+    "n_transacoes": 5,
+    "condominio_medio": 346
+  },
+  "Conceição": {
+    "aluguel_m2_medio": 36.24,
+    "preco_m2_venda": 9059,
+    "preco_m2_ci_lo": 6989,
+    "preco_m2_ci_hi": 11129,
+    "preco_m2_p10": 7110,
+    "preco_m2_p90": 11545,
+    "n_transacoes": 6,
+    "condominio_medio": 379
+  },
+  "Conjunto Residencial José Bonifácio": {
+    "aluguel_m2_medio": 22.27,
+    "preco_m2_venda": 5567,
+    "preco_m2_ci_lo": 4535,
+    "preco_m2_ci_hi": 6599,
+    "preco_m2_p10": 4250,
+    "preco_m2_p90": 6429,
+    "n_transacoes": 5,
+    "condominio_medio": 186
+  },
+  "Consolação": {
+    "aluguel_m2_medio": 70.67,
+    "preco_m2_venda": 17667,
+    "preco_m2_ci_lo": 16487,
+    "preco_m2_ci_hi": 18848,
+    "preco_m2_p10": 8957,
+    "preco_m2_p90": 28157,
+    "n_transacoes": 155,
+    "condominio_medio": 851
+  },
+  "Continental": {
+    "aluguel_m2_medio": 59.0,
+    "preco_m2_venda": 14750,
+    "preco_m2_ci_lo": 9362,
+    "preco_m2_ci_hi": 20139,
+    "preco_m2_p10": 9570,
+    "preco_m2_p90": 20422,
+    "n_transacoes": 5,
+    "condominio_medio": 739
+  },
+  "Cursino": {
+    "aluguel_m2_medio": 27.51,
+    "preco_m2_venda": 6878,
+    "preco_m2_ci_lo": 5227,
+    "preco_m2_ci_hi": 8528,
+    "preco_m2_p10": 4761,
+    "preco_m2_p90": 8771,
+    "n_transacoes": 7,
+    "condominio_medio": 126
+  },
+  "Empresarial 18 do Forte": {
+    "aluguel_m2_medio": 82.33,
+    "preco_m2_venda": 20584,
+    "preco_m2_ci_lo": 17694,
+    "preco_m2_ci_hi": 23473,
+    "preco_m2_p10": 14937,
+    "preco_m2_p90": 27292,
+    "n_transacoes": 16,
+    "condominio_medio": 1204
+  },
+  "Engenheiro Goulart": {
+    "aluguel_m2_medio": 25.99,
+    "preco_m2_venda": 6498,
+    "preco_m2_ci_lo": 5854,
+    "preco_m2_ci_hi": 7142,
+    "preco_m2_p10": 5819,
+    "preco_m2_p90": 7232,
+    "n_transacoes": 5,
+    "condominio_medio": 358
+  },
+  "Fazenda Morumbi": {
+    "aluguel_m2_medio": 32.06,
+    "preco_m2_venda": 8015,
+    "preco_m2_ci_lo": 6440,
+    "preco_m2_ci_hi": 9590,
+    "preco_m2_p10": 4654,
+    "preco_m2_p90": 11793,
+    "n_transacoes": 16,
+    "condominio_medio": 1451
+  },
+  "Ferreira": {
+    "aluguel_m2_medio": 36.94,
+    "preco_m2_venda": 9236,
+    "preco_m2_ci_lo": 6352,
+    "preco_m2_ci_hi": 12120,
+    "preco_m2_p10": 5894,
+    "preco_m2_p90": 13528,
+    "n_transacoes": 6,
+    "condominio_medio": 204
+  },
+  "Freguesia do Ó": {
+    "aluguel_m2_medio": 37.35,
+    "preco_m2_venda": 9337,
+    "preco_m2_ci_lo": 7317,
+    "preco_m2_ci_hi": 11357,
+    "preco_m2_p10": 4808,
+    "preco_m2_p90": 11540,
+    "n_transacoes": 19,
+    "condominio_medio": 345
+  },
+  "Gopoúva": {
+    "aluguel_m2_medio": 32.03,
+    "preco_m2_venda": 8007,
+    "preco_m2_ci_lo": 5975,
+    "preco_m2_ci_hi": 10039,
+    "preco_m2_p10": 5629,
+    "preco_m2_p90": 10749,
+    "n_transacoes": 8,
+    "condominio_medio": 462
+  },
+  "Higienópolis": {
+    "aluguel_m2_medio": 55.21,
+    "preco_m2_venda": 13803,
+    "preco_m2_ci_lo": 10322,
+    "preco_m2_ci_hi": 17284,
+    "preco_m2_p10": 7282,
+    "preco_m2_p90": 23667,
+    "n_transacoes": 13,
+    "condominio_medio": 1430
+  },
+  "Imirim": {
+    "aluguel_m2_medio": 31.25,
+    "preco_m2_venda": 7812,
+    "preco_m2_ci_lo": 6785,
+    "preco_m2_ci_hi": 8840,
+    "preco_m2_p10": 4875,
+    "preco_m2_p90": 11682,
+    "n_transacoes": 21,
+    "condominio_medio": 284
+  },
+  "Indianópolis": {
+    "aluguel_m2_medio": 76.74,
+    "preco_m2_venda": 19185,
+    "preco_m2_ci_lo": 17387,
+    "preco_m2_ci_hi": 20983,
+    "preco_m2_p10": 10043,
+    "preco_m2_p90": 31833,
+    "n_transacoes": 74,
+    "condominio_medio": 1120
+  },
+  "Interlagos": {
+    "aluguel_m2_medio": 29.08,
+    "preco_m2_venda": 7270,
+    "preco_m2_ci_lo": 6119,
+    "preco_m2_ci_hi": 8421,
+    "preco_m2_p10": 4433,
+    "preco_m2_p90": 10319,
+    "n_transacoes": 19,
+    "condominio_medio": 910
+  },
+  "Ipiranga": {
+    "aluguel_m2_medio": 45.45,
+    "preco_m2_venda": 11363,
+    "preco_m2_ci_lo": 10369,
+    "preco_m2_ci_hi": 12358,
+    "preco_m2_p10": 6421,
+    "preco_m2_p90": 17227,
+    "n_transacoes": 75,
+    "condominio_medio": 536
+  },
+  "Itaberaba": {
+    "aluguel_m2_medio": 29.82,
+    "preco_m2_venda": 7454,
+    "preco_m2_ci_lo": 4737,
+    "preco_m2_ci_hi": 10172,
+    "preco_m2_p10": 3858,
+    "preco_m2_p90": 11104,
+    "n_transacoes": 6,
+    "condominio_medio": 508
+  },
+  "Itaim Bibi": {
+    "aluguel_m2_medio": 81.2,
+    "preco_m2_venda": 20301,
+    "preco_m2_ci_lo": 17899,
+    "preco_m2_ci_hi": 22702,
+    "preco_m2_p10": 11557,
+    "preco_m2_p90": 32106,
+    "n_transacoes": 43,
+    "condominio_medio": 1679
+  },
+  "Itaquera": {
+    "aluguel_m2_medio": 47.18,
+    "preco_m2_venda": 11794,
+    "preco_m2_ci_lo": 7665,
+    "preco_m2_ci_hi": 15923,
+    "preco_m2_p10": 4971,
+    "preco_m2_p90": 24545,
+    "n_transacoes": 13,
+    "condominio_medio": 354
+  },
+  "Jabaquara": {
+    "aluguel_m2_medio": 34.6,
+    "preco_m2_venda": 8651,
+    "preco_m2_ci_lo": 7365,
+    "preco_m2_ci_hi": 9937,
+    "preco_m2_p10": 4676,
+    "preco_m2_p90": 14115,
+    "n_transacoes": 55,
+    "condominio_medio": 446
+  },
+  "Jaguaribe": {
+    "aluguel_m2_medio": 29.52,
+    "preco_m2_venda": 7380,
+    "preco_m2_ci_lo": 6054,
+    "preco_m2_ci_hi": 8705,
+    "preco_m2_p10": 4758,
+    "preco_m2_p90": 10453,
+    "n_transacoes": 13,
+    "condominio_medio": 696
+  },
+  "Jaguaré": {
+    "aluguel_m2_medio": 40.38,
+    "preco_m2_venda": 10095,
+    "preco_m2_ci_lo": 8463,
+    "preco_m2_ci_hi": 11726,
+    "preco_m2_p10": 5405,
+    "preco_m2_p90": 16110,
+    "n_transacoes": 28,
+    "condominio_medio": 670
+  },
+  "Jaraguá": {
+    "aluguel_m2_medio": 23.64,
+    "preco_m2_venda": 5909,
+    "preco_m2_ci_lo": 4647,
+    "preco_m2_ci_hi": 7171,
+    "preco_m2_p10": 4217,
+    "preco_m2_p90": 7443,
+    "n_transacoes": 6,
+    "condominio_medio": 386
+  },
+  "Jardim": {
+    "aluguel_m2_medio": 40.38,
+    "preco_m2_venda": 10095,
+    "preco_m2_ci_lo": 7587,
+    "preco_m2_ci_hi": 12604,
+    "preco_m2_p10": 7280,
+    "preco_m2_p90": 15050,
+    "n_transacoes": 8,
+    "condominio_medio": 566
+  },
+  "Jardim Aeroporto": {
+    "aluguel_m2_medio": 43.53,
+    "preco_m2_venda": 10884,
+    "preco_m2_ci_lo": 8932,
+    "preco_m2_ci_hi": 12835,
+    "preco_m2_p10": 6206,
+    "preco_m2_p90": 19329,
+    "n_transacoes": 29,
+    "condominio_medio": 713
+  },
+  "Jardim Ampliacao": {
+    "aluguel_m2_medio": 51.47,
+    "preco_m2_venda": 12867,
+    "preco_m2_ci_lo": 7943,
+    "preco_m2_ci_hi": 17790,
+    "preco_m2_p10": 8285,
+    "preco_m2_p90": 21704,
+    "n_transacoes": 8,
+    "condominio_medio": 694
+  },
+  "Jardim Ampliação": {
+    "aluguel_m2_medio": 50.36,
+    "preco_m2_venda": 12590,
+    "preco_m2_ci_lo": 11010,
+    "preco_m2_ci_hi": 14171,
+    "preco_m2_p10": 8187,
+    "preco_m2_p90": 18873,
+    "n_transacoes": 26,
+    "condominio_medio": 768
+  },
+  "Jardim América da Penha": {
+    "aluguel_m2_medio": 31.9,
+    "preco_m2_venda": 7976,
+    "preco_m2_ci_lo": 6933,
+    "preco_m2_ci_hi": 9019,
+    "preco_m2_p10": 6649,
+    "preco_m2_p90": 9344,
+    "n_transacoes": 9,
+    "condominio_medio": 408
+  },
+  "Jardim Anália Franco": {
+    "aluguel_m2_medio": 34.85,
+    "preco_m2_venda": 8713,
+    "preco_m2_ci_lo": 6772,
+    "preco_m2_ci_hi": 10654,
+    "preco_m2_p10": 6000,
+    "preco_m2_p90": 12660,
+    "n_transacoes": 11,
+    "condominio_medio": 1535
+  },
+  "Jardim Arize": {
+    "aluguel_m2_medio": 22.86,
+    "preco_m2_venda": 5716,
+    "preco_m2_ci_lo": 3896,
+    "preco_m2_ci_hi": 7535,
+    "preco_m2_p10": 3780,
+    "preco_m2_p90": 7957,
+    "n_transacoes": 5,
+    "condominio_medio": 347
+  },
+  "Jardim Barbosa": {
+    "aluguel_m2_medio": 29.16,
+    "preco_m2_venda": 7290,
+    "preco_m2_ci_lo": 5342,
+    "preco_m2_ci_hi": 9237,
+    "preco_m2_p10": 5624,
+    "preco_m2_p90": 9688,
+    "n_transacoes": 5,
+    "condominio_medio": 585
+  },
+  "Jardim Bela Vista": {
+    "aluguel_m2_medio": 45.63,
+    "preco_m2_venda": 11408,
+    "preco_m2_ci_lo": 5545,
+    "preco_m2_ci_hi": 17271,
+    "preco_m2_p10": 7143,
+    "preco_m2_p90": 18227,
+    "n_transacoes": 6,
+    "condominio_medio": 746
+  },
+  "Jardim Bonfiglioli": {
+    "aluguel_m2_medio": 36.8,
+    "preco_m2_venda": 9199,
+    "preco_m2_ci_lo": 6600,
+    "preco_m2_ci_hi": 11798,
+    "preco_m2_p10": 3831,
+    "preco_m2_p90": 15000,
+    "n_transacoes": 18,
+    "condominio_medio": 340
+  },
+  "Jardim Brasil (zona Norte)": {
+    "aluguel_m2_medio": 21.73,
+    "preco_m2_venda": 5431,
+    "preco_m2_ci_lo": 4618,
+    "preco_m2_ci_hi": 6245,
+    "preco_m2_p10": 3657,
+    "preco_m2_p90": 6481,
+    "n_transacoes": 13,
+    "condominio_medio": 68
+  },
+  "Jardim Brasil (zona Sul)": {
+    "aluguel_m2_medio": 45.93,
+    "preco_m2_venda": 11482,
+    "preco_m2_ci_lo": 9075,
+    "preco_m2_ci_hi": 13889,
+    "preco_m2_p10": 6080,
+    "preco_m2_p90": 17362,
+    "n_transacoes": 15,
+    "condominio_medio": 1409
+  },
+  "Jardim Brasília (zona Norte)": {
+    "aluguel_m2_medio": 40.46,
+    "preco_m2_venda": 10115,
+    "preco_m2_ci_lo": 8269,
+    "preco_m2_ci_hi": 11962,
+    "preco_m2_p10": 7016,
+    "preco_m2_p90": 14251,
+    "n_transacoes": 12,
+    "condominio_medio": 416
+  },
+  "Jardim Caboré": {
+    "aluguel_m2_medio": 57.41,
+    "preco_m2_venda": 14351,
+    "preco_m2_ci_lo": 9455,
+    "preco_m2_ci_hi": 19247,
+    "preco_m2_p10": 8363,
+    "preco_m2_p90": 21425,
+    "n_transacoes": 10,
+    "condominio_medio": 1183
+  },
+  "Jardim Campo Grande": {
+    "aluguel_m2_medio": 31.83,
+    "preco_m2_venda": 7959,
+    "preco_m2_ci_lo": 5970,
+    "preco_m2_ci_hi": 9948,
+    "preco_m2_p10": 5741,
+    "preco_m2_p90": 11007,
+    "n_transacoes": 6,
+    "condominio_medio": 1292
+  },
+  "Jardim Caravelas": {
+    "aluguel_m2_medio": 61.7,
+    "preco_m2_venda": 15425,
+    "preco_m2_ci_lo": 12641,
+    "preco_m2_ci_hi": 18209,
+    "preco_m2_p10": 9549,
+    "preco_m2_p90": 21212,
+    "n_transacoes": 12,
+    "condominio_medio": 961
+  },
+  "Jardim Casablanca": {
+    "aluguel_m2_medio": 29.34,
+    "preco_m2_venda": 7335,
+    "preco_m2_ci_lo": 6033,
+    "preco_m2_ci_hi": 8637,
+    "preco_m2_p10": 5416,
+    "preco_m2_p90": 8810,
+    "n_transacoes": 7,
+    "condominio_medio": 93
+  },
+  "Jardim Celeste": {
+    "aluguel_m2_medio": 29.49,
+    "preco_m2_venda": 7372,
+    "preco_m2_ci_lo": 6290,
+    "preco_m2_ci_hi": 8454,
+    "preco_m2_p10": 4618,
+    "preco_m2_p90": 9593,
+    "n_transacoes": 17,
+    "condominio_medio": 605
+  },
+  "Jardim Cidade Pirituba": {
+    "aluguel_m2_medio": 26.71,
+    "preco_m2_venda": 6678,
+    "preco_m2_ci_lo": 5072,
+    "preco_m2_ci_hi": 8283,
+    "preco_m2_p10": 5267,
+    "preco_m2_p90": 8626,
+    "n_transacoes": 10,
+    "condominio_medio": 150
+  },
+  "Jardim Cidália": {
+    "aluguel_m2_medio": 34.77,
+    "preco_m2_venda": 8692,
+    "preco_m2_ci_lo": 6203,
+    "preco_m2_ci_hi": 11182,
+    "preco_m2_p10": 4903,
+    "preco_m2_p90": 13308,
+    "n_transacoes": 8,
+    "condominio_medio": 232
+  },
+  "Jardim City": {
+    "aluguel_m2_medio": 35.29,
+    "preco_m2_venda": 8823,
+    "preco_m2_ci_lo": 7713,
+    "preco_m2_ci_hi": 9933,
+    "preco_m2_p10": 7566,
+    "preco_m2_p90": 10145,
+    "n_transacoes": 5,
+    "condominio_medio": 374
+  },
+  "Jardim Colombo": {
+    "aluguel_m2_medio": 27.63,
+    "preco_m2_venda": 6906,
+    "preco_m2_ci_lo": 5367,
+    "preco_m2_ci_hi": 8446,
+    "preco_m2_p10": 4521,
+    "preco_m2_p90": 9218,
+    "n_transacoes": 13,
+    "condominio_medio": 464
+  },
+  "Jardim Consórcio": {
+    "aluguel_m2_medio": 32.04,
+    "preco_m2_venda": 8010,
+    "preco_m2_ci_lo": 5707,
+    "preco_m2_ci_hi": 10313,
+    "preco_m2_p10": 5036,
+    "preco_m2_p90": 11906,
+    "n_transacoes": 7,
+    "condominio_medio": 208
+  },
+  "Jardim D’abril": {
+    "aluguel_m2_medio": 26.43,
+    "preco_m2_venda": 6607,
+    "preco_m2_ci_lo": 4914,
+    "preco_m2_ci_hi": 8299,
+    "preco_m2_p10": 4812,
+    "preco_m2_p90": 8690,
+    "n_transacoes": 5,
+    "condominio_medio": 548
+  },
+  "Jardim Esmeralda": {
+    "aluguel_m2_medio": 34.11,
+    "preco_m2_venda": 8528,
+    "preco_m2_ci_lo": 6302,
+    "preco_m2_ci_hi": 10754,
+    "preco_m2_p10": 4982,
+    "preco_m2_p90": 12042,
+    "n_transacoes": 9,
+    "condominio_medio": 458
+  },
+  "Jardim Ester": {
+    "aluguel_m2_medio": 31.4,
+    "preco_m2_venda": 7850,
+    "preco_m2_ci_lo": 6304,
+    "preco_m2_ci_hi": 9396,
+    "preco_m2_p10": 5087,
+    "preco_m2_p90": 9958,
+    "n_transacoes": 16,
+    "condominio_medio": 582
+  },
+  "Jardim Ester Yolanda": {
+    "aluguel_m2_medio": 29.23,
+    "preco_m2_venda": 7308,
+    "preco_m2_ci_lo": 6001,
+    "preco_m2_ci_hi": 8616,
+    "preco_m2_p10": 4754,
+    "preco_m2_p90": 10096,
+    "n_transacoes": 10,
+    "condominio_medio": 540
+  },
+  "Jardim Europa": {
+    "aluguel_m2_medio": 77.76,
+    "preco_m2_venda": 19440,
+    "preco_m2_ci_lo": 13528,
+    "preco_m2_ci_hi": 25351,
+    "preco_m2_p10": 11990,
+    "preco_m2_p90": 27431,
+    "n_transacoes": 6,
+    "condominio_medio": 2184
+  },
+  "Jardim Filhos da Terra": {
+    "aluguel_m2_medio": 61.0,
+    "preco_m2_venda": 15251,
+    "preco_m2_ci_lo": 9082,
+    "preco_m2_ci_hi": 21420,
+    "preco_m2_p10": 7569,
+    "preco_m2_p90": 20471,
+    "n_transacoes": 5,
+    "condominio_medio": 255
+  },
+  "Jardim Flor da Montanha": {
+    "aluguel_m2_medio": 43.79,
+    "preco_m2_venda": 10948,
+    "preco_m2_ci_lo": 9237,
+    "preco_m2_ci_hi": 12658,
+    "preco_m2_p10": 7696,
+    "preco_m2_p90": 14436,
+    "n_transacoes": 10,
+    "condominio_medio": 667
+  },
+  "Jardim Fonte do Morumbi": {
+    "aluguel_m2_medio": 59.73,
+    "preco_m2_venda": 14932,
+    "preco_m2_ci_lo": 10894,
+    "preco_m2_ci_hi": 18969,
+    "preco_m2_p10": 8122,
+    "preco_m2_p90": 19836,
+    "n_transacoes": 10,
+    "condominio_medio": 3135
+  },
+  "Jardim Franca": {
+    "aluguel_m2_medio": 19.07,
+    "preco_m2_venda": 4767,
+    "preco_m2_ci_lo": 2863,
+    "preco_m2_ci_hi": 6672,
+    "preco_m2_p10": 3320,
+    "preco_m2_p90": 6903,
+    "n_transacoes": 5,
+    "condominio_medio": 608
+  },
+  "Jardim Independência": {
+    "aluguel_m2_medio": 32.06,
+    "preco_m2_venda": 8015,
+    "preco_m2_ci_lo": 6924,
+    "preco_m2_ci_hi": 9106,
+    "preco_m2_p10": 7206,
+    "preco_m2_p90": 9287,
+    "n_transacoes": 5,
+    "condominio_medio": 103
+  },
+  "Jardim Independência (são Paulo)": {
+    "aluguel_m2_medio": 23.65,
+    "preco_m2_venda": 5913,
+    "preco_m2_ci_lo": 5218,
+    "preco_m2_ci_hi": 6609,
+    "preco_m2_p10": 5124,
+    "preco_m2_p90": 6700,
+    "n_transacoes": 5,
+    "condominio_medio": 290
+  },
+  "Jardim Iris": {
+    "aluguel_m2_medio": 45.9,
+    "preco_m2_venda": 11474,
+    "preco_m2_ci_lo": 9373,
+    "preco_m2_ci_hi": 13575,
+    "preco_m2_p10": 6884,
+    "preco_m2_p90": 16354,
+    "n_transacoes": 14,
+    "condominio_medio": 596
+  },
+  "Jardim Iva": {
+    "aluguel_m2_medio": 41.42,
+    "preco_m2_venda": 10354,
+    "preco_m2_ci_lo": 7109,
+    "preco_m2_ci_hi": 13599,
+    "preco_m2_p10": 5733,
+    "preco_m2_p90": 14092,
+    "n_transacoes": 6,
+    "condominio_medio": 317
+  },
+  "Jardim Japao": {
+    "aluguel_m2_medio": 29.74,
+    "preco_m2_venda": 7436,
+    "preco_m2_ci_lo": 5451,
+    "preco_m2_ci_hi": 9420,
+    "preco_m2_p10": 5836,
+    "preco_m2_p90": 9783,
+    "n_transacoes": 5,
+    "condominio_medio": 88
+  },
+  "Jardim Japão": {
+    "aluguel_m2_medio": 29.88,
+    "preco_m2_venda": 7471,
+    "preco_m2_ci_lo": 6419,
+    "preco_m2_ci_hi": 8523,
+    "preco_m2_p10": 4833,
+    "preco_m2_p90": 9259,
+    "n_transacoes": 16,
+    "condominio_medio": 122
+  },
+  "Jardim Jaqueline": {
+    "aluguel_m2_medio": 38.29,
+    "preco_m2_venda": 9573,
+    "preco_m2_ci_lo": 6593,
+    "preco_m2_ci_hi": 12553,
+    "preco_m2_p10": 6606,
+    "preco_m2_p90": 12833,
+    "n_transacoes": 5,
+    "condominio_medio": 609
+  },
+  "Jardim Jussara": {
+    "aluguel_m2_medio": 33.9,
+    "preco_m2_venda": 8476,
+    "preco_m2_ci_lo": 3620,
+    "preco_m2_ci_hi": 13332,
+    "preco_m2_p10": 5034,
+    "preco_m2_p90": 13669,
+    "n_transacoes": 5,
+    "condominio_medio": 752
+  },
+  "Jardim Las Vegas": {
+    "aluguel_m2_medio": 33.09,
+    "preco_m2_venda": 8274,
+    "preco_m2_ci_lo": 6714,
+    "preco_m2_ci_hi": 9833,
+    "preco_m2_p10": 5803,
+    "preco_m2_p90": 10565,
+    "n_transacoes": 7,
+    "condominio_medio": 587
+  },
+  "Jardim Leonor": {
+    "aluguel_m2_medio": 44.26,
+    "preco_m2_venda": 11064,
+    "preco_m2_ci_lo": 9146,
+    "preco_m2_ci_hi": 12982,
+    "preco_m2_p10": 5561,
+    "preco_m2_p90": 21118,
+    "n_transacoes": 35,
+    "condominio_medio": 1510
+  },
+  "Jardim Leonor Mendes de Barros": {
+    "aluguel_m2_medio": 31.07,
+    "preco_m2_venda": 7766,
+    "preco_m2_ci_lo": 6212,
+    "preco_m2_ci_hi": 9320,
+    "preco_m2_p10": 5314,
+    "preco_m2_p90": 9729,
+    "n_transacoes": 8,
+    "condominio_medio": 594
+  },
+  "Jardim Londrina": {
+    "aluguel_m2_medio": 32.41,
+    "preco_m2_venda": 8101,
+    "preco_m2_ci_lo": 7216,
+    "preco_m2_ci_hi": 8986,
+    "preco_m2_p10": 5201,
+    "preco_m2_p90": 10257,
+    "n_transacoes": 22,
+    "condominio_medio": 1018
+  },
+  "Jardim Luísa": {
+    "aluguel_m2_medio": 27.97,
+    "preco_m2_venda": 6993,
+    "preco_m2_ci_lo": 4277,
+    "preco_m2_ci_hi": 9708,
+    "preco_m2_p10": 5340,
+    "preco_m2_p90": 9974,
+    "n_transacoes": 5,
+    "condominio_medio": 74
+  },
+  "Jardim Marajoara": {
+    "aluguel_m2_medio": 34.65,
+    "preco_m2_venda": 8662,
+    "preco_m2_ci_lo": 7524,
+    "preco_m2_ci_hi": 9800,
+    "preco_m2_p10": 6272,
+    "preco_m2_p90": 10576,
+    "n_transacoes": 14,
+    "condominio_medio": 1396
+  },
+  "Jardim Maria Estela": {
+    "aluguel_m2_medio": 28.79,
+    "preco_m2_venda": 7197,
+    "preco_m2_ci_lo": 5738,
+    "preco_m2_ci_hi": 8656,
+    "preco_m2_p10": 4712,
+    "preco_m2_p90": 9212,
+    "n_transacoes": 7,
+    "condominio_medio": 271
+  },
+  "Jardim Maria Rosa": {
+    "aluguel_m2_medio": 22.55,
+    "preco_m2_venda": 5637,
+    "preco_m2_ci_lo": 4617,
+    "preco_m2_ci_hi": 6658,
+    "preco_m2_p10": 3643,
+    "preco_m2_p90": 7014,
+    "n_transacoes": 10,
+    "condominio_medio": 374
+  },
+  "Jardim Maringá": {
+    "aluguel_m2_medio": 26.0,
+    "preco_m2_venda": 6499,
+    "preco_m2_ci_lo": 4719,
+    "preco_m2_ci_hi": 8279,
+    "preco_m2_p10": 3999,
+    "preco_m2_p90": 9430,
+    "n_transacoes": 8,
+    "condominio_medio": 126
+  },
+  "Jardim Maristela": {
+    "aluguel_m2_medio": 19.74,
+    "preco_m2_venda": 4935,
+    "preco_m2_ci_lo": 4009,
+    "preco_m2_ci_hi": 5860,
+    "preco_m2_p10": 3839,
+    "preco_m2_p90": 6413,
+    "n_transacoes": 7,
+    "condominio_medio": 94
+  },
+  "Jardim Miriam": {
+    "aluguel_m2_medio": 34.16,
+    "preco_m2_venda": 8540,
+    "preco_m2_ci_lo": 6045,
+    "preco_m2_ci_hi": 11035,
+    "preco_m2_p10": 5843,
+    "preco_m2_p90": 11499,
+    "n_transacoes": 5,
+    "condominio_medio": 37
+  },
+  "Jardim Modelo": {
+    "aluguel_m2_medio": 38.49,
+    "preco_m2_venda": 9622,
+    "preco_m2_ci_lo": 7712,
+    "preco_m2_ci_hi": 11533,
+    "preco_m2_p10": 8115,
+    "preco_m2_p90": 11765,
+    "n_transacoes": 7,
+    "condominio_medio": 84
+  },
+  "Jardim Monte Alegre": {
+    "aluguel_m2_medio": 39.13,
+    "preco_m2_venda": 9782,
+    "preco_m2_ci_lo": 7688,
+    "preco_m2_ci_hi": 11876,
+    "preco_m2_p10": 6923,
+    "preco_m2_p90": 13040,
+    "n_transacoes": 7,
+    "condominio_medio": 526
+  },
+  "Jardim Monte Azul": {
+    "aluguel_m2_medio": 48.25,
+    "preco_m2_venda": 12064,
+    "preco_m2_ci_lo": 10156,
+    "preco_m2_ci_hi": 13971,
+    "preco_m2_p10": 10295,
+    "preco_m2_p90": 14497,
+    "n_transacoes": 5,
+    "condominio_medio": 206
+  },
+  "Jardim Monte Kemel": {
+    "aluguel_m2_medio": 33.36,
+    "preco_m2_venda": 8341,
+    "preco_m2_ci_lo": 6921,
+    "preco_m2_ci_hi": 9761,
+    "preco_m2_p10": 5000,
+    "preco_m2_p90": 12040,
+    "n_transacoes": 19,
+    "condominio_medio": 958
+  },
+  "Jardim Nosso Lar": {
+    "aluguel_m2_medio": 36.11,
+    "preco_m2_venda": 9027,
+    "preco_m2_ci_lo": 6076,
+    "preco_m2_ci_hi": 11978,
+    "preco_m2_p10": 5950,
+    "preco_m2_p90": 12295,
+    "n_transacoes": 5,
+    "condominio_medio": 974
+  },
+  "Jardim Novo Santo Amaro": {
+    "aluguel_m2_medio": 62.15,
+    "preco_m2_venda": 15539,
+    "preco_m2_ci_lo": 9564,
+    "preco_m2_ci_hi": 21513,
+    "preco_m2_p10": 6556,
+    "preco_m2_p90": 23296,
+    "n_transacoes": 8,
+    "condominio_medio": 771
+  },
+  "Jardim Olympia": {
+    "aluguel_m2_medio": 32.85,
+    "preco_m2_venda": 8212,
+    "preco_m2_ci_lo": 6495,
+    "preco_m2_ci_hi": 9929,
+    "preco_m2_p10": 6435,
+    "preco_m2_p90": 9991,
+    "n_transacoes": 5,
+    "condominio_medio": 827
+  },
+  "Jardim Oriental": {
+    "aluguel_m2_medio": 35.44,
+    "preco_m2_venda": 8859,
+    "preco_m2_ci_lo": 6859,
+    "preco_m2_ci_hi": 10859,
+    "preco_m2_p10": 4464,
+    "preco_m2_p90": 12974,
+    "n_transacoes": 30,
+    "condominio_medio": 254
+  },
+  "Jardim Palmares (zona Sul)": {
+    "aluguel_m2_medio": 25.32,
+    "preco_m2_venda": 6329,
+    "preco_m2_ci_lo": 4701,
+    "preco_m2_ci_hi": 7958,
+    "preco_m2_p10": 4399,
+    "preco_m2_p90": 8166,
+    "n_transacoes": 5,
+    "condominio_medio": 125
+  },
+  "Jardim Palmira": {
+    "aluguel_m2_medio": 16.4,
+    "preco_m2_venda": 4101,
+    "preco_m2_ci_lo": 3405,
+    "preco_m2_ci_hi": 4796,
+    "preco_m2_p10": 3369,
+    "preco_m2_p90": 5111,
+    "n_transacoes": 6,
+    "condominio_medio": 68
+  },
+  "Jardim Paraíso": {
+    "aluguel_m2_medio": 39.29,
+    "preco_m2_venda": 9824,
+    "preco_m2_ci_lo": 8488,
+    "preco_m2_ci_hi": 11160,
+    "preco_m2_p10": 5645,
+    "preco_m2_p90": 13750,
+    "n_transacoes": 19,
+    "condominio_medio": 596
+  },
+  "Jardim Parque Morumbi": {
+    "aluguel_m2_medio": 47.89,
+    "preco_m2_venda": 11973,
+    "preco_m2_ci_lo": 9921,
+    "preco_m2_ci_hi": 14024,
+    "preco_m2_p10": 8912,
+    "preco_m2_p90": 15278,
+    "n_transacoes": 13,
+    "condominio_medio": 862
+  },
+  "Jardim Patente Novo": {
+    "aluguel_m2_medio": 27.61,
+    "preco_m2_venda": 6904,
+    "preco_m2_ci_lo": 5678,
+    "preco_m2_ci_hi": 8129,
+    "preco_m2_p10": 5579,
+    "preco_m2_p90": 7728,
+    "n_transacoes": 5,
+    "condominio_medio": 550
+  },
+  "Jardim Paulista": {
+    "aluguel_m2_medio": 67.74,
+    "preco_m2_venda": 16935,
+    "preco_m2_ci_lo": 15976,
+    "preco_m2_ci_hi": 17894,
+    "preco_m2_p10": 8840,
+    "preco_m2_p90": 26891,
+    "n_transacoes": 216,
+    "condominio_medio": 1935
+  },
+  "Jardim Paulistano": {
+    "aluguel_m2_medio": 109.67,
+    "preco_m2_venda": 27418,
+    "preco_m2_ci_lo": 21834,
+    "preco_m2_ci_hi": 33003,
+    "preco_m2_p10": 18993,
+    "preco_m2_p90": 34695,
+    "n_transacoes": 8,
+    "condominio_medio": 1199
+  },
+  "Jardim Peri": {
+    "aluguel_m2_medio": 32.21,
+    "preco_m2_venda": 8051,
+    "preco_m2_ci_lo": 5874,
+    "preco_m2_ci_hi": 10228,
+    "preco_m2_p10": 3917,
+    "preco_m2_p90": 13321,
+    "n_transacoes": 15,
+    "condominio_medio": 399
+  },
+  "Jardim Peri Peri": {
+    "aluguel_m2_medio": 51.13,
+    "preco_m2_venda": 12782,
+    "preco_m2_ci_lo": 9108,
+    "preco_m2_ci_hi": 16457,
+    "preco_m2_p10": 7639,
+    "preco_m2_p90": 17857,
+    "n_transacoes": 11,
+    "condominio_medio": 257
+  },
+  "Jardim Pinheiros": {
+    "aluguel_m2_medio": 32.24,
+    "preco_m2_venda": 8061,
+    "preco_m2_ci_lo": 6034,
+    "preco_m2_ci_hi": 10088,
+    "preco_m2_p10": 5580,
+    "preco_m2_p90": 11488,
+    "n_transacoes": 7,
+    "condominio_medio": 668
+  },
+  "Jardim Piqueroby": {
+    "aluguel_m2_medio": 62.78,
+    "preco_m2_venda": 15695,
+    "preco_m2_ci_lo": 12020,
+    "preco_m2_ci_hi": 19370,
+    "preco_m2_p10": 8353,
+    "preco_m2_p90": 20464,
+    "n_transacoes": 9,
+    "condominio_medio": 238
+  },
+  "Jardim Planalto": {
+    "aluguel_m2_medio": 32.31,
+    "preco_m2_venda": 8076,
+    "preco_m2_ci_lo": 4667,
+    "preco_m2_ci_hi": 11486,
+    "preco_m2_p10": 4667,
+    "preco_m2_p90": 12188,
+    "n_transacoes": 5,
+    "condominio_medio": 361
+  },
+  "Jardim Previdência": {
+    "aluguel_m2_medio": 38.69,
+    "preco_m2_venda": 9672,
+    "preco_m2_ci_lo": 7882,
+    "preco_m2_ci_hi": 11461,
+    "preco_m2_p10": 7062,
+    "preco_m2_p90": 12414,
+    "n_transacoes": 7,
+    "condominio_medio": 114
+  },
+  "Jardim Prudência": {
+    "aluguel_m2_medio": 40.45,
+    "preco_m2_venda": 10113,
+    "preco_m2_ci_lo": 8650,
+    "preco_m2_ci_hi": 11576,
+    "preco_m2_p10": 5618,
+    "preco_m2_p90": 14215,
+    "n_transacoes": 24,
+    "condominio_medio": 639
+  },
+  "Jardim Roberto": {
+    "aluguel_m2_medio": 25.27,
+    "preco_m2_venda": 6318,
+    "preco_m2_ci_lo": 4640,
+    "preco_m2_ci_hi": 7996,
+    "preco_m2_p10": 3235,
+    "preco_m2_p90": 9473,
+    "n_transacoes": 9,
+    "condominio_medio": 248
+  },
+  "Jardim Rosa de Franca": {
+    "aluguel_m2_medio": 21.21,
+    "preco_m2_venda": 5303,
+    "preco_m2_ci_lo": 4264,
+    "preco_m2_ci_hi": 6341,
+    "preco_m2_p10": 4470,
+    "preco_m2_p90": 6419,
+    "n_transacoes": 5,
+    "condominio_medio": 139
+  },
+  "Jardim Santa Cruz (campo Grande)": {
+    "aluguel_m2_medio": 27.23,
+    "preco_m2_venda": 6807,
+    "preco_m2_ci_lo": 4435,
+    "preco_m2_ci_hi": 9178,
+    "preco_m2_p10": 3932,
+    "preco_m2_p90": 10021,
+    "n_transacoes": 6,
+    "condominio_medio": 260
+  },
+  "Jardim Santa Cruz (sacomã)": {
+    "aluguel_m2_medio": 27.04,
+    "preco_m2_venda": 6759,
+    "preco_m2_ci_lo": 4282,
+    "preco_m2_ci_hi": 9236,
+    "preco_m2_p10": 4184,
+    "preco_m2_p90": 10791,
+    "n_transacoes": 7,
+    "condominio_medio": 582
+  },
+  "Jardim Santa Emilia": {
+    "aluguel_m2_medio": 23.37,
+    "preco_m2_venda": 5842,
+    "preco_m2_ci_lo": 5110,
+    "preco_m2_ci_hi": 6574,
+    "preco_m2_p10": 5038,
+    "preco_m2_p90": 6509,
+    "n_transacoes": 5,
+    "condominio_medio": 510
+  },
+  "Jardim Santa Emília": {
+    "aluguel_m2_medio": 35.92,
+    "preco_m2_venda": 8981,
+    "preco_m2_ci_lo": 6489,
+    "preco_m2_ci_hi": 11473,
+    "preco_m2_p10": 6043,
+    "preco_m2_p90": 14501,
+    "n_transacoes": 8,
+    "condominio_medio": 474
+  },
+  "Jardim Santo Amaro": {
+    "aluguel_m2_medio": 40.37,
+    "preco_m2_venda": 10093,
+    "preco_m2_ci_lo": 7625,
+    "preco_m2_ci_hi": 12561,
+    "preco_m2_p10": 7300,
+    "preco_m2_p90": 13280,
+    "n_transacoes": 6,
+    "condominio_medio": 712
+  },
+  "Jardim Satelite": {
+    "aluguel_m2_medio": 26.23,
+    "preco_m2_venda": 6557,
+    "preco_m2_ci_lo": 4905,
+    "preco_m2_ci_hi": 8209,
+    "preco_m2_p10": 4309,
+    "preco_m2_p90": 8699,
+    "n_transacoes": 6,
+    "condominio_medio": 220
+  },
+  "Jardim São Paulo": {
+    "aluguel_m2_medio": 43.06,
+    "preco_m2_venda": 10765,
+    "preco_m2_ci_lo": 9312,
+    "preco_m2_ci_hi": 12218,
+    "preco_m2_p10": 7044,
+    "preco_m2_p90": 14046,
+    "n_transacoes": 15,
+    "condominio_medio": 790
+  },
+  "Jardim São Paulo(zona Norte)": {
+    "aluguel_m2_medio": 34.74,
+    "preco_m2_venda": 8686,
+    "preco_m2_ci_lo": 7102,
+    "preco_m2_ci_hi": 10269,
+    "preco_m2_p10": 4578,
+    "preco_m2_p90": 15000,
+    "n_transacoes": 21,
+    "condominio_medio": 545
+  },
+  "Jardim São Savério": {
+    "aluguel_m2_medio": 30.59,
+    "preco_m2_venda": 7646,
+    "preco_m2_ci_lo": 6774,
+    "preco_m2_ci_hi": 8519,
+    "preco_m2_p10": 6012,
+    "preco_m2_p90": 9087,
+    "n_transacoes": 8,
+    "condominio_medio": 434
+  },
+  "Jardim Taquaral": {
+    "aluguel_m2_medio": 47.56,
+    "preco_m2_venda": 11889,
+    "preco_m2_ci_lo": 8792,
+    "preco_m2_ci_hi": 14987,
+    "preco_m2_p10": 7213,
+    "preco_m2_p90": 18333,
+    "n_transacoes": 11,
+    "condominio_medio": 801
+  },
+  "Jardim Tupanci": {
+    "aluguel_m2_medio": 46.84,
+    "preco_m2_venda": 11711,
+    "preco_m2_ci_lo": 10755,
+    "preco_m2_ci_hi": 12666,
+    "preco_m2_p10": 10582,
+    "preco_m2_p90": 13271,
+    "n_transacoes": 10,
+    "condominio_medio": 642
+  },
+  "Jardim Umarizal": {
+    "aluguel_m2_medio": 30.61,
+    "preco_m2_venda": 7652,
+    "preco_m2_ci_lo": 6201,
+    "preco_m2_ci_hi": 9103,
+    "preco_m2_p10": 5851,
+    "preco_m2_p90": 9796,
+    "n_transacoes": 6,
+    "condominio_medio": 558
+  },
+  "Jardim Umuarama": {
+    "aluguel_m2_medio": 34.35,
+    "preco_m2_venda": 8587,
+    "preco_m2_ci_lo": 6563,
+    "preco_m2_ci_hi": 10611,
+    "preco_m2_p10": 4597,
+    "preco_m2_p90": 11898,
+    "n_transacoes": 12,
+    "condominio_medio": 892
+  },
+  "Jardim Utinga": {
+    "aluguel_m2_medio": 26.95,
+    "preco_m2_venda": 6738,
+    "preco_m2_ci_lo": 6148,
+    "preco_m2_ci_hi": 7328,
+    "preco_m2_p10": 5904,
+    "preco_m2_p90": 7674,
+    "n_transacoes": 7,
+    "condominio_medio": 492
+  },
+  "Jardim Vazani": {
+    "aluguel_m2_medio": 39.38,
+    "preco_m2_venda": 9845,
+    "preco_m2_ci_lo": 7480,
+    "preco_m2_ci_hi": 12210,
+    "preco_m2_p10": 4972,
+    "preco_m2_p90": 12771,
+    "n_transacoes": 8,
+    "condominio_medio": 865
+  },
+  "Jardim Vera Cruz": {
+    "aluguel_m2_medio": 38.18,
+    "preco_m2_venda": 9545,
+    "preco_m2_ci_lo": 7332,
+    "preco_m2_ci_hi": 11758,
+    "preco_m2_p10": 5837,
+    "preco_m2_p90": 12632,
+    "n_transacoes": 8,
+    "condominio_medio": 638
+  },
+  "Jardim Vergueiro (sacomã)": {
+    "aluguel_m2_medio": 29.69,
+    "preco_m2_venda": 7422,
+    "preco_m2_ci_lo": 5152,
+    "preco_m2_ci_hi": 9692,
+    "preco_m2_p10": 4509,
+    "preco_m2_p90": 12000,
+    "n_transacoes": 8,
+    "condominio_medio": 132
+  },
+  "Jardim Vila Formosa": {
+    "aluguel_m2_medio": 60.15,
+    "preco_m2_venda": 15039,
+    "preco_m2_ci_lo": 11426,
+    "preco_m2_ci_hi": 18651,
+    "preco_m2_p10": 4886,
+    "preco_m2_p90": 30000,
+    "n_transacoes": 30,
+    "condominio_medio": 434
+  },
+  "Jardim Vila Mariana": {
+    "aluguel_m2_medio": 69.62,
+    "preco_m2_venda": 17406,
+    "preco_m2_ci_lo": 13344,
+    "preco_m2_ci_hi": 21467,
+    "preco_m2_p10": 9276,
+    "preco_m2_p90": 25000,
+    "n_transacoes": 13,
+    "condominio_medio": 1013
+  },
+  "Jardim Vitória Régia": {
+    "aluguel_m2_medio": 33.25,
+    "preco_m2_venda": 8313,
+    "preco_m2_ci_lo": 6446,
+    "preco_m2_ci_hi": 10179,
+    "preco_m2_p10": 6146,
+    "preco_m2_p90": 10607,
+    "n_transacoes": 6,
+    "condominio_medio": 2218
+  },
+  "Jardim da Gloria": {
+    "aluguel_m2_medio": 58.98,
+    "preco_m2_venda": 14744,
+    "preco_m2_ci_lo": 9162,
+    "preco_m2_ci_hi": 20326,
+    "preco_m2_p10": 8839,
+    "preco_m2_p90": 21630,
+    "n_transacoes": 5,
+    "condominio_medio": 359
+  },
+  "Jardim da Glória": {
+    "aluguel_m2_medio": 55.18,
+    "preco_m2_venda": 13796,
+    "preco_m2_ci_lo": 10382,
+    "preco_m2_ci_hi": 17210,
+    "preco_m2_p10": 7031,
+    "preco_m2_p90": 24124,
+    "n_transacoes": 15,
+    "condominio_medio": 486
+  },
+  "Jardim da Saúde": {
+    "aluguel_m2_medio": 22.75,
+    "preco_m2_venda": 5687,
+    "preco_m2_ci_lo": 4957,
+    "preco_m2_ci_hi": 6417,
+    "preco_m2_p10": 4715,
+    "preco_m2_p90": 6977,
+    "n_transacoes": 8,
+    "condominio_medio": 750
+  },
+  "Jardim das Acacias": {
+    "aluguel_m2_medio": 112.19,
+    "preco_m2_venda": 28047,
+    "preco_m2_ci_lo": 23076,
+    "preco_m2_ci_hi": 33017,
+    "preco_m2_p10": 21796,
+    "preco_m2_p90": 35490,
+    "n_transacoes": 7,
+    "condominio_medio": 690
+  },
+  "Jardim das Acácias": {
+    "aluguel_m2_medio": 84.88,
+    "preco_m2_venda": 21219,
+    "preco_m2_ci_lo": 16258,
+    "preco_m2_ci_hi": 26181,
+    "preco_m2_p10": 8512,
+    "preco_m2_p90": 33103,
+    "n_transacoes": 14,
+    "condominio_medio": 771
+  },
+  "Jardim das Esmeraldas": {
+    "aluguel_m2_medio": 19.85,
+    "preco_m2_venda": 4962,
+    "preco_m2_ci_lo": 3284,
+    "preco_m2_ci_hi": 6639,
+    "preco_m2_p10": 3450,
+    "preco_m2_p90": 7068,
+    "n_transacoes": 5,
+    "condominio_medio": 207
+  },
+  "Jardim das Flores": {
+    "aluguel_m2_medio": 29.95,
+    "preco_m2_venda": 7488,
+    "preco_m2_ci_lo": 5868,
+    "preco_m2_ci_hi": 9108,
+    "preco_m2_p10": 3620,
+    "preco_m2_p90": 11503,
+    "n_transacoes": 16,
+    "condominio_medio": 332
+  },
+  "Jardim das Laranjeiras": {
+    "aluguel_m2_medio": 31.03,
+    "preco_m2_venda": 7757,
+    "preco_m2_ci_lo": 6349,
+    "preco_m2_ci_hi": 9165,
+    "preco_m2_p10": 4822,
+    "preco_m2_p90": 10808,
+    "n_transacoes": 12,
+    "condominio_medio": 716
+  },
+  "Jardim das Vertentes": {
+    "aluguel_m2_medio": 38.25,
+    "preco_m2_venda": 9563,
+    "preco_m2_ci_lo": 7801,
+    "preco_m2_ci_hi": 11325,
+    "preco_m2_p10": 5984,
+    "preco_m2_p90": 13417,
+    "n_transacoes": 18,
+    "condominio_medio": 794
+  },
+  "Jardim Ângela (zona Leste)": {
+    "aluguel_m2_medio": 25.48,
+    "preco_m2_venda": 6371,
+    "preco_m2_ci_lo": 4282,
+    "preco_m2_ci_hi": 8461,
+    "preco_m2_p10": 4338,
+    "preco_m2_p90": 9021,
+    "n_transacoes": 5,
+    "condominio_medio": 266
+  },
+  "Jardim Íris": {
+    "aluguel_m2_medio": 39.94,
+    "preco_m2_venda": 9986,
+    "preco_m2_ci_lo": 8076,
+    "preco_m2_ci_hi": 11896,
+    "preco_m2_p10": 7279,
+    "preco_m2_p90": 12691,
+    "n_transacoes": 7,
+    "condominio_medio": 467
+  },
+  "Jurubatuba": {
+    "aluguel_m2_medio": 52.8,
+    "preco_m2_venda": 13201,
+    "preco_m2_ci_lo": 10258,
+    "preco_m2_ci_hi": 16143,
+    "preco_m2_p10": 8511,
+    "preco_m2_p90": 17017,
+    "n_transacoes": 8,
+    "condominio_medio": 391
+  },
+  "Km 18": {
+    "aluguel_m2_medio": 29.65,
+    "preco_m2_venda": 7413,
+    "preco_m2_ci_lo": 5262,
+    "preco_m2_ci_hi": 9564,
+    "preco_m2_p10": 4185,
+    "preco_m2_p90": 11065,
+    "n_transacoes": 7,
+    "condominio_medio": 380
+  },
+  "Lapa": {
+    "aluguel_m2_medio": 41.54,
+    "preco_m2_venda": 10385,
+    "preco_m2_ci_lo": 8760,
+    "preco_m2_ci_hi": 12010,
+    "preco_m2_p10": 5875,
+    "preco_m2_p90": 17470,
+    "n_transacoes": 34,
+    "condominio_medio": 1002
+  },
+  "Lauzane Paulista": {
+    "aluguel_m2_medio": 26.95,
+    "preco_m2_venda": 6737,
+    "preco_m2_ci_lo": 6152,
+    "preco_m2_ci_hi": 7322,
+    "preco_m2_p10": 4298,
+    "preco_m2_p90": 8958,
+    "n_transacoes": 36,
+    "condominio_medio": 491
+  },
+  "Liberdade": {
+    "aluguel_m2_medio": 45.34,
+    "preco_m2_venda": 11334,
+    "preco_m2_ci_lo": 10428,
+    "preco_m2_ci_hi": 12241,
+    "preco_m2_p10": 5927,
+    "preco_m2_p90": 17903,
+    "n_transacoes": 140,
+    "condominio_medio": 484
+  },
+  "Limão": {
+    "aluguel_m2_medio": 31.13,
+    "preco_m2_venda": 7784,
+    "preco_m2_ci_lo": 6523,
+    "preco_m2_ci_hi": 9044,
+    "preco_m2_p10": 5292,
+    "preco_m2_p90": 11345,
+    "n_transacoes": 17,
+    "condominio_medio": 562
+  },
+  "Luz": {
+    "aluguel_m2_medio": 51.89,
+    "preco_m2_venda": 12973,
+    "preco_m2_ci_lo": 11295,
+    "preco_m2_ci_hi": 14650,
+    "preco_m2_p10": 10045,
+    "preco_m2_p90": 15049,
+    "n_transacoes": 7,
+    "condominio_medio": 206
+  },
+  "Macedo": {
+    "aluguel_m2_medio": 38.38,
+    "preco_m2_venda": 9594,
+    "preco_m2_ci_lo": 6644,
+    "preco_m2_ci_hi": 12544,
+    "preco_m2_p10": 6730,
+    "preco_m2_p90": 14754,
+    "n_transacoes": 8,
+    "condominio_medio": 460
+  },
+  "Mandaqui": {
+    "aluguel_m2_medio": 35.21,
+    "preco_m2_venda": 8802,
+    "preco_m2_ci_lo": 6555,
+    "preco_m2_ci_hi": 11048,
+    "preco_m2_p10": 5552,
+    "preco_m2_p90": 11310,
+    "n_transacoes": 6,
+    "condominio_medio": 118
+  },
+  "Maranhão": {
+    "aluguel_m2_medio": 40.2,
+    "preco_m2_venda": 10051,
+    "preco_m2_ci_lo": 7317,
+    "preco_m2_ci_hi": 12785,
+    "preco_m2_p10": 7034,
+    "preco_m2_p90": 13094,
+    "n_transacoes": 5,
+    "condominio_medio": 245
+  },
+  "Mauá": {
+    "aluguel_m2_medio": 44.11,
+    "preco_m2_venda": 11028,
+    "preco_m2_ci_lo": 6399,
+    "preco_m2_ci_hi": 15657,
+    "preco_m2_p10": 5150,
+    "preco_m2_p90": 15216,
+    "n_transacoes": 5,
+    "condominio_medio": 360
+  },
+  "Mirandópolis": {
+    "aluguel_m2_medio": 56.96,
+    "preco_m2_venda": 14241,
+    "preco_m2_ci_lo": 12036,
+    "preco_m2_ci_hi": 16446,
+    "preco_m2_p10": 7592,
+    "preco_m2_p90": 24750,
+    "n_transacoes": 37,
+    "condominio_medio": 736
+  },
+  "Moema": {
+    "aluguel_m2_medio": 78.2,
+    "preco_m2_venda": 19550,
+    "preco_m2_ci_lo": 17148,
+    "preco_m2_ci_hi": 21952,
+    "preco_m2_p10": 11829,
+    "preco_m2_p90": 28638,
+    "n_transacoes": 28,
+    "condominio_medio": 1646
+  },
+  "Moinho Velho": {
+    "aluguel_m2_medio": 20.83,
+    "preco_m2_venda": 5208,
+    "preco_m2_ci_lo": 4303,
+    "preco_m2_ci_hi": 6113,
+    "preco_m2_p10": 3837,
+    "preco_m2_p90": 7592,
+    "n_transacoes": 12,
+    "condominio_medio": 288
+  },
+  "Mooca": {
+    "aluguel_m2_medio": 41.67,
+    "preco_m2_venda": 10417,
+    "preco_m2_ci_lo": 9618,
+    "preco_m2_ci_hi": 11216,
+    "preco_m2_p10": 4829,
+    "preco_m2_p90": 17830,
+    "n_transacoes": 147,
+    "condominio_medio": 625
+  },
+  "Morumbi": {
+    "aluguel_m2_medio": 35.98,
+    "preco_m2_venda": 8994,
+    "preco_m2_ci_lo": 6814,
+    "preco_m2_ci_hi": 11174,
+    "preco_m2_p10": 5028,
+    "preco_m2_p90": 12917,
+    "n_transacoes": 19,
+    "condominio_medio": 1157
+  },
+  "Nossa Senhora do Ó": {
+    "aluguel_m2_medio": 32.47,
+    "preco_m2_venda": 8118,
+    "preco_m2_ci_lo": 7092,
+    "preco_m2_ci_hi": 9144,
+    "preco_m2_p10": 6250,
+    "preco_m2_p90": 10000,
+    "n_transacoes": 11,
+    "condominio_medio": 734
+  },
+  "Nova Piraju": {
+    "aluguel_m2_medio": 67.58,
+    "preco_m2_venda": 16895,
+    "preco_m2_ci_lo": 12414,
+    "preco_m2_ci_hi": 21376,
+    "preco_m2_p10": 7390,
+    "preco_m2_p90": 29315,
+    "n_transacoes": 12,
+    "condominio_medio": 1603
+  },
+  "Novo Osasco": {
+    "aluguel_m2_medio": 28.21,
+    "preco_m2_venda": 7054,
+    "preco_m2_ci_lo": 5237,
+    "preco_m2_ci_hi": 8870,
+    "preco_m2_p10": 4889,
+    "preco_m2_p90": 9254,
+    "n_transacoes": 9,
+    "condominio_medio": 378
+  },
+  "Olímpico": {
+    "aluguel_m2_medio": 47.62,
+    "preco_m2_venda": 11904,
+    "preco_m2_ci_lo": 10201,
+    "preco_m2_ci_hi": 13607,
+    "preco_m2_p10": 10344,
+    "preco_m2_p90": 14081,
+    "n_transacoes": 5,
+    "condominio_medio": 796
+  },
+  "Osvaldo Cruz": {
+    "aluguel_m2_medio": 32.03,
+    "preco_m2_venda": 8008,
+    "preco_m2_ci_lo": 6867,
+    "preco_m2_ci_hi": 9150,
+    "preco_m2_p10": 5966,
+    "preco_m2_p90": 9673,
+    "n_transacoes": 7,
+    "condominio_medio": 446
+  },
+  "Pacaembu": {
+    "aluguel_m2_medio": 28.53,
+    "preco_m2_venda": 7134,
+    "preco_m2_ci_lo": 5203,
+    "preco_m2_ci_hi": 9065,
+    "preco_m2_p10": 5325,
+    "preco_m2_p90": 9400,
+    "n_transacoes": 5,
+    "condominio_medio": 2060
+  },
+  "Padroeira": {
+    "aluguel_m2_medio": 27.91,
+    "preco_m2_venda": 6977,
+    "preco_m2_ci_lo": 6001,
+    "preco_m2_ci_hi": 7954,
+    "preco_m2_p10": 4387,
+    "preco_m2_p90": 9304,
+    "n_transacoes": 14,
+    "condominio_medio": 556
+  },
+  "Panamby": {
+    "aluguel_m2_medio": 51.84,
+    "preco_m2_venda": 12961,
+    "preco_m2_ci_lo": 10335,
+    "preco_m2_ci_hi": 15587,
+    "preco_m2_p10": 9709,
+    "preco_m2_p90": 16810,
+    "n_transacoes": 7,
+    "condominio_medio": 774
+  },
+  "Parada Inglesa": {
+    "aluguel_m2_medio": 40.91,
+    "preco_m2_venda": 10227,
+    "preco_m2_ci_lo": 8978,
+    "preco_m2_ci_hi": 11477,
+    "preco_m2_p10": 6770,
+    "preco_m2_p90": 13940,
+    "n_transacoes": 22,
+    "condominio_medio": 381
+  },
+  "Paraisópolis": {
+    "aluguel_m2_medio": 29.81,
+    "preco_m2_venda": 7452,
+    "preco_m2_ci_lo": 5550,
+    "preco_m2_ci_hi": 9355,
+    "preco_m2_p10": 3519,
+    "preco_m2_p90": 11440,
+    "n_transacoes": 12,
+    "condominio_medio": 735
+  },
+  "Paraíso": {
+    "aluguel_m2_medio": 62.89,
+    "preco_m2_venda": 15723,
+    "preco_m2_ci_lo": 14019,
+    "preco_m2_ci_hi": 17427,
+    "preco_m2_p10": 7874,
+    "preco_m2_p90": 29000,
+    "n_transacoes": 85,
+    "condominio_medio": 1750
+  },
+  "Paraíso do Morumbi": {
+    "aluguel_m2_medio": 43.77,
+    "preco_m2_venda": 10944,
+    "preco_m2_ci_lo": 9549,
+    "preco_m2_ci_hi": 12338,
+    "preco_m2_p10": 6739,
+    "preco_m2_p90": 13899,
+    "n_transacoes": 24,
+    "condominio_medio": 1348
+  },
+  "Pari": {
+    "aluguel_m2_medio": 48.67,
+    "preco_m2_venda": 12168,
+    "preco_m2_ci_lo": 9446,
+    "preco_m2_ci_hi": 14889,
+    "preco_m2_p10": 8594,
+    "preco_m2_p90": 15848,
+    "n_transacoes": 6,
+    "condominio_medio": 555
+  },
+  "Parque Assunção": {
+    "aluguel_m2_medio": 25.62,
+    "preco_m2_venda": 6405,
+    "preco_m2_ci_lo": 5360,
+    "preco_m2_ci_hi": 7449,
+    "preco_m2_p10": 5278,
+    "preco_m2_p90": 7686,
+    "n_transacoes": 6,
+    "condominio_medio": 460
+  },
+  "Parque Bairro Morumbi": {
+    "aluguel_m2_medio": 30.87,
+    "preco_m2_venda": 7716,
+    "preco_m2_ci_lo": 4748,
+    "preco_m2_ci_hi": 10684,
+    "preco_m2_p10": 5074,
+    "preco_m2_p90": 11532,
+    "n_transacoes": 5,
+    "condominio_medio": 2152
+  },
+  "Parque Colonial": {
+    "aluguel_m2_medio": 45.65,
+    "preco_m2_venda": 11413,
+    "preco_m2_ci_lo": 6040,
+    "preco_m2_ci_hi": 16787,
+    "preco_m2_p10": 7547,
+    "preco_m2_p90": 17872,
+    "n_transacoes": 5,
+    "condominio_medio": 937
+  },
+  "Parque Continental Ii": {
+    "aluguel_m2_medio": 23.3,
+    "preco_m2_venda": 5825,
+    "preco_m2_ci_lo": 4564,
+    "preco_m2_ci_hi": 7085,
+    "preco_m2_p10": 4354,
+    "preco_m2_p90": 7460,
+    "n_transacoes": 10,
+    "condominio_medio": 102
+  },
+  "Parque Edu Chaves": {
+    "aluguel_m2_medio": 24.19,
+    "preco_m2_venda": 6047,
+    "preco_m2_ci_lo": 5306,
+    "preco_m2_ci_hi": 6789,
+    "preco_m2_p10": 4792,
+    "preco_m2_p90": 7272,
+    "n_transacoes": 9,
+    "condominio_medio": 55
+  },
+  "Parque Fongaro": {
+    "aluguel_m2_medio": 32.09,
+    "preco_m2_venda": 8022,
+    "preco_m2_ci_lo": 6310,
+    "preco_m2_ci_hi": 9734,
+    "preco_m2_p10": 5683,
+    "preco_m2_p90": 9915,
+    "n_transacoes": 7,
+    "condominio_medio": 427
+  },
+  "Parque Imperial": {
+    "aluguel_m2_medio": 38.83,
+    "preco_m2_venda": 9708,
+    "preco_m2_ci_lo": 7619,
+    "preco_m2_ci_hi": 11797,
+    "preco_m2_p10": 6077,
+    "preco_m2_p90": 13303,
+    "n_transacoes": 10,
+    "condominio_medio": 666
+  },
+  "Parque Industrial Tomas Edson": {
+    "aluguel_m2_medio": 60.02,
+    "preco_m2_venda": 15005,
+    "preco_m2_ci_lo": 12338,
+    "preco_m2_ci_hi": 17672,
+    "preco_m2_p10": 11866,
+    "preco_m2_p90": 16898,
+    "n_transacoes": 12,
+    "condominio_medio": 804
+  },
+  "Parque Jabaquara": {
+    "aluguel_m2_medio": 26.1,
+    "preco_m2_venda": 6524,
+    "preco_m2_ci_lo": 5761,
+    "preco_m2_ci_hi": 7288,
+    "preco_m2_p10": 3895,
+    "preco_m2_p90": 8754,
+    "n_transacoes": 29,
+    "condominio_medio": 347
+  },
+  "Parque Mandaqui": {
+    "aluguel_m2_medio": 28.37,
+    "preco_m2_venda": 7092,
+    "preco_m2_ci_lo": 5942,
+    "preco_m2_ci_hi": 8242,
+    "preco_m2_p10": 4850,
+    "preco_m2_p90": 10235,
+    "n_transacoes": 18,
+    "condominio_medio": 700
+  },
+  "Parque Maria Domitila": {
+    "aluguel_m2_medio": 26.67,
+    "preco_m2_venda": 6668,
+    "preco_m2_ci_lo": 5625,
+    "preco_m2_ci_hi": 7711,
+    "preco_m2_p10": 5475,
+    "preco_m2_p90": 7644,
+    "n_transacoes": 5,
+    "condominio_medio": 170
+  },
+  "Parque Maria Luiza": {
+    "aluguel_m2_medio": 24.3,
+    "preco_m2_venda": 6075,
+    "preco_m2_ci_lo": 5310,
+    "preco_m2_ci_hi": 6840,
+    "preco_m2_p10": 5050,
+    "preco_m2_p90": 7077,
+    "n_transacoes": 6,
+    "condominio_medio": 112
+  },
+  "Parque Novo Mundo": {
+    "aluguel_m2_medio": 28.68,
+    "preco_m2_venda": 7169,
+    "preco_m2_ci_lo": 6208,
+    "preco_m2_ci_hi": 8130,
+    "preco_m2_p10": 5531,
+    "preco_m2_p90": 8099,
+    "n_transacoes": 8,
+    "condominio_medio": 484
+  },
+  "Parque Paineiras": {
+    "aluguel_m2_medio": 32.42,
+    "preco_m2_venda": 8106,
+    "preco_m2_ci_lo": 7638,
+    "preco_m2_ci_hi": 8573,
+    "preco_m2_p10": 7594,
+    "preco_m2_p90": 8670,
+    "n_transacoes": 5,
+    "condominio_medio": 213
+  },
+  "Parque Peruche": {
+    "aluguel_m2_medio": 28.23,
+    "preco_m2_venda": 7057,
+    "preco_m2_ci_lo": 5834,
+    "preco_m2_ci_hi": 8280,
+    "preco_m2_p10": 5000,
+    "preco_m2_p90": 10798,
+    "n_transacoes": 15,
+    "condominio_medio": 150
+  },
+  "Parque Reboucas": {
+    "aluguel_m2_medio": 46.45,
+    "preco_m2_venda": 11612,
+    "preco_m2_ci_lo": 9559,
+    "preco_m2_ci_hi": 13664,
+    "preco_m2_p10": 6461,
+    "preco_m2_p90": 17552,
+    "n_transacoes": 18,
+    "condominio_medio": 512
+  },
+  "Parque Sevilha": {
+    "aluguel_m2_medio": 31.79,
+    "preco_m2_venda": 7949,
+    "preco_m2_ci_lo": 6451,
+    "preco_m2_ci_hi": 9446,
+    "preco_m2_p10": 6180,
+    "preco_m2_p90": 9542,
+    "n_transacoes": 5,
+    "condominio_medio": 392
+  },
+  "Parque São Jorge": {
+    "aluguel_m2_medio": 42.83,
+    "preco_m2_venda": 10709,
+    "preco_m2_ci_lo": 7553,
+    "preco_m2_ci_hi": 13864,
+    "preco_m2_p10": 7176,
+    "preco_m2_p90": 14294,
+    "n_transacoes": 6,
+    "condominio_medio": 472
+  },
+  "Parque Vitoria": {
+    "aluguel_m2_medio": 36.6,
+    "preco_m2_venda": 9151,
+    "preco_m2_ci_lo": 5224,
+    "preco_m2_ci_hi": 13078,
+    "preco_m2_p10": 4463,
+    "preco_m2_p90": 15221,
+    "n_transacoes": 7,
+    "condominio_medio": 241
+  },
+  "Parque da Mooca": {
+    "aluguel_m2_medio": 41.6,
+    "preco_m2_venda": 10401,
+    "preco_m2_ci_lo": 9174,
+    "preco_m2_ci_hi": 11627,
+    "preco_m2_p10": 5479,
+    "preco_m2_p90": 14706,
+    "n_transacoes": 43,
+    "condominio_medio": 939
+  },
+  "Parque da Vila Prudente": {
+    "aluguel_m2_medio": 57.64,
+    "preco_m2_venda": 14411,
+    "preco_m2_ci_lo": 11718,
+    "preco_m2_ci_hi": 17104,
+    "preco_m2_p10": 8955,
+    "preco_m2_p90": 18666,
+    "n_transacoes": 10,
+    "condominio_medio": 404
+  },
+  "Parque das Nações": {
+    "aluguel_m2_medio": 32.73,
+    "preco_m2_venda": 8182,
+    "preco_m2_ci_lo": 6506,
+    "preco_m2_ci_hi": 9857,
+    "preco_m2_p10": 6016,
+    "preco_m2_p90": 10481,
+    "n_transacoes": 13,
+    "condominio_medio": 271
+  },
+  "Paulicéia": {
+    "aluguel_m2_medio": 30.49,
+    "preco_m2_venda": 7623,
+    "preco_m2_ci_lo": 5570,
+    "preco_m2_ci_hi": 9675,
+    "preco_m2_p10": 3830,
+    "preco_m2_p90": 13333,
+    "n_transacoes": 18,
+    "condominio_medio": 475
+  },
+  "Penha de França": {
+    "aluguel_m2_medio": 33.95,
+    "preco_m2_venda": 8489,
+    "preco_m2_ci_lo": 7604,
+    "preco_m2_ci_hi": 9373,
+    "preco_m2_p10": 5335,
+    "preco_m2_p90": 11269,
+    "n_transacoes": 40,
+    "condominio_medio": 328
+  },
+  "Perdizes": {
+    "aluguel_m2_medio": 66.66,
+    "preco_m2_venda": 16665,
+    "preco_m2_ci_lo": 15233,
+    "preco_m2_ci_hi": 18096,
+    "preco_m2_p10": 8250,
+    "preco_m2_p90": 28427,
+    "n_transacoes": 109,
+    "condominio_medio": 916
+  },
+  "Picanço": {
+    "aluguel_m2_medio": 36.36,
+    "preco_m2_venda": 9090,
+    "preco_m2_ci_lo": 6830,
+    "preco_m2_ci_hi": 11350,
+    "preco_m2_p10": 5983,
+    "preco_m2_p90": 13224,
+    "n_transacoes": 11,
+    "condominio_medio": 642
+  },
+  "Pinheiros": {
+    "aluguel_m2_medio": 79.3,
+    "preco_m2_venda": 19826,
+    "preco_m2_ci_lo": 18486,
+    "preco_m2_ci_hi": 21165,
+    "preco_m2_p10": 9928,
+    "preco_m2_p90": 31955,
+    "n_transacoes": 149,
+    "condominio_medio": 1167
+  },
+  "Piqueri": {
+    "aluguel_m2_medio": 25.98,
+    "preco_m2_venda": 6494,
+    "preco_m2_ci_lo": 5342,
+    "preco_m2_ci_hi": 7647,
+    "preco_m2_p10": 3794,
+    "preco_m2_p90": 9656,
+    "n_transacoes": 20,
+    "condominio_medio": 164
+  },
+  "Planalto Paulista": {
+    "aluguel_m2_medio": 45.17,
+    "preco_m2_venda": 11293,
+    "preco_m2_ci_lo": 9950,
+    "preco_m2_ci_hi": 12637,
+    "preco_m2_p10": 6190,
+    "preco_m2_p90": 17648,
+    "n_transacoes": 46,
+    "condominio_medio": 778
+  },
+  "Pompeia": {
+    "aluguel_m2_medio": 51.66,
+    "preco_m2_venda": 12915,
+    "preco_m2_ci_lo": 10653,
+    "preco_m2_ci_hi": 15177,
+    "preco_m2_p10": 6920,
+    "preco_m2_p90": 17691,
+    "n_transacoes": 29,
+    "condominio_medio": 1073
+  },
+  "Ponte Grande": {
+    "aluguel_m2_medio": 37.26,
+    "preco_m2_venda": 9315,
+    "preco_m2_ci_lo": 8260,
+    "preco_m2_ci_hi": 10370,
+    "preco_m2_p10": 7050,
+    "preco_m2_p90": 11058,
+    "n_transacoes": 11,
+    "condominio_medio": 467
+  },
+  "Portal dos Gramados": {
+    "aluguel_m2_medio": 27.31,
+    "preco_m2_venda": 6828,
+    "preco_m2_ci_lo": 5773,
+    "preco_m2_ci_hi": 7883,
+    "preco_m2_p10": 5184,
+    "preco_m2_p90": 8001,
+    "n_transacoes": 6,
+    "condominio_medio": 356
+  },
+  "Presidente Altino": {
+    "aluguel_m2_medio": 47.07,
+    "preco_m2_venda": 11766,
+    "preco_m2_ci_lo": 9507,
+    "preco_m2_ci_hi": 14026,
+    "preco_m2_p10": 7738,
+    "preco_m2_p90": 15658,
+    "n_transacoes": 9,
+    "condominio_medio": 711
+  },
+  "Quarta Parada": {
+    "aluguel_m2_medio": 45.74,
+    "preco_m2_venda": 11434,
+    "preco_m2_ci_lo": 9378,
+    "preco_m2_ci_hi": 13490,
+    "preco_m2_p10": 5490,
+    "preco_m2_p90": 16802,
+    "n_transacoes": 22,
+    "condominio_medio": 396
+  },
+  "Quinta da Paineira": {
+    "aluguel_m2_medio": 33.7,
+    "preco_m2_venda": 8426,
+    "preco_m2_ci_lo": 6367,
+    "preco_m2_ci_hi": 10485,
+    "preco_m2_p10": 4658,
+    "preco_m2_p90": 13111,
+    "n_transacoes": 13,
+    "condominio_medio": 363
+  },
+  "Quitaúna": {
+    "aluguel_m2_medio": 27.26,
+    "preco_m2_venda": 6814,
+    "preco_m2_ci_lo": 3527,
+    "preco_m2_ci_hi": 10101,
+    "preco_m2_p10": 3395,
+    "preco_m2_p90": 10617,
+    "n_transacoes": 5,
+    "condominio_medio": 453
+  },
+  "Real Parque": {
+    "aluguel_m2_medio": 42.4,
+    "preco_m2_venda": 10601,
+    "preco_m2_ci_lo": 8314,
+    "preco_m2_ci_hi": 12888,
+    "preco_m2_p10": 7006,
+    "preco_m2_p90": 15260,
+    "n_transacoes": 17,
+    "condominio_medio": 1772
+  },
+  "República": {
+    "aluguel_m2_medio": 52.92,
+    "preco_m2_venda": 13230,
+    "preco_m2_ci_lo": 12071,
+    "preco_m2_ci_hi": 14389,
+    "preco_m2_p10": 6226,
+    "preco_m2_p90": 21411,
+    "n_transacoes": 123,
+    "condominio_medio": 524
+  },
+  "Rio Pequeno": {
+    "aluguel_m2_medio": 27.2,
+    "preco_m2_venda": 6801,
+    "preco_m2_ci_lo": 6230,
+    "preco_m2_ci_hi": 7372,
+    "preco_m2_p10": 5429,
+    "preco_m2_p90": 7838,
+    "n_transacoes": 13,
+    "condominio_medio": 267
+  },
+  "Rudge Ramos": {
+    "aluguel_m2_medio": 26.72,
+    "preco_m2_venda": 6681,
+    "preco_m2_ci_lo": 5687,
+    "preco_m2_ci_hi": 7674,
+    "preco_m2_p10": 4440,
+    "preco_m2_p90": 10412,
+    "n_transacoes": 26,
+    "condominio_medio": 522
+  },
+  "Sacoma": {
+    "aluguel_m2_medio": 33.61,
+    "preco_m2_venda": 8403,
+    "preco_m2_ci_lo": 6116,
+    "preco_m2_ci_hi": 10689,
+    "preco_m2_p10": 6634,
+    "preco_m2_p90": 11061,
+    "n_transacoes": 5,
+    "condominio_medio": 395
+  },
+  "Sacomã": {
+    "aluguel_m2_medio": 31.63,
+    "preco_m2_venda": 7908,
+    "preco_m2_ci_lo": 6813,
+    "preco_m2_ci_hi": 9004,
+    "preco_m2_p10": 5471,
+    "preco_m2_p90": 11041,
+    "n_transacoes": 16,
+    "condominio_medio": 350
+  },
+  "Santa Cecilia": {
+    "aluguel_m2_medio": 46.06,
+    "preco_m2_venda": 11514,
+    "preco_m2_ci_lo": 10041,
+    "preco_m2_ci_hi": 12987,
+    "preco_m2_p10": 6925,
+    "preco_m2_p90": 15215,
+    "n_transacoes": 33,
+    "condominio_medio": 777
+  },
+  "Santa Cecília": {
+    "aluguel_m2_medio": 49.9,
+    "preco_m2_venda": 12475,
+    "preco_m2_ci_lo": 11117,
+    "preco_m2_ci_hi": 13834,
+    "preco_m2_p10": 7917,
+    "preco_m2_p90": 18895,
+    "n_transacoes": 47,
+    "condominio_medio": 736
+  },
+  "Santa Efigênia": {
+    "aluguel_m2_medio": 38.43,
+    "preco_m2_venda": 9609,
+    "preco_m2_ci_lo": 8235,
+    "preco_m2_ci_hi": 10982,
+    "preco_m2_p10": 5221,
+    "preco_m2_p90": 17443,
+    "n_transacoes": 43,
+    "condominio_medio": 479
+  },
+  "Santa Ifigênia": {
+    "aluguel_m2_medio": 36.59,
+    "preco_m2_venda": 9148,
+    "preco_m2_ci_lo": 7485,
+    "preco_m2_ci_hi": 10811,
+    "preco_m2_p10": 5197,
+    "preco_m2_p90": 15957,
+    "n_transacoes": 21,
+    "condominio_medio": 469
+  },
+  "Santa Maria": {
+    "aluguel_m2_medio": 31.92,
+    "preco_m2_venda": 7981,
+    "preco_m2_ci_lo": 6614,
+    "preco_m2_ci_hi": 9348,
+    "preco_m2_p10": 5111,
+    "preco_m2_p90": 12868,
+    "n_transacoes": 21,
+    "condominio_medio": 478
+  },
+  "Santa Paula": {
+    "aluguel_m2_medio": 42.59,
+    "preco_m2_venda": 10648,
+    "preco_m2_ci_lo": 8928,
+    "preco_m2_ci_hi": 12369,
+    "preco_m2_p10": 7000,
+    "preco_m2_p90": 13514,
+    "n_transacoes": 11,
+    "condominio_medio": 745
+  },
+  "Santa Teresinha": {
+    "aluguel_m2_medio": 30.91,
+    "preco_m2_venda": 7727,
+    "preco_m2_ci_lo": 6860,
+    "preco_m2_ci_hi": 8595,
+    "preco_m2_p10": 5211,
+    "preco_m2_p90": 10000,
+    "n_transacoes": 26,
+    "condominio_medio": 626
+  },
+  "Santana": {
+    "aluguel_m2_medio": 44.52,
+    "preco_m2_venda": 11129,
+    "preco_m2_ci_lo": 10245,
+    "preco_m2_ci_hi": 12013,
+    "preco_m2_p10": 5388,
+    "preco_m2_p90": 20983,
+    "n_transacoes": 152,
+    "condominio_medio": 783
+  },
+  "Santo Amaro": {
+    "aluguel_m2_medio": 50.36,
+    "preco_m2_venda": 12591,
+    "preco_m2_ci_lo": 11557,
+    "preco_m2_ci_hi": 13624,
+    "preco_m2_p10": 6170,
+    "preco_m2_p90": 22656,
+    "n_transacoes": 144,
+    "condominio_medio": 974
+  },
+  "Santo Antônio": {
+    "aluguel_m2_medio": 28.25,
+    "preco_m2_venda": 7063,
+    "preco_m2_ci_lo": 3881,
+    "preco_m2_ci_hi": 10245,
+    "preco_m2_p10": 3827,
+    "preco_m2_p90": 11366,
+    "n_transacoes": 9,
+    "condominio_medio": 780
+  },
+  "Sapopemba": {
+    "aluguel_m2_medio": 33.89,
+    "preco_m2_venda": 8473,
+    "preco_m2_ci_lo": 5033,
+    "preco_m2_ci_hi": 11912,
+    "preco_m2_p10": 5721,
+    "preco_m2_p90": 13244,
+    "n_transacoes": 6,
+    "condominio_medio": 108
+  },
+  "Saúde": {
+    "aluguel_m2_medio": 38.97,
+    "preco_m2_venda": 9742,
+    "preco_m2_ci_lo": 7944,
+    "preco_m2_ci_hi": 11540,
+    "preco_m2_p10": 4915,
+    "preco_m2_p90": 14690,
+    "n_transacoes": 29,
+    "condominio_medio": 568
+  },
+  "Siciliano": {
+    "aluguel_m2_medio": 45.8,
+    "preco_m2_venda": 11451,
+    "preco_m2_ci_lo": 8580,
+    "preco_m2_ci_hi": 14322,
+    "preco_m2_p10": 6947,
+    "preco_m2_p90": 16602,
+    "n_transacoes": 10,
+    "condominio_medio": 363
+  },
+  "Socorro": {
+    "aluguel_m2_medio": 43.27,
+    "preco_m2_venda": 10819,
+    "preco_m2_ci_lo": 7810,
+    "preco_m2_ci_hi": 13827,
+    "preco_m2_p10": 5429,
+    "preco_m2_p90": 14236,
+    "n_transacoes": 12,
+    "condominio_medio": 757
+  },
+  "Sumarezinho": {
+    "aluguel_m2_medio": 75.56,
+    "preco_m2_venda": 18889,
+    "preco_m2_ci_lo": 16371,
+    "preco_m2_ci_hi": 21408,
+    "preco_m2_p10": 10458,
+    "preco_m2_p90": 32094,
+    "n_transacoes": 38,
+    "condominio_medio": 862
+  },
+  "Sumaré": {
+    "aluguel_m2_medio": 67.49,
+    "preco_m2_venda": 16871,
+    "preco_m2_ci_lo": 13954,
+    "preco_m2_ci_hi": 19789,
+    "preco_m2_p10": 7902,
+    "preco_m2_p90": 25000,
+    "n_transacoes": 27,
+    "condominio_medio": 850
+  },
+  "Super Quadra Morumbi": {
+    "aluguel_m2_medio": 24.83,
+    "preco_m2_venda": 6207,
+    "preco_m2_ci_lo": 5203,
+    "preco_m2_ci_hi": 7212,
+    "preco_m2_p10": 4400,
+    "preco_m2_p90": 7979,
+    "n_transacoes": 13,
+    "condominio_medio": 475
+  },
+  "São Judas": {
+    "aluguel_m2_medio": 38.64,
+    "preco_m2_venda": 9659,
+    "preco_m2_ci_lo": 7544,
+    "preco_m2_ci_hi": 11775,
+    "preco_m2_p10": 7111,
+    "preco_m2_p90": 12474,
+    "n_transacoes": 6,
+    "condominio_medio": 1054
+  },
+  "São Lucas": {
+    "aluguel_m2_medio": 40.53,
+    "preco_m2_venda": 10131,
+    "preco_m2_ci_lo": 8367,
+    "preco_m2_ci_hi": 11896,
+    "preco_m2_p10": 7565,
+    "preco_m2_p90": 11342,
+    "n_transacoes": 16,
+    "condominio_medio": 296
+  },
+  "São Pedro": {
+    "aluguel_m2_medio": 25.15,
+    "preco_m2_venda": 6288,
+    "preco_m2_ci_lo": 5078,
+    "preco_m2_ci_hi": 7498,
+    "preco_m2_p10": 3185,
+    "preco_m2_p90": 7984,
+    "n_transacoes": 10,
+    "condominio_medio": 464
+  },
+  "Sé": {
+    "aluguel_m2_medio": 40.46,
+    "preco_m2_venda": 10114,
+    "preco_m2_ci_lo": 8685,
+    "preco_m2_ci_hi": 11543,
+    "preco_m2_p10": 5563,
+    "preco_m2_p90": 20108,
+    "n_transacoes": 63,
+    "condominio_medio": 504
+  },
+  "Sítio Morro Grande": {
+    "aluguel_m2_medio": 25.42,
+    "preco_m2_venda": 6355,
+    "preco_m2_ci_lo": 4357,
+    "preco_m2_ci_hi": 8354,
+    "preco_m2_p10": 3528,
+    "preco_m2_p90": 9317,
+    "n_transacoes": 7,
+    "condominio_medio": 292
+  },
+  "Sítio da Figueira": {
+    "aluguel_m2_medio": 31.69,
+    "preco_m2_venda": 7923,
+    "preco_m2_ci_lo": 6139,
+    "preco_m2_ci_hi": 9706,
+    "preco_m2_p10": 5269,
+    "preco_m2_p90": 10336,
+    "n_transacoes": 7,
+    "condominio_medio": 540
+  },
+  "Sítio do Mandaqui": {
+    "aluguel_m2_medio": 26.66,
+    "preco_m2_venda": 6664,
+    "preco_m2_ci_lo": 5535,
+    "preco_m2_ci_hi": 7794,
+    "preco_m2_p10": 4322,
+    "preco_m2_p90": 9168,
+    "n_transacoes": 13,
+    "condominio_medio": 418
+  },
+  "Taboão": {
+    "aluguel_m2_medio": 26.62,
+    "preco_m2_venda": 6655,
+    "preco_m2_ci_lo": 5843,
+    "preco_m2_ci_hi": 7468,
+    "preco_m2_p10": 4177,
+    "preco_m2_p90": 10928,
+    "n_transacoes": 47,
+    "condominio_medio": 320
+  },
+  "Tamboré": {
+    "aluguel_m2_medio": 62.0,
+    "preco_m2_venda": 15500,
+    "preco_m2_ci_lo": 14199,
+    "preco_m2_ci_hi": 16801,
+    "preco_m2_p10": 11715,
+    "preco_m2_p90": 18609,
+    "n_transacoes": 34,
+    "condominio_medio": 1611
+  },
+  "Tatuapé": {
+    "aluguel_m2_medio": 48.87,
+    "preco_m2_venda": 12218,
+    "preco_m2_ci_lo": 11105,
+    "preco_m2_ci_hi": 13331,
+    "preco_m2_p10": 5870,
+    "preco_m2_p90": 19753,
+    "n_transacoes": 98,
+    "condominio_medio": 628
+  },
+  "Tremembé": {
+    "aluguel_m2_medio": 29.57,
+    "preco_m2_venda": 7392,
+    "preco_m2_ci_lo": 6256,
+    "preco_m2_ci_hi": 8528,
+    "preco_m2_p10": 4679,
+    "preco_m2_p90": 9274,
+    "n_transacoes": 11,
+    "condominio_medio": 369
+  },
+  "Tucuruvi": {
+    "aluguel_m2_medio": 38.38,
+    "preco_m2_venda": 9594,
+    "preco_m2_ci_lo": 8281,
+    "preco_m2_ci_hi": 10908,
+    "preco_m2_p10": 5820,
+    "preco_m2_p90": 14853,
+    "n_transacoes": 38,
+    "condominio_medio": 390
+  },
+  "Umuarama": {
+    "aluguel_m2_medio": 34.64,
+    "preco_m2_venda": 8661,
+    "preco_m2_ci_lo": 6039,
+    "preco_m2_ci_hi": 11283,
+    "preco_m2_p10": 5045,
+    "preco_m2_p90": 11979,
+    "n_transacoes": 6,
+    "condominio_medio": 624
+  },
+  "Usina Piratininga": {
+    "aluguel_m2_medio": 43.81,
+    "preco_m2_venda": 10952,
+    "preco_m2_ci_lo": 9866,
+    "preco_m2_ci_hi": 12038,
+    "preco_m2_p10": 9330,
+    "preco_m2_p90": 12905,
+    "n_transacoes": 8,
+    "condominio_medio": 600
+  },
+  "Utinga": {
+    "aluguel_m2_medio": 27.28,
+    "preco_m2_venda": 6820,
+    "preco_m2_ci_lo": 5503,
+    "preco_m2_ci_hi": 8137,
+    "preco_m2_p10": 4784,
+    "preco_m2_p90": 8473,
+    "n_transacoes": 8,
+    "condominio_medio": 132
+  },
+  "Vila Albertina": {
+    "aluguel_m2_medio": 30.32,
+    "preco_m2_venda": 7579,
+    "preco_m2_ci_lo": 4600,
+    "preco_m2_ci_hi": 10558,
+    "preco_m2_p10": 3571,
+    "preco_m2_p90": 11329,
+    "n_transacoes": 13,
+    "condominio_medio": 469
+  },
+  "Vila Alexandria": {
+    "aluguel_m2_medio": 32.81,
+    "preco_m2_venda": 8202,
+    "preco_m2_ci_lo": 6460,
+    "preco_m2_ci_hi": 9944,
+    "preco_m2_p10": 3922,
+    "preco_m2_p90": 12413,
+    "n_transacoes": 14,
+    "condominio_medio": 1154
+  },
+  "Vila Alpina": {
+    "aluguel_m2_medio": 35.57,
+    "preco_m2_venda": 8892,
+    "preco_m2_ci_lo": 8131,
+    "preco_m2_ci_hi": 9653,
+    "preco_m2_p10": 5399,
+    "preco_m2_p90": 12000,
+    "n_transacoes": 38,
+    "condominio_medio": 224
+  },
+  "Vila Alzira": {
+    "aluguel_m2_medio": 37.52,
+    "preco_m2_venda": 9381,
+    "preco_m2_ci_lo": 6708,
+    "preco_m2_ci_hi": 12055,
+    "preco_m2_p10": 5533,
+    "preco_m2_p90": 12675,
+    "n_transacoes": 6,
+    "condominio_medio": 236
+  },
+  "Vila Amalia (zona Norte)": {
+    "aluguel_m2_medio": 29.07,
+    "preco_m2_venda": 7269,
+    "preco_m2_ci_lo": 6063,
+    "preco_m2_ci_hi": 8474,
+    "preco_m2_p10": 5553,
+    "preco_m2_p90": 9240,
+    "n_transacoes": 8,
+    "condominio_medio": 538
+  },
+  "Vila Amália (zona Norte)": {
+    "aluguel_m2_medio": 19.72,
+    "preco_m2_venda": 4930,
+    "preco_m2_ci_lo": 4042,
+    "preco_m2_ci_hi": 5818,
+    "preco_m2_p10": 3837,
+    "preco_m2_p90": 5862,
+    "n_transacoes": 5,
+    "condominio_medio": 442
+  },
+  "Vila Amélia": {
+    "aluguel_m2_medio": 28.14,
+    "preco_m2_venda": 7034,
+    "preco_m2_ci_lo": 5684,
+    "preco_m2_ci_hi": 8385,
+    "preco_m2_p10": 5236,
+    "preco_m2_p90": 8958,
+    "n_transacoes": 8,
+    "condominio_medio": 618
+  },
+  "Vila Anastácio": {
+    "aluguel_m2_medio": 45.16,
+    "preco_m2_venda": 11289,
+    "preco_m2_ci_lo": 8647,
+    "preco_m2_ci_hi": 13931,
+    "preco_m2_p10": 8387,
+    "preco_m2_p90": 14155,
+    "n_transacoes": 5,
+    "condominio_medio": 644
+  },
+  "Vila Andrade": {
+    "aluguel_m2_medio": 45.97,
+    "preco_m2_venda": 11493,
+    "preco_m2_ci_lo": 10717,
+    "preco_m2_ci_hi": 12270,
+    "preco_m2_p10": 6412,
+    "preco_m2_p90": 17807,
+    "n_transacoes": 128,
+    "condominio_medio": 956
+  },
+  "Vila Anglo Brasileira": {
+    "aluguel_m2_medio": 51.99,
+    "preco_m2_venda": 12998,
+    "preco_m2_ci_lo": 9834,
+    "preco_m2_ci_hi": 16162,
+    "preco_m2_p10": 6133,
+    "preco_m2_p90": 22680,
+    "n_transacoes": 20,
+    "condominio_medio": 975
+  },
+  "Vila Antonieta": {
+    "aluguel_m2_medio": 28.38,
+    "preco_m2_venda": 7094,
+    "preco_m2_ci_lo": 5666,
+    "preco_m2_ci_hi": 8522,
+    "preco_m2_p10": 4900,
+    "preco_m2_p90": 10205,
+    "n_transacoes": 9,
+    "condominio_medio": 263
+  },
+  "Vila Antonina": {
+    "aluguel_m2_medio": 40.78,
+    "preco_m2_venda": 10196,
+    "preco_m2_ci_lo": 7733,
+    "preco_m2_ci_hi": 12659,
+    "preco_m2_p10": 7607,
+    "preco_m2_p90": 13250,
+    "n_transacoes": 5,
+    "condominio_medio": 222
+  },
+  "Vila Araguaia": {
+    "aluguel_m2_medio": 27.81,
+    "preco_m2_venda": 6953,
+    "preco_m2_ci_lo": 4632,
+    "preco_m2_ci_hi": 9273,
+    "preco_m2_p10": 3990,
+    "preco_m2_p90": 9868,
+    "n_transacoes": 6,
+    "condominio_medio": 84
+  },
+  "Vila Aricanduva": {
+    "aluguel_m2_medio": 34.72,
+    "preco_m2_venda": 8680,
+    "preco_m2_ci_lo": 7764,
+    "preco_m2_ci_hi": 9596,
+    "preco_m2_p10": 5833,
+    "preco_m2_p90": 10579,
+    "n_transacoes": 21,
+    "condominio_medio": 241
+  },
+  "Vila Arriete": {
+    "aluguel_m2_medio": 26.68,
+    "preco_m2_venda": 6671,
+    "preco_m2_ci_lo": 5745,
+    "preco_m2_ci_hi": 7597,
+    "preco_m2_p10": 4943,
+    "preco_m2_p90": 7847,
+    "n_transacoes": 8,
+    "condominio_medio": 281
+  },
+  "Vila Augusta": {
+    "aluguel_m2_medio": 47.7,
+    "preco_m2_venda": 11925,
+    "preco_m2_ci_lo": 9491,
+    "preco_m2_ci_hi": 14358,
+    "preco_m2_p10": 7868,
+    "preco_m2_p90": 17725,
+    "n_transacoes": 14,
+    "condominio_medio": 614
+  },
+  "Vila Aurora (zona Norte)": {
+    "aluguel_m2_medio": 26.86,
+    "preco_m2_venda": 6716,
+    "preco_m2_ci_lo": 5219,
+    "preco_m2_ci_hi": 8213,
+    "preco_m2_p10": 5000,
+    "preco_m2_p90": 7500,
+    "n_transacoes": 11,
+    "condominio_medio": 173
+  },
+  "Vila Azevedo": {
+    "aluguel_m2_medio": 41.08,
+    "preco_m2_venda": 10271,
+    "preco_m2_ci_lo": 7879,
+    "preco_m2_ci_hi": 12662,
+    "preco_m2_p10": 7462,
+    "preco_m2_p90": 13667,
+    "n_transacoes": 6,
+    "condominio_medio": 1095
+  },
+  "Vila Babilonia": {
+    "aluguel_m2_medio": 29.17,
+    "preco_m2_venda": 7291,
+    "preco_m2_ci_lo": 5124,
+    "preco_m2_ci_hi": 9458,
+    "preco_m2_p10": 4919,
+    "preco_m2_p90": 9930,
+    "n_transacoes": 5,
+    "condominio_medio": 77
+  },
+  "Vila Babilônia": {
+    "aluguel_m2_medio": 27.92,
+    "preco_m2_venda": 6981,
+    "preco_m2_ci_lo": 5580,
+    "preco_m2_ci_hi": 8382,
+    "preco_m2_p10": 5071,
+    "preco_m2_p90": 9250,
+    "n_transacoes": 7,
+    "condominio_medio": 227
+  },
+  "Vila Bandeirantes": {
+    "aluguel_m2_medio": 24.14,
+    "preco_m2_venda": 6035,
+    "preco_m2_ci_lo": 3563,
+    "preco_m2_ci_hi": 8507,
+    "preco_m2_p10": 3877,
+    "preco_m2_p90": 8940,
+    "n_transacoes": 5,
+    "condominio_medio": 197
+  },
+  "Vila Barbosa": {
+    "aluguel_m2_medio": 35.94,
+    "preco_m2_venda": 8985,
+    "preco_m2_ci_lo": 7154,
+    "preco_m2_ci_hi": 10815,
+    "preco_m2_p10": 6732,
+    "preco_m2_p90": 10761,
+    "n_transacoes": 5,
+    "condominio_medio": 467
+  },
+  "Vila Baruel": {
+    "aluguel_m2_medio": 29.82,
+    "preco_m2_venda": 7455,
+    "preco_m2_ci_lo": 5976,
+    "preco_m2_ci_hi": 8935,
+    "preco_m2_p10": 4848,
+    "preco_m2_p90": 10846,
+    "n_transacoes": 12,
+    "condominio_medio": 376
+  },
+  "Vila Bela": {
+    "aluguel_m2_medio": 44.49,
+    "preco_m2_venda": 11122,
+    "preco_m2_ci_lo": 8893,
+    "preco_m2_ci_hi": 13351,
+    "preco_m2_p10": 5957,
+    "preco_m2_p90": 17621,
+    "n_transacoes": 15,
+    "condominio_medio": 463
+  },
+  "Vila Bertioga": {
+    "aluguel_m2_medio": 42.35,
+    "preco_m2_venda": 10588,
+    "preco_m2_ci_lo": 9120,
+    "preco_m2_ci_hi": 12056,
+    "preco_m2_p10": 4949,
+    "preco_m2_p90": 16752,
+    "n_transacoes": 42,
+    "condominio_medio": 303
+  },
+  "Vila Boacava": {
+    "aluguel_m2_medio": 31.52,
+    "preco_m2_venda": 7880,
+    "preco_m2_ci_lo": 7066,
+    "preco_m2_ci_hi": 8693,
+    "preco_m2_p10": 6950,
+    "preco_m2_p90": 8423,
+    "n_transacoes": 5,
+    "condominio_medio": 42
+  },
+  "Vila Brasilina": {
+    "aluguel_m2_medio": 23.82,
+    "preco_m2_venda": 5955,
+    "preco_m2_ci_lo": 5214,
+    "preco_m2_ci_hi": 6697,
+    "preco_m2_p10": 4470,
+    "preco_m2_p90": 7188,
+    "n_transacoes": 11,
+    "condominio_medio": 87
+  },
+  "Vila Brasílio Machado": {
+    "aluguel_m2_medio": 45.32,
+    "preco_m2_venda": 11331,
+    "preco_m2_ci_lo": 6880,
+    "preco_m2_ci_hi": 15783,
+    "preco_m2_p10": 7150,
+    "preco_m2_p90": 16977,
+    "n_transacoes": 6,
+    "condominio_medio": 814
+  },
+  "Vila Buarque": {
+    "aluguel_m2_medio": 55.78,
+    "preco_m2_venda": 13946,
+    "preco_m2_ci_lo": 12715,
+    "preco_m2_ci_hi": 15177,
+    "preco_m2_p10": 8479,
+    "preco_m2_p90": 21513,
+    "n_transacoes": 88,
+    "condominio_medio": 632
+  },
+  "Vila Buenos Aires": {
+    "aluguel_m2_medio": 27.41,
+    "preco_m2_venda": 6854,
+    "preco_m2_ci_lo": 5680,
+    "preco_m2_ci_hi": 8027,
+    "preco_m2_p10": 4572,
+    "preco_m2_p90": 9786,
+    "n_transacoes": 13,
+    "condominio_medio": 127
+  },
+  "Vila Butantã": {
+    "aluguel_m2_medio": 62.74,
+    "preco_m2_venda": 15684,
+    "preco_m2_ci_lo": 13217,
+    "preco_m2_ci_hi": 18152,
+    "preco_m2_p10": 8996,
+    "preco_m2_p90": 20910,
+    "n_transacoes": 19,
+    "condominio_medio": 435
+  },
+  "Vila California": {
+    "aluguel_m2_medio": 23.31,
+    "preco_m2_venda": 5827,
+    "preco_m2_ci_lo": 4890,
+    "preco_m2_ci_hi": 6765,
+    "preco_m2_p10": 4681,
+    "preco_m2_p90": 7060,
+    "n_transacoes": 6,
+    "condominio_medio": 107
+  },
+  "Vila Califórnia": {
+    "aluguel_m2_medio": 25.91,
+    "preco_m2_venda": 6478,
+    "preco_m2_ci_lo": 4415,
+    "preco_m2_ci_hi": 8541,
+    "preco_m2_p10": 3833,
+    "preco_m2_p90": 9099,
+    "n_transacoes": 6,
+    "condominio_medio": 186
+  },
+  "Vila Campanela": {
+    "aluguel_m2_medio": 36.58,
+    "preco_m2_venda": 9145,
+    "preco_m2_ci_lo": 8432,
+    "preco_m2_ci_hi": 9858,
+    "preco_m2_p10": 8062,
+    "preco_m2_p90": 10475,
+    "n_transacoes": 10,
+    "condominio_medio": 257
+  },
+  "Vila Campesina": {
+    "aluguel_m2_medio": 28.55,
+    "preco_m2_venda": 7139,
+    "preco_m2_ci_lo": 3188,
+    "preco_m2_ci_hi": 11090,
+    "preco_m2_p10": 4122,
+    "preco_m2_p90": 11733,
+    "n_transacoes": 5,
+    "condominio_medio": 472
+  },
+  "Vila Campestre": {
+    "aluguel_m2_medio": 28.34,
+    "preco_m2_venda": 7084,
+    "preco_m2_ci_lo": 5690,
+    "preco_m2_ci_hi": 8478,
+    "preco_m2_p10": 4440,
+    "preco_m2_p90": 11192,
+    "n_transacoes": 15,
+    "condominio_medio": 102
+  },
+  "Vila Campo Grande": {
+    "aluguel_m2_medio": 25.83,
+    "preco_m2_venda": 6458,
+    "preco_m2_ci_lo": 4544,
+    "preco_m2_ci_hi": 8372,
+    "preco_m2_p10": 4989,
+    "preco_m2_p90": 7172,
+    "n_transacoes": 10,
+    "condominio_medio": 430
+  },
+  "Vila Canero": {
+    "aluguel_m2_medio": 32.08,
+    "preco_m2_venda": 8021,
+    "preco_m2_ci_lo": 4053,
+    "preco_m2_ci_hi": 11989,
+    "preco_m2_p10": 3877,
+    "preco_m2_p90": 13796,
+    "n_transacoes": 6,
+    "condominio_medio": 48
+  },
+  "Vila Carbone": {
+    "aluguel_m2_medio": 23.9,
+    "preco_m2_venda": 5975,
+    "preco_m2_ci_lo": 4660,
+    "preco_m2_ci_hi": 7291,
+    "preco_m2_p10": 4945,
+    "preco_m2_p90": 7410,
+    "n_transacoes": 5,
+    "condominio_medio": 161
+  },
+  "Vila Carmosina": {
+    "aluguel_m2_medio": 25.64,
+    "preco_m2_venda": 6409,
+    "preco_m2_ci_lo": 5383,
+    "preco_m2_ci_hi": 7435,
+    "preco_m2_p10": 5375,
+    "preco_m2_p90": 7901,
+    "n_transacoes": 7,
+    "condominio_medio": 96
+  },
+  "Vila Carrao": {
+    "aluguel_m2_medio": 37.74,
+    "preco_m2_venda": 9435,
+    "preco_m2_ci_lo": 7789,
+    "preco_m2_ci_hi": 11082,
+    "preco_m2_p10": 5297,
+    "preco_m2_p90": 12687,
+    "n_transacoes": 14,
+    "condominio_medio": 236
+  },
+  "Vila Carrão": {
+    "aluguel_m2_medio": 34.06,
+    "preco_m2_venda": 8516,
+    "preco_m2_ci_lo": 6960,
+    "preco_m2_ci_hi": 10072,
+    "preco_m2_p10": 5302,
+    "preco_m2_p90": 12838,
+    "n_transacoes": 20,
+    "condominio_medio": 249
+  },
+  "Vila Celeste": {
+    "aluguel_m2_medio": 27.87,
+    "preco_m2_venda": 6967,
+    "preco_m2_ci_lo": 5330,
+    "preco_m2_ci_hi": 8604,
+    "preco_m2_p10": 4020,
+    "preco_m2_p90": 9515,
+    "n_transacoes": 10,
+    "condominio_medio": 402
+  },
+  "Vila Clementino": {
+    "aluguel_m2_medio": 59.81,
+    "preco_m2_venda": 14951,
+    "preco_m2_ci_lo": 13276,
+    "preco_m2_ci_hi": 16627,
+    "preco_m2_p10": 7691,
+    "preco_m2_p90": 26598,
+    "n_transacoes": 78,
+    "condominio_medio": 902
+  },
+  "Vila Congonhas": {
+    "aluguel_m2_medio": 48.0,
+    "preco_m2_venda": 12001,
+    "preco_m2_ci_lo": 9652,
+    "preco_m2_ci_hi": 14350,
+    "preco_m2_p10": 5694,
+    "preco_m2_p90": 22254,
+    "n_transacoes": 33,
+    "condominio_medio": 1220
+  },
+  "Vila Constancia": {
+    "aluguel_m2_medio": 34.77,
+    "preco_m2_venda": 8692,
+    "preco_m2_ci_lo": 7824,
+    "preco_m2_ci_hi": 9559,
+    "preco_m2_p10": 7500,
+    "preco_m2_p90": 10167,
+    "n_transacoes": 7,
+    "condominio_medio": 431
+  },
+  "Vila Constança": {
+    "aluguel_m2_medio": 31.68,
+    "preco_m2_venda": 7919,
+    "preco_m2_ci_lo": 6993,
+    "preco_m2_ci_hi": 8844,
+    "preco_m2_p10": 5943,
+    "preco_m2_p90": 11279,
+    "n_transacoes": 22,
+    "condominio_medio": 308
+  },
+  "Vila Cordeiro": {
+    "aluguel_m2_medio": 53.59,
+    "preco_m2_venda": 13396,
+    "preco_m2_ci_lo": 8915,
+    "preco_m2_ci_hi": 17877,
+    "preco_m2_p10": 6790,
+    "preco_m2_p90": 22388,
+    "n_transacoes": 10,
+    "condominio_medio": 853
+  },
+  "Vila Cruz das Almas": {
+    "aluguel_m2_medio": 25.03,
+    "preco_m2_venda": 6257,
+    "preco_m2_ci_lo": 3564,
+    "preco_m2_ci_hi": 8949,
+    "preco_m2_p10": 3915,
+    "preco_m2_p90": 9580,
+    "n_transacoes": 6,
+    "condominio_medio": 122
+  },
+  "Vila Cruzeiro": {
+    "aluguel_m2_medio": 51.04,
+    "preco_m2_venda": 12759,
+    "preco_m2_ci_lo": 10644,
+    "preco_m2_ci_hi": 14875,
+    "preco_m2_p10": 6960,
+    "preco_m2_p90": 18013,
+    "n_transacoes": 19,
+    "condominio_medio": 792
+  },
+  "Vila Dalila": {
+    "aluguel_m2_medio": 40.82,
+    "preco_m2_venda": 10205,
+    "preco_m2_ci_lo": 8459,
+    "preco_m2_ci_hi": 11951,
+    "preco_m2_p10": 5842,
+    "preco_m2_p90": 13317,
+    "n_transacoes": 13,
+    "condominio_medio": 216
+  },
+  "Vila Diva (zona Leste)": {
+    "aluguel_m2_medio": 33.82,
+    "preco_m2_venda": 8454,
+    "preco_m2_ci_lo": 6278,
+    "preco_m2_ci_hi": 10631,
+    "preco_m2_p10": 4375,
+    "preco_m2_p90": 11373,
+    "n_transacoes": 8,
+    "condominio_medio": 1271
+  },
+  "Vila Dom Pedro I": {
+    "aluguel_m2_medio": 49.58,
+    "preco_m2_venda": 12396,
+    "preco_m2_ci_lo": 10452,
+    "preco_m2_ci_hi": 14340,
+    "preco_m2_p10": 6660,
+    "preco_m2_p90": 17568,
+    "n_transacoes": 21,
+    "condominio_medio": 581
+  },
+  "Vila Dom Pedro Ii": {
+    "aluguel_m2_medio": 45.45,
+    "preco_m2_venda": 11363,
+    "preco_m2_ci_lo": 7958,
+    "preco_m2_ci_hi": 14767,
+    "preco_m2_p10": 6102,
+    "preco_m2_p90": 17147,
+    "n_transacoes": 17,
+    "condominio_medio": 550
+  },
+  "Vila Ede": {
+    "aluguel_m2_medio": 24.42,
+    "preco_m2_venda": 6105,
+    "preco_m2_ci_lo": 4307,
+    "preco_m2_ci_hi": 7902,
+    "preco_m2_p10": 3931,
+    "preco_m2_p90": 8014,
+    "n_transacoes": 5,
+    "condominio_medio": 132
+  },
+  "Vila Ema": {
+    "aluguel_m2_medio": 35.78,
+    "preco_m2_venda": 8945,
+    "preco_m2_ci_lo": 7941,
+    "preco_m2_ci_hi": 9949,
+    "preco_m2_p10": 5598,
+    "preco_m2_p90": 12180,
+    "n_transacoes": 35,
+    "condominio_medio": 358
+  },
+  "Vila Emir": {
+    "aluguel_m2_medio": 25.1,
+    "preco_m2_venda": 6274,
+    "preco_m2_ci_lo": 4932,
+    "preco_m2_ci_hi": 7616,
+    "preco_m2_p10": 4618,
+    "preco_m2_p90": 7597,
+    "n_transacoes": 5,
+    "condominio_medio": 479
+  },
+  "Vila Endres": {
+    "aluguel_m2_medio": 32.12,
+    "preco_m2_venda": 8030,
+    "preco_m2_ci_lo": 5831,
+    "preco_m2_ci_hi": 10230,
+    "preco_m2_p10": 5535,
+    "preco_m2_p90": 11333,
+    "n_transacoes": 6,
+    "condominio_medio": 531
+  },
+  "Vila Esperança": {
+    "aluguel_m2_medio": 40.78,
+    "preco_m2_venda": 10194,
+    "preco_m2_ci_lo": 8438,
+    "preco_m2_ci_hi": 11950,
+    "preco_m2_p10": 6381,
+    "preco_m2_p90": 17221,
+    "n_transacoes": 23,
+    "condominio_medio": 312
+  },
+  "Vila Ester (zona Norte)": {
+    "aluguel_m2_medio": 32.44,
+    "preco_m2_venda": 8111,
+    "preco_m2_ci_lo": 6420,
+    "preco_m2_ci_hi": 9801,
+    "preco_m2_p10": 5963,
+    "preco_m2_p90": 10770,
+    "n_transacoes": 7,
+    "condominio_medio": 671
+  },
+  "Vila Fachini": {
+    "aluguel_m2_medio": 19.51,
+    "preco_m2_venda": 4877,
+    "preco_m2_ci_lo": 4246,
+    "preco_m2_ci_hi": 5507,
+    "preco_m2_p10": 3902,
+    "preco_m2_p90": 5761,
+    "n_transacoes": 7,
+    "condominio_medio": 175
+  },
+  "Vila Firmiano Pinto": {
+    "aluguel_m2_medio": 32.78,
+    "preco_m2_venda": 8194,
+    "preco_m2_ci_lo": 6368,
+    "preco_m2_ci_hi": 10020,
+    "preco_m2_p10": 5803,
+    "preco_m2_p90": 13298,
+    "n_transacoes": 11,
+    "condominio_medio": 626
+  },
+  "Vila Formosa": {
+    "aluguel_m2_medio": 34.65,
+    "preco_m2_venda": 8663,
+    "preco_m2_ci_lo": 7932,
+    "preco_m2_ci_hi": 9394,
+    "preco_m2_p10": 4757,
+    "preco_m2_p90": 12485,
+    "n_transacoes": 62,
+    "condominio_medio": 308
+  },
+  "Vila Galvão": {
+    "aluguel_m2_medio": 33.14,
+    "preco_m2_venda": 8286,
+    "preco_m2_ci_lo": 6286,
+    "preco_m2_ci_hi": 10285,
+    "preco_m2_p10": 5304,
+    "preco_m2_p90": 13642,
+    "n_transacoes": 10,
+    "condominio_medio": 567
+  },
+  "Vila Gertrudes": {
+    "aluguel_m2_medio": 74.68,
+    "preco_m2_venda": 18670,
+    "preco_m2_ci_lo": 13145,
+    "preco_m2_ci_hi": 24195,
+    "preco_m2_p10": 9726,
+    "preco_m2_p90": 29595,
+    "n_transacoes": 10,
+    "condominio_medio": 1360
+  },
+  "Vila Gomes": {
+    "aluguel_m2_medio": 45.09,
+    "preco_m2_venda": 11274,
+    "preco_m2_ci_lo": 8191,
+    "preco_m2_ci_hi": 14356,
+    "preco_m2_p10": 5574,
+    "preco_m2_p90": 18846,
+    "n_transacoes": 11,
+    "condominio_medio": 683
+  },
+  "Vila Gomes Cardim": {
+    "aluguel_m2_medio": 46.84,
+    "preco_m2_venda": 11710,
+    "preco_m2_ci_lo": 10221,
+    "preco_m2_ci_hi": 13198,
+    "preco_m2_p10": 7423,
+    "preco_m2_p90": 16829,
+    "n_transacoes": 25,
+    "condominio_medio": 886
+  },
+  "Vila Graciosa": {
+    "aluguel_m2_medio": 31.04,
+    "preco_m2_venda": 7761,
+    "preco_m2_ci_lo": 5531,
+    "preco_m2_ci_hi": 9991,
+    "preco_m2_p10": 4329,
+    "preco_m2_p90": 10168,
+    "n_transacoes": 6,
+    "condominio_medio": 319
+  },
+  "Vila Granada": {
+    "aluguel_m2_medio": 37.7,
+    "preco_m2_venda": 9426,
+    "preco_m2_ci_lo": 7774,
+    "preco_m2_ci_hi": 11078,
+    "preco_m2_p10": 7902,
+    "preco_m2_p90": 11228,
+    "n_transacoes": 9,
+    "condominio_medio": 277
+  },
+  "Vila Guaca": {
+    "aluguel_m2_medio": 24.34,
+    "preco_m2_venda": 6086,
+    "preco_m2_ci_lo": 5597,
+    "preco_m2_ci_hi": 6574,
+    "preco_m2_p10": 5550,
+    "preco_m2_p90": 6591,
+    "n_transacoes": 5,
+    "condominio_medio": 155
+  },
+  "Vila Guarani": {
+    "aluguel_m2_medio": 37.67,
+    "preco_m2_venda": 9418,
+    "preco_m2_ci_lo": 7275,
+    "preco_m2_ci_hi": 11560,
+    "preco_m2_p10": 5148,
+    "preco_m2_p90": 15169,
+    "n_transacoes": 12,
+    "condominio_medio": 806
+  },
+  "Vila Guarani (z Sul)": {
+    "aluguel_m2_medio": 40.77,
+    "preco_m2_venda": 10192,
+    "preco_m2_ci_lo": 8465,
+    "preco_m2_ci_hi": 11919,
+    "preco_m2_p10": 6447,
+    "preco_m2_p90": 15683,
+    "n_transacoes": 33,
+    "condominio_medio": 894
+  },
+  "Vila Guarani (zona Sul)": {
+    "aluguel_m2_medio": 32.82,
+    "preco_m2_venda": 8204,
+    "preco_m2_ci_lo": 6529,
+    "preco_m2_ci_hi": 9879,
+    "preco_m2_p10": 4803,
+    "preco_m2_p90": 11547,
+    "n_transacoes": 10,
+    "condominio_medio": 696
+  },
+  "Vila Guilherme": {
+    "aluguel_m2_medio": 38.69,
+    "preco_m2_venda": 9671,
+    "preco_m2_ci_lo": 8093,
+    "preco_m2_ci_hi": 11250,
+    "preco_m2_p10": 5173,
+    "preco_m2_p90": 13373,
+    "n_transacoes": 37,
+    "condominio_medio": 347
+  },
+  "Vila Guilhermina": {
+    "aluguel_m2_medio": 38.75,
+    "preco_m2_venda": 9686,
+    "preco_m2_ci_lo": 8781,
+    "preco_m2_ci_hi": 10591,
+    "preco_m2_p10": 6402,
+    "preco_m2_p90": 11976,
+    "n_transacoes": 22,
+    "condominio_medio": 238
+  },
+  "Vila Guiomar": {
+    "aluguel_m2_medio": 30.76,
+    "preco_m2_venda": 7691,
+    "preco_m2_ci_lo": 5523,
+    "preco_m2_ci_hi": 9858,
+    "preco_m2_p10": 5785,
+    "preco_m2_p90": 10271,
+    "n_transacoes": 5,
+    "condominio_medio": 592
+  },
+  "Vila Gumercindo": {
+    "aluguel_m2_medio": 44.43,
+    "preco_m2_venda": 11108,
+    "preco_m2_ci_lo": 8977,
+    "preco_m2_ci_hi": 13240,
+    "preco_m2_p10": 6573,
+    "preco_m2_p90": 15123,
+    "n_transacoes": 26,
+    "condominio_medio": 854
+  },
+  "Vila Gustavo": {
+    "aluguel_m2_medio": 31.79,
+    "preco_m2_venda": 7946,
+    "preco_m2_ci_lo": 6636,
+    "preco_m2_ci_hi": 9257,
+    "preco_m2_p10": 4364,
+    "preco_m2_p90": 13393,
+    "n_transacoes": 21,
+    "condominio_medio": 175
+  },
+  "Vila Independencia": {
+    "aluguel_m2_medio": 38.03,
+    "preco_m2_venda": 9508,
+    "preco_m2_ci_lo": 6718,
+    "preco_m2_ci_hi": 12298,
+    "preco_m2_p10": 6108,
+    "preco_m2_p90": 12378,
+    "n_transacoes": 5,
+    "condominio_medio": 320
+  },
+  "Vila Indiana": {
+    "aluguel_m2_medio": 39.27,
+    "preco_m2_venda": 9817,
+    "preco_m2_ci_lo": 8657,
+    "preco_m2_ci_hi": 10976,
+    "preco_m2_p10": 8424,
+    "preco_m2_p90": 11262,
+    "n_transacoes": 7,
+    "condominio_medio": 1387
+  },
+  "Vila Industrial": {
+    "aluguel_m2_medio": 25.59,
+    "preco_m2_venda": 6399,
+    "preco_m2_ci_lo": 4330,
+    "preco_m2_ci_hi": 8467,
+    "preco_m2_p10": 4509,
+    "preco_m2_p90": 8970,
+    "n_transacoes": 5,
+    "condominio_medio": 100
+  },
+  "Vila Inglesa": {
+    "aluguel_m2_medio": 30.23,
+    "preco_m2_venda": 7559,
+    "preco_m2_ci_lo": 6535,
+    "preco_m2_ci_hi": 8583,
+    "preco_m2_p10": 6526,
+    "preco_m2_p90": 8848,
+    "n_transacoes": 5,
+    "condominio_medio": 475
+  },
+  "Vila Invernada": {
+    "aluguel_m2_medio": 33.66,
+    "preco_m2_venda": 8414,
+    "preco_m2_ci_lo": 7393,
+    "preco_m2_ci_hi": 9436,
+    "preco_m2_p10": 5540,
+    "preco_m2_p90": 11506,
+    "n_transacoes": 26,
+    "condominio_medio": 258
+  },
+  "Vila Ipojuca": {
+    "aluguel_m2_medio": 50.27,
+    "preco_m2_venda": 12566,
+    "preco_m2_ci_lo": 10403,
+    "preco_m2_ci_hi": 14730,
+    "preco_m2_p10": 6975,
+    "preco_m2_p90": 19966,
+    "n_transacoes": 22,
+    "condominio_medio": 1270
+  },
+  "Vila Isolina Mazzei": {
+    "aluguel_m2_medio": 31.03,
+    "preco_m2_venda": 7757,
+    "preco_m2_ci_lo": 6751,
+    "preco_m2_ci_hi": 8764,
+    "preco_m2_p10": 4404,
+    "preco_m2_p90": 10833,
+    "n_transacoes": 29,
+    "condominio_medio": 190
+  },
+  "Vila Ivone": {
+    "aluguel_m2_medio": 27.1,
+    "preco_m2_venda": 6776,
+    "preco_m2_ci_lo": 4928,
+    "preco_m2_ci_hi": 8624,
+    "preco_m2_p10": 4638,
+    "preco_m2_p90": 9280,
+    "n_transacoes": 6,
+    "condominio_medio": 474
+  },
+  "Vila Lageado": {
+    "aluguel_m2_medio": 33.63,
+    "preco_m2_venda": 8407,
+    "preco_m2_ci_lo": 5738,
+    "preco_m2_ci_hi": 11077,
+    "preco_m2_p10": 4425,
+    "preco_m2_p90": 12577,
+    "n_transacoes": 7,
+    "condominio_medio": 545
+  },
+  "Vila Leonor": {
+    "aluguel_m2_medio": 29.13,
+    "preco_m2_venda": 7283,
+    "preco_m2_ci_lo": 6042,
+    "preco_m2_ci_hi": 8523,
+    "preco_m2_p10": 5936,
+    "preco_m2_p90": 8750,
+    "n_transacoes": 5,
+    "condominio_medio": 145
+  },
+  "Vila Leopoldina": {
+    "aluguel_m2_medio": 53.63,
+    "preco_m2_venda": 13408,
+    "preco_m2_ci_lo": 11686,
+    "preco_m2_ci_hi": 15129,
+    "preco_m2_p10": 8155,
+    "preco_m2_p90": 18751,
+    "n_transacoes": 34,
+    "condominio_medio": 922
+  },
+  "Vila Libanesa": {
+    "aluguel_m2_medio": 25.08,
+    "preco_m2_venda": 6269,
+    "preco_m2_ci_lo": 5093,
+    "preco_m2_ci_hi": 7445,
+    "preco_m2_p10": 4785,
+    "preco_m2_p90": 7458,
+    "n_transacoes": 6,
+    "condominio_medio": 158
+  },
+  "Vila Madalena": {
+    "aluguel_m2_medio": 70.54,
+    "preco_m2_venda": 17634,
+    "preco_m2_ci_lo": 15198,
+    "preco_m2_ci_hi": 20071,
+    "preco_m2_p10": 10000,
+    "preco_m2_p90": 27174,
+    "n_transacoes": 31,
+    "condominio_medio": 1079
+  },
+  "Vila Mafra": {
+    "aluguel_m2_medio": 29.46,
+    "preco_m2_venda": 7365,
+    "preco_m2_ci_lo": 4240,
+    "preco_m2_ci_hi": 10490,
+    "preco_m2_p10": 4042,
+    "preco_m2_p90": 11160,
+    "n_transacoes": 5,
+    "condominio_medio": 235
+  },
+  "Vila Mangalot": {
+    "aluguel_m2_medio": 30.95,
+    "preco_m2_venda": 7737,
+    "preco_m2_ci_lo": 5310,
+    "preco_m2_ci_hi": 10163,
+    "preco_m2_p10": 4562,
+    "preco_m2_p90": 11578,
+    "n_transacoes": 7,
+    "condominio_medio": 652
+  },
+  "Vila Marari": {
+    "aluguel_m2_medio": 24.13,
+    "preco_m2_venda": 6033,
+    "preco_m2_ci_lo": 4784,
+    "preco_m2_ci_hi": 7282,
+    "preco_m2_p10": 4044,
+    "preco_m2_p90": 7577,
+    "n_transacoes": 12,
+    "condominio_medio": 200
+  },
+  "Vila Maria": {
+    "aluguel_m2_medio": 32.83,
+    "preco_m2_venda": 8208,
+    "preco_m2_ci_lo": 5941,
+    "preco_m2_ci_hi": 10474,
+    "preco_m2_p10": 4492,
+    "preco_m2_p90": 12851,
+    "n_transacoes": 9,
+    "condominio_medio": 393
+  },
+  "Vila Maria Alta": {
+    "aluguel_m2_medio": 29.28,
+    "preco_m2_venda": 7319,
+    "preco_m2_ci_lo": 6373,
+    "preco_m2_ci_hi": 8266,
+    "preco_m2_p10": 5423,
+    "preco_m2_p90": 10736,
+    "n_transacoes": 20,
+    "condominio_medio": 174
+  },
+  "Vila Mariana": {
+    "aluguel_m2_medio": 66.65,
+    "preco_m2_venda": 16662,
+    "preco_m2_ci_lo": 15476,
+    "preco_m2_ci_hi": 17847,
+    "preco_m2_p10": 7064,
+    "preco_m2_p90": 30769,
+    "n_transacoes": 221,
+    "condominio_medio": 775
+  },
+  "Vila Marieta": {
+    "aluguel_m2_medio": 44.86,
+    "preco_m2_venda": 11216,
+    "preco_m2_ci_lo": 7336,
+    "preco_m2_ci_hi": 15096,
+    "preco_m2_p10": 6763,
+    "preco_m2_p90": 16833,
+    "n_transacoes": 6,
+    "condominio_medio": 220
+  },
+  "Vila Marina": {
+    "aluguel_m2_medio": 21.33,
+    "preco_m2_venda": 5333,
+    "preco_m2_ci_lo": 4351,
+    "preco_m2_ci_hi": 6316,
+    "preco_m2_p10": 3581,
+    "preco_m2_p90": 6684,
+    "n_transacoes": 10,
+    "condominio_medio": 103
+  },
+  "Vila Mascote": {
+    "aluguel_m2_medio": 43.73,
+    "preco_m2_venda": 10932,
+    "preco_m2_ci_lo": 9698,
+    "preco_m2_ci_hi": 12166,
+    "preco_m2_p10": 7595,
+    "preco_m2_p90": 14533,
+    "n_transacoes": 42,
+    "condominio_medio": 1086
+  },
+  "Vila Matilde": {
+    "aluguel_m2_medio": 43.23,
+    "preco_m2_venda": 10807,
+    "preco_m2_ci_lo": 9510,
+    "preco_m2_ci_hi": 12104,
+    "preco_m2_p10": 7492,
+    "preco_m2_p90": 16617,
+    "n_transacoes": 34,
+    "condominio_medio": 219
+  },
+  "Vila Mazzei": {
+    "aluguel_m2_medio": 36.4,
+    "preco_m2_venda": 9101,
+    "preco_m2_ci_lo": 7933,
+    "preco_m2_ci_hi": 10268,
+    "preco_m2_p10": 5420,
+    "preco_m2_p90": 12667,
+    "n_transacoes": 29,
+    "condominio_medio": 279
+  },
+  "Vila Medeiros": {
+    "aluguel_m2_medio": 27.95,
+    "preco_m2_venda": 6988,
+    "preco_m2_ci_lo": 5832,
+    "preco_m2_ci_hi": 8145,
+    "preco_m2_p10": 4091,
+    "preco_m2_p90": 9990,
+    "n_transacoes": 25,
+    "condominio_medio": 261
+  },
+  "Vila Mira": {
+    "aluguel_m2_medio": 33.22,
+    "preco_m2_venda": 8306,
+    "preco_m2_ci_lo": 6791,
+    "preco_m2_ci_hi": 9822,
+    "preco_m2_p10": 6281,
+    "preco_m2_p90": 11500,
+    "n_transacoes": 9,
+    "condominio_medio": 526
+  },
+  "Vila Miriam": {
+    "aluguel_m2_medio": 29.28,
+    "preco_m2_venda": 7320,
+    "preco_m2_ci_lo": 4259,
+    "preco_m2_ci_hi": 10382,
+    "preco_m2_p10": 4431,
+    "preco_m2_p90": 11421,
+    "n_transacoes": 6,
+    "condominio_medio": 96
+  },
+  "Vila Moinho Velho": {
+    "aluguel_m2_medio": 38.05,
+    "preco_m2_venda": 9512,
+    "preco_m2_ci_lo": 7319,
+    "preco_m2_ci_hi": 11706,
+    "preco_m2_p10": 4850,
+    "preco_m2_p90": 12566,
+    "n_transacoes": 15,
+    "condominio_medio": 608
+  },
+  "Vila Monte Alegre": {
+    "aluguel_m2_medio": 39.82,
+    "preco_m2_venda": 9956,
+    "preco_m2_ci_lo": 8702,
+    "preco_m2_ci_hi": 11210,
+    "preco_m2_p10": 7500,
+    "preco_m2_p90": 13158,
+    "n_transacoes": 21,
+    "condominio_medio": 1048
+  },
+  "Vila Monumento": {
+    "aluguel_m2_medio": 34.3,
+    "preco_m2_venda": 8576,
+    "preco_m2_ci_lo": 7158,
+    "preco_m2_ci_hi": 9993,
+    "preco_m2_p10": 4396,
+    "preco_m2_p90": 13768,
+    "n_transacoes": 22,
+    "condominio_medio": 350
+  },
+  "Vila Moraes": {
+    "aluguel_m2_medio": 27.88,
+    "preco_m2_venda": 6971,
+    "preco_m2_ci_lo": 5468,
+    "preco_m2_ci_hi": 8474,
+    "preco_m2_p10": 4637,
+    "preco_m2_p90": 11468,
+    "n_transacoes": 14,
+    "condominio_medio": 128
+  },
+  "Vila Moreira": {
+    "aluguel_m2_medio": 47.02,
+    "preco_m2_venda": 11754,
+    "preco_m2_ci_lo": 7812,
+    "preco_m2_ci_hi": 15696,
+    "preco_m2_p10": 6533,
+    "preco_m2_p90": 15319,
+    "n_transacoes": 9,
+    "condominio_medio": 587
+  },
+  "Vila Morse": {
+    "aluguel_m2_medio": 34.9,
+    "preco_m2_venda": 8726,
+    "preco_m2_ci_lo": 6492,
+    "preco_m2_ci_hi": 10960,
+    "preco_m2_p10": 5318,
+    "preco_m2_p90": 15553,
+    "n_transacoes": 13,
+    "condominio_medio": 526
+  },
+  "Vila Nivi": {
+    "aluguel_m2_medio": 31.04,
+    "preco_m2_venda": 7760,
+    "preco_m2_ci_lo": 5653,
+    "preco_m2_ci_hi": 9867,
+    "preco_m2_p10": 4727,
+    "preco_m2_p90": 10921,
+    "n_transacoes": 7,
+    "condominio_medio": 122
+  },
+  "Vila Nova Cachoeirinha": {
+    "aluguel_m2_medio": 34.2,
+    "preco_m2_venda": 8551,
+    "preco_m2_ci_lo": 7318,
+    "preco_m2_ci_hi": 9783,
+    "preco_m2_p10": 6015,
+    "preco_m2_p90": 12082,
+    "n_transacoes": 20,
+    "condominio_medio": 502
+  },
+  "Vila Nova Caledônia": {
+    "aluguel_m2_medio": 35.87,
+    "preco_m2_venda": 8968,
+    "preco_m2_ci_lo": 7305,
+    "preco_m2_ci_hi": 10630,
+    "preco_m2_p10": 6909,
+    "preco_m2_p90": 10380,
+    "n_transacoes": 5,
+    "condominio_medio": 635
+  },
+  "Vila Nova Conceição": {
+    "aluguel_m2_medio": 80.2,
+    "preco_m2_venda": 20050,
+    "preco_m2_ci_lo": 18165,
+    "preco_m2_ci_hi": 21935,
+    "preco_m2_p10": 11037,
+    "preco_m2_p90": 34022,
+    "n_transacoes": 70,
+    "condominio_medio": 1638
+  },
+  "Vila Nova Mazzei": {
+    "aluguel_m2_medio": 31.7,
+    "preco_m2_venda": 7924,
+    "preco_m2_ci_lo": 6690,
+    "preco_m2_ci_hi": 9158,
+    "preco_m2_p10": 4956,
+    "preco_m2_p90": 11655,
+    "n_transacoes": 20,
+    "condominio_medio": 220
+  },
+  "Vila Nova Savoia": {
+    "aluguel_m2_medio": 30.24,
+    "preco_m2_venda": 7560,
+    "preco_m2_ci_lo": 6513,
+    "preco_m2_ci_hi": 8606,
+    "preco_m2_p10": 6614,
+    "preco_m2_p90": 8902,
+    "n_transacoes": 5,
+    "condominio_medio": 267
+  },
+  "Vila Nova York": {
+    "aluguel_m2_medio": 36.3,
+    "preco_m2_venda": 9075,
+    "preco_m2_ci_lo": 8499,
+    "preco_m2_ci_hi": 9651,
+    "preco_m2_p10": 7895,
+    "preco_m2_p90": 10000,
+    "n_transacoes": 11,
+    "condominio_medio": 200
+  },
+  "Vila Olímpia": {
+    "aluguel_m2_medio": 78.1,
+    "preco_m2_venda": 19526,
+    "preco_m2_ci_lo": 17800,
+    "preco_m2_ci_hi": 21252,
+    "preco_m2_p10": 10467,
+    "preco_m2_p90": 30775,
+    "n_transacoes": 83,
+    "condominio_medio": 1334
+  },
+  "Vila Oratório": {
+    "aluguel_m2_medio": 32.91,
+    "preco_m2_venda": 8227,
+    "preco_m2_ci_lo": 5079,
+    "preco_m2_ci_hi": 11375,
+    "preco_m2_p10": 5271,
+    "preco_m2_p90": 13250,
+    "n_transacoes": 6,
+    "condominio_medio": 698
+  },
+  "Vila Osasco": {
+    "aluguel_m2_medio": 27.37,
+    "preco_m2_venda": 6843,
+    "preco_m2_ci_lo": 5471,
+    "preco_m2_ci_hi": 8215,
+    "preco_m2_p10": 4749,
+    "preco_m2_p90": 9645,
+    "n_transacoes": 10,
+    "condominio_medio": 820
+  },
+  "Vila Paiva": {
+    "aluguel_m2_medio": 38.12,
+    "preco_m2_venda": 9530,
+    "preco_m2_ci_lo": 6551,
+    "preco_m2_ci_hi": 12510,
+    "preco_m2_p10": 6987,
+    "preco_m2_p90": 13309,
+    "n_transacoes": 5,
+    "condominio_medio": 510
+  },
+  "Vila Palmares": {
+    "aluguel_m2_medio": 25.27,
+    "preco_m2_venda": 6317,
+    "preco_m2_ci_lo": 4444,
+    "preco_m2_ci_hi": 8190,
+    "preco_m2_p10": 4864,
+    "preco_m2_p90": 8500,
+    "n_transacoes": 5,
+    "condominio_medio": 89
+  },
+  "Vila Palmeiras": {
+    "aluguel_m2_medio": 29.22,
+    "preco_m2_venda": 7304,
+    "preco_m2_ci_lo": 6184,
+    "preco_m2_ci_hi": 8425,
+    "preco_m2_p10": 4655,
+    "preco_m2_p90": 11516,
+    "n_transacoes": 24,
+    "condominio_medio": 182
+  },
+  "Vila Paranagua": {
+    "aluguel_m2_medio": 28.13,
+    "preco_m2_venda": 7032,
+    "preco_m2_ci_lo": 6529,
+    "preco_m2_ci_hi": 7535,
+    "preco_m2_p10": 6567,
+    "preco_m2_p90": 7657,
+    "n_transacoes": 5,
+    "condominio_medio": 128
+  },
+  "Vila Parque Jabaquara": {
+    "aluguel_m2_medio": 35.08,
+    "preco_m2_venda": 8770,
+    "preco_m2_ci_lo": 7741,
+    "preco_m2_ci_hi": 9799,
+    "preco_m2_p10": 5898,
+    "preco_m2_p90": 12608,
+    "n_transacoes": 29,
+    "condominio_medio": 788
+  },
+  "Vila Paulicéia": {
+    "aluguel_m2_medio": 32.49,
+    "preco_m2_venda": 8123,
+    "preco_m2_ci_lo": 6392,
+    "preco_m2_ci_hi": 9853,
+    "preco_m2_p10": 5158,
+    "preco_m2_p90": 11396,
+    "n_transacoes": 10,
+    "condominio_medio": 496
+  },
+  "Vila Paulista": {
+    "aluguel_m2_medio": 41.56,
+    "preco_m2_venda": 10390,
+    "preco_m2_ci_lo": 8812,
+    "preco_m2_ci_hi": 11968,
+    "preco_m2_p10": 5207,
+    "preco_m2_p90": 16176,
+    "n_transacoes": 27,
+    "condominio_medio": 574
+  },
+  "Vila Paulo Silas": {
+    "aluguel_m2_medio": 28.45,
+    "preco_m2_venda": 7113,
+    "preco_m2_ci_lo": 5407,
+    "preco_m2_ci_hi": 8819,
+    "preco_m2_p10": 4863,
+    "preco_m2_p90": 9938,
+    "n_transacoes": 8,
+    "condominio_medio": 110
+  },
+  "Vila Penteado": {
+    "aluguel_m2_medio": 30.09,
+    "preco_m2_venda": 7521,
+    "preco_m2_ci_lo": 5850,
+    "preco_m2_ci_hi": 9193,
+    "preco_m2_p10": 3504,
+    "preco_m2_p90": 11524,
+    "n_transacoes": 15,
+    "condominio_medio": 352
+  },
+  "Vila Pereira Barreto": {
+    "aluguel_m2_medio": 29.15,
+    "preco_m2_venda": 7289,
+    "preco_m2_ci_lo": 6203,
+    "preco_m2_ci_hi": 8375,
+    "preco_m2_p10": 5398,
+    "preco_m2_p90": 9761,
+    "n_transacoes": 13,
+    "condominio_medio": 448
+  },
+  "Vila Pereira Cerca": {
+    "aluguel_m2_medio": 25.85,
+    "preco_m2_venda": 6463,
+    "preco_m2_ci_lo": 4563,
+    "preco_m2_ci_hi": 8362,
+    "preco_m2_p10": 4840,
+    "preco_m2_p90": 8119,
+    "n_transacoes": 9,
+    "condominio_medio": 85
+  },
+  "Vila Pierina": {
+    "aluguel_m2_medio": 38.43,
+    "preco_m2_venda": 9608,
+    "preco_m2_ci_lo": 6732,
+    "preco_m2_ci_hi": 12484,
+    "preco_m2_p10": 6929,
+    "preco_m2_p90": 13199,
+    "n_transacoes": 5,
+    "condominio_medio": 326
+  },
+  "Vila Pires": {
+    "aluguel_m2_medio": 31.7,
+    "preco_m2_venda": 7924,
+    "preco_m2_ci_lo": 5807,
+    "preco_m2_ci_hi": 10042,
+    "preco_m2_p10": 5534,
+    "preco_m2_p90": 9628,
+    "n_transacoes": 5,
+    "condominio_medio": 304
+  },
+  "Vila Pirituba": {
+    "aluguel_m2_medio": 33.93,
+    "preco_m2_venda": 8483,
+    "preco_m2_ci_lo": 6497,
+    "preco_m2_ci_hi": 10469,
+    "preco_m2_p10": 5750,
+    "preco_m2_p90": 10625,
+    "n_transacoes": 11,
+    "condominio_medio": 155
+  },
+  "Vila Pompéia": {
+    "aluguel_m2_medio": 56.31,
+    "preco_m2_venda": 14077,
+    "preco_m2_ci_lo": 12344,
+    "preco_m2_ci_hi": 15811,
+    "preco_m2_p10": 8471,
+    "preco_m2_p90": 20855,
+    "n_transacoes": 36,
+    "condominio_medio": 1298
+  },
+  "Vila Portuguesa": {
+    "aluguel_m2_medio": 30.73,
+    "preco_m2_venda": 7684,
+    "preco_m2_ci_lo": 6278,
+    "preco_m2_ci_hi": 9089,
+    "preco_m2_p10": 4875,
+    "preco_m2_p90": 9444,
+    "n_transacoes": 8,
+    "condominio_medio": 46
+  },
+  "Vila Primavera": {
+    "aluguel_m2_medio": 25.16,
+    "preco_m2_venda": 6289,
+    "preco_m2_ci_lo": 4395,
+    "preco_m2_ci_hi": 8184,
+    "preco_m2_p10": 4325,
+    "preco_m2_p90": 8653,
+    "n_transacoes": 6,
+    "condominio_medio": 99
+  },
+  "Vila Progredior": {
+    "aluguel_m2_medio": 41.66,
+    "preco_m2_venda": 10414,
+    "preco_m2_ci_lo": 9437,
+    "preco_m2_ci_hi": 11390,
+    "preco_m2_p10": 8729,
+    "preco_m2_p90": 12825,
+    "n_transacoes": 14,
+    "condominio_medio": 1240
+  },
+  "Vila Prudente": {
+    "aluguel_m2_medio": 34.66,
+    "preco_m2_venda": 8664,
+    "preco_m2_ci_lo": 7828,
+    "preco_m2_ci_hi": 9500,
+    "preco_m2_p10": 4367,
+    "preco_m2_p90": 13993,
+    "n_transacoes": 95,
+    "condominio_medio": 503
+  },
+  "Vila Regente Feijó": {
+    "aluguel_m2_medio": 44.24,
+    "preco_m2_venda": 11060,
+    "preco_m2_ci_lo": 9975,
+    "preco_m2_ci_hi": 12146,
+    "preco_m2_p10": 5356,
+    "preco_m2_p90": 18725,
+    "n_transacoes": 80,
+    "condominio_medio": 1046
+  },
+  "Vila Romana": {
+    "aluguel_m2_medio": 42.31,
+    "preco_m2_venda": 10577,
+    "preco_m2_ci_lo": 9076,
+    "preco_m2_ci_hi": 12079,
+    "preco_m2_p10": 6106,
+    "preco_m2_p90": 15348,
+    "n_transacoes": 36,
+    "condominio_medio": 878
+  },
+  "Vila Roque": {
+    "aluguel_m2_medio": 32.74,
+    "preco_m2_venda": 8185,
+    "preco_m2_ci_lo": 6157,
+    "preco_m2_ci_hi": 10213,
+    "preco_m2_p10": 5203,
+    "preco_m2_p90": 10647,
+    "n_transacoes": 6,
+    "condominio_medio": 184
+  },
+  "Vila Rosalia": {
+    "aluguel_m2_medio": 32.05,
+    "preco_m2_venda": 8013,
+    "preco_m2_ci_lo": 6278,
+    "preco_m2_ci_hi": 9747,
+    "preco_m2_p10": 6571,
+    "preco_m2_p90": 9955,
+    "n_transacoes": 5,
+    "condominio_medio": 216
+  },
+  "Vila Rosália": {
+    "aluguel_m2_medio": 26.47,
+    "preco_m2_venda": 6618,
+    "preco_m2_ci_lo": 5298,
+    "preco_m2_ci_hi": 7938,
+    "preco_m2_p10": 4803,
+    "preco_m2_p90": 8626,
+    "n_transacoes": 8,
+    "condominio_medio": 372
+  },
+  "Vila Ré": {
+    "aluguel_m2_medio": 34.62,
+    "preco_m2_venda": 8655,
+    "preco_m2_ci_lo": 6607,
+    "preco_m2_ci_hi": 10703,
+    "preco_m2_p10": 4912,
+    "preco_m2_p90": 12960,
+    "n_transacoes": 16,
+    "condominio_medio": 166
+  },
+  "Vila Sabrina": {
+    "aluguel_m2_medio": 26.66,
+    "preco_m2_venda": 6664,
+    "preco_m2_ci_lo": 4594,
+    "preco_m2_ci_hi": 8733,
+    "preco_m2_p10": 4634,
+    "preco_m2_p90": 8933,
+    "n_transacoes": 5,
+    "condominio_medio": 69
+  },
+  "Vila Santa Catarina": {
+    "aluguel_m2_medio": 41.93,
+    "preco_m2_venda": 10482,
+    "preco_m2_ci_lo": 9118,
+    "preco_m2_ci_hi": 11846,
+    "preco_m2_p10": 5338,
+    "preco_m2_p90": 16965,
+    "n_transacoes": 53,
+    "condominio_medio": 853
+  },
+  "Vila Santa Clara": {
+    "aluguel_m2_medio": 39.37,
+    "preco_m2_venda": 9843,
+    "preco_m2_ci_lo": 7691,
+    "preco_m2_ci_hi": 11995,
+    "preco_m2_p10": 6500,
+    "preco_m2_p90": 12125,
+    "n_transacoes": 11,
+    "condominio_medio": 398
+  },
+  "Vila Santa Luzia": {
+    "aluguel_m2_medio": 32.75,
+    "preco_m2_venda": 8187,
+    "preco_m2_ci_lo": 5675,
+    "preco_m2_ci_hi": 10699,
+    "preco_m2_p10": 4678,
+    "preco_m2_p90": 11595,
+    "n_transacoes": 7,
+    "condominio_medio": 425
+  },
+  "Vila Santa Maria": {
+    "aluguel_m2_medio": 26.27,
+    "preco_m2_venda": 6567,
+    "preco_m2_ci_lo": 5737,
+    "preco_m2_ci_hi": 7398,
+    "preco_m2_p10": 4562,
+    "preco_m2_p90": 9271,
+    "n_transacoes": 18,
+    "condominio_medio": 242
+  },
+  "Vila Santa Teresa": {
+    "aluguel_m2_medio": 28.08,
+    "preco_m2_venda": 7019,
+    "preco_m2_ci_lo": 5064,
+    "preco_m2_ci_hi": 8975,
+    "preco_m2_p10": 4869,
+    "preco_m2_p90": 8809,
+    "n_transacoes": 5,
+    "condominio_medio": 363
+  },
+  "Vila Santa Teresa (zona Sul)": {
+    "aluguel_m2_medio": 27.96,
+    "preco_m2_venda": 6990,
+    "preco_m2_ci_lo": 6134,
+    "preco_m2_ci_hi": 7847,
+    "preco_m2_p10": 5734,
+    "preco_m2_p90": 7839,
+    "n_transacoes": 10,
+    "condominio_medio": 380
+  },
+  "Vila Santana": {
+    "aluguel_m2_medio": 34.13,
+    "preco_m2_venda": 8533,
+    "preco_m2_ci_lo": 6942,
+    "preco_m2_ci_hi": 10123,
+    "preco_m2_p10": 6256,
+    "preco_m2_p90": 11602,
+    "n_transacoes": 8,
+    "condominio_medio": 551
+  },
+  "Vila Santo Estefano": {
+    "aluguel_m2_medio": 38.18,
+    "preco_m2_venda": 9546,
+    "preco_m2_ci_lo": 7002,
+    "preco_m2_ci_hi": 12090,
+    "preco_m2_p10": 6175,
+    "preco_m2_p90": 15609,
+    "n_transacoes": 10,
+    "condominio_medio": 235
+  },
+  "Vila Santo Estéfano": {
+    "aluguel_m2_medio": 29.26,
+    "preco_m2_venda": 7316,
+    "preco_m2_ci_lo": 5635,
+    "preco_m2_ci_hi": 8997,
+    "preco_m2_p10": 4000,
+    "preco_m2_p90": 9828,
+    "n_transacoes": 13,
+    "condominio_medio": 152
+  },
+  "Vila Sao Pedro": {
+    "aluguel_m2_medio": 45.85,
+    "preco_m2_venda": 11462,
+    "preco_m2_ci_lo": 9195,
+    "preco_m2_ci_hi": 13729,
+    "preco_m2_p10": 8466,
+    "preco_m2_p90": 14427,
+    "n_transacoes": 6,
+    "condominio_medio": 459
+  },
+  "Vila Siqueira (zona Norte)": {
+    "aluguel_m2_medio": 31.65,
+    "preco_m2_venda": 7912,
+    "preco_m2_ci_lo": 6447,
+    "preco_m2_ci_hi": 9378,
+    "preco_m2_p10": 4564,
+    "preco_m2_p90": 9409,
+    "n_transacoes": 9,
+    "condominio_medio": 537
+  },
+  "Vila Socorro": {
+    "aluguel_m2_medio": 27.96,
+    "preco_m2_venda": 6990,
+    "preco_m2_ci_lo": 4169,
+    "preco_m2_ci_hi": 9812,
+    "preco_m2_p10": 4361,
+    "preco_m2_p90": 10425,
+    "n_transacoes": 5,
+    "condominio_medio": 166
+  },
+  "Vila Sofia": {
+    "aluguel_m2_medio": 37.51,
+    "preco_m2_venda": 9376,
+    "preco_m2_ci_lo": 7755,
+    "preco_m2_ci_hi": 10997,
+    "preco_m2_p10": 7096,
+    "preco_m2_p90": 13353,
+    "n_transacoes": 13,
+    "condominio_medio": 1289
+  },
+  "Vila Sonia": {
+    "aluguel_m2_medio": 32.27,
+    "preco_m2_venda": 8068,
+    "preco_m2_ci_lo": 6493,
+    "preco_m2_ci_hi": 9643,
+    "preco_m2_p10": 3938,
+    "preco_m2_p90": 12043,
+    "n_transacoes": 15,
+    "condominio_medio": 442
+  },
+  "Vila Suzana": {
+    "aluguel_m2_medio": 35.85,
+    "preco_m2_venda": 8962,
+    "preco_m2_ci_lo": 8314,
+    "preco_m2_ci_hi": 9610,
+    "preco_m2_p10": 5043,
+    "preco_m2_p90": 13300,
+    "n_transacoes": 113,
+    "condominio_medio": 2030
+  },
+  "Vila São José": {
+    "aluguel_m2_medio": 30.5,
+    "preco_m2_venda": 7625,
+    "preco_m2_ci_lo": 6961,
+    "preco_m2_ci_hi": 8289,
+    "preco_m2_p10": 6935,
+    "preco_m2_p90": 9000,
+    "n_transacoes": 11,
+    "condominio_medio": 799
+  },
+  "Vila São Paulo": {
+    "aluguel_m2_medio": 31.1,
+    "preco_m2_venda": 7775,
+    "preco_m2_ci_lo": 6510,
+    "preco_m2_ci_hi": 9041,
+    "preco_m2_p10": 6417,
+    "preco_m2_p90": 9458,
+    "n_transacoes": 6,
+    "condominio_medio": 982
+  },
+  "Vila São Pedro": {
+    "aluguel_m2_medio": 36.19,
+    "preco_m2_venda": 9049,
+    "preco_m2_ci_lo": 7122,
+    "preco_m2_ci_hi": 10975,
+    "preco_m2_p10": 6145,
+    "preco_m2_p90": 11021,
+    "n_transacoes": 7,
+    "condominio_medio": 253
+  },
+  "Vila Sônia": {
+    "aluguel_m2_medio": 40.29,
+    "preco_m2_venda": 10072,
+    "preco_m2_ci_lo": 8050,
+    "preco_m2_ci_hi": 12093,
+    "preco_m2_p10": 5232,
+    "preco_m2_p90": 16159,
+    "n_transacoes": 19,
+    "condominio_medio": 886
+  },
+  "Vila Talarico": {
+    "aluguel_m2_medio": 34.51,
+    "preco_m2_venda": 8627,
+    "preco_m2_ci_lo": 6625,
+    "preco_m2_ci_hi": 10628,
+    "preco_m2_p10": 6071,
+    "preco_m2_p90": 11250,
+    "n_transacoes": 11,
+    "condominio_medio": 372
+  },
+  "Vila Tolstoi": {
+    "aluguel_m2_medio": 36.62,
+    "preco_m2_venda": 9154,
+    "preco_m2_ci_lo": 7505,
+    "preco_m2_ci_hi": 10804,
+    "preco_m2_p10": 6519,
+    "preco_m2_p90": 11145,
+    "n_transacoes": 8,
+    "condominio_medio": 313
+  },
+  "Vila Uberabinha": {
+    "aluguel_m2_medio": 61.08,
+    "preco_m2_venda": 15270,
+    "preco_m2_ci_lo": 12441,
+    "preco_m2_ci_hi": 18100,
+    "preco_m2_p10": 10165,
+    "preco_m2_p90": 21985,
+    "n_transacoes": 14,
+    "condominio_medio": 1765
+  },
+  "Vila Valparaíso": {
+    "aluguel_m2_medio": 35.01,
+    "preco_m2_venda": 8753,
+    "preco_m2_ci_lo": 7168,
+    "preco_m2_ci_hi": 10338,
+    "preco_m2_p10": 6250,
+    "preco_m2_p90": 10268,
+    "n_transacoes": 11,
+    "condominio_medio": 666
+  },
+  "Vila Venditti": {
+    "aluguel_m2_medio": 35.87,
+    "preco_m2_venda": 8967,
+    "preco_m2_ci_lo": 7933,
+    "preco_m2_ci_hi": 10000,
+    "preco_m2_p10": 7683,
+    "preco_m2_p90": 10000,
+    "n_transacoes": 5,
+    "condominio_medio": 407
+  },
+  "Vila Vera": {
+    "aluguel_m2_medio": 32.42,
+    "preco_m2_venda": 8104,
+    "preco_m2_ci_lo": 5981,
+    "preco_m2_ci_hi": 10227,
+    "preco_m2_p10": 5650,
+    "preco_m2_p90": 12387,
+    "n_transacoes": 8,
+    "condominio_medio": 166
+  },
+  "Vila Vermelha": {
+    "aluguel_m2_medio": 27.65,
+    "preco_m2_venda": 6912,
+    "preco_m2_ci_lo": 5083,
+    "preco_m2_ci_hi": 8741,
+    "preco_m2_p10": 5162,
+    "preco_m2_p90": 9048,
+    "n_transacoes": 6,
+    "condominio_medio": 626
+  },
+  "Vila Zilda": {
+    "aluguel_m2_medio": 70.54,
+    "preco_m2_venda": 17636,
+    "preco_m2_ci_lo": 15131,
+    "preco_m2_ci_hi": 20141,
+    "preco_m2_p10": 13775,
+    "preco_m2_p90": 24274,
+    "n_transacoes": 12,
+    "condominio_medio": 446
+  },
+  "Vila da Saúde": {
+    "aluguel_m2_medio": 48.13,
+    "preco_m2_venda": 12033,
+    "preco_m2_ci_lo": 10583,
+    "preco_m2_ci_hi": 13483,
+    "preco_m2_p10": 6480,
+    "preco_m2_p90": 18708,
+    "n_transacoes": 52,
+    "condominio_medio": 796
+  },
+  "Vila das Bandeiras": {
+    "aluguel_m2_medio": 40.02,
+    "preco_m2_venda": 10004,
+    "preco_m2_ci_lo": 8181,
+    "preco_m2_ci_hi": 11827,
+    "preco_m2_p10": 7662,
+    "preco_m2_p90": 12331,
+    "n_transacoes": 6,
+    "condominio_medio": 366
+  },
+  "Vila das Merces": {
+    "aluguel_m2_medio": 26.0,
+    "preco_m2_venda": 6499,
+    "preco_m2_ci_lo": 5668,
+    "preco_m2_ci_hi": 7330,
+    "preco_m2_p10": 5496,
+    "preco_m2_p90": 8040,
+    "n_transacoes": 7,
+    "condominio_medio": 208
+  },
+  "Vila das Mercês": {
+    "aluguel_m2_medio": 35.39,
+    "preco_m2_venda": 8847,
+    "preco_m2_ci_lo": 6805,
+    "preco_m2_ci_hi": 10889,
+    "preco_m2_p10": 5390,
+    "preco_m2_p90": 11458,
+    "n_transacoes": 7,
+    "condominio_medio": 215
+  },
+  "Vila do Castelo": {
+    "aluguel_m2_medio": 30.55,
+    "preco_m2_venda": 7638,
+    "preco_m2_ci_lo": 5796,
+    "preco_m2_ci_hi": 9480,
+    "preco_m2_p10": 4985,
+    "preco_m2_p90": 10528,
+    "n_transacoes": 8,
+    "condominio_medio": 782
+  },
+  "Vila do Encontro": {
+    "aluguel_m2_medio": 30.92,
+    "preco_m2_venda": 7730,
+    "preco_m2_ci_lo": 6461,
+    "preco_m2_ci_hi": 8999,
+    "preco_m2_p10": 5005,
+    "preco_m2_p90": 9917,
+    "n_transacoes": 12,
+    "condominio_medio": 586
+  },
+  "Várzea da Barra Funda": {
+    "aluguel_m2_medio": 62.51,
+    "preco_m2_venda": 15629,
+    "preco_m2_ci_lo": 14476,
+    "preco_m2_ci_hi": 16781,
+    "preco_m2_p10": 12557,
+    "preco_m2_p90": 17683,
+    "n_transacoes": 11,
+    "condominio_medio": 823
+  },
+  "Água Branca": {
+    "aluguel_m2_medio": 57.03,
+    "preco_m2_venda": 14257,
+    "preco_m2_ci_lo": 12962,
+    "preco_m2_ci_hi": 15553,
+    "preco_m2_p10": 8516,
+    "preco_m2_p90": 20457,
+    "n_transacoes": 44,
+    "condominio_medio": 723
+  },
+  "Água Fria": {
+    "aluguel_m2_medio": 29.69,
+    "preco_m2_venda": 7423,
+    "preco_m2_ci_lo": 6420,
+    "preco_m2_ci_hi": 8427,
+    "preco_m2_p10": 4962,
+    "preco_m2_p90": 10463,
+    "n_transacoes": 20,
+    "condominio_medio": 420
+  },
+  "Água Rasa": {
+    "aluguel_m2_medio": 34.02,
+    "preco_m2_venda": 8506,
+    "preco_m2_ci_lo": 6668,
+    "preco_m2_ci_hi": 10344,
+    "preco_m2_p10": 5435,
+    "preco_m2_p90": 12863,
+    "n_transacoes": 17,
+    "condominio_medio": 223
+  }
+}

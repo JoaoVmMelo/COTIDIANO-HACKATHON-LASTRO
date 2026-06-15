@@ -1,0 +1,460 @@
+{
+  "vila_madalena": {
+    "distancia_trabalho_km": 5.9,
+    "tempo_carro_min": 11,
+    "tempos_min": {
+      "a_pe": 71,
+      "bike": 24,
+      "carro": 15,
+      "transporte": 28
+    },
+    "entorno": [
+      {
+        "categoria": "bakery",
+        "nome": "Santa Marta Pães",
+        "lat": -23.5476092,
+        "lng": -46.6891653,
+        "opening_hours": "Mo-Su 06:00-23:00"
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Harmonia, 857",
+        "lat": -23.5512467,
+        "lng": -46.6909053,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Harmonia, 805",
+        "lat": -23.551441,
+        "lng": -46.6905825,
+        "opening_hours": null
+      },
+      {
+        "categoria": "supermarket",
+        "nome": "Dia",
+        "lat": -23.5531822,
+        "lng": -46.6901237,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bakery",
+        "nome": "ST. Etiene",
+        "lat": -23.5523057,
+        "lng": -46.6901706,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bakery",
+        "nome": "Padaria Rodésia",
+        "lat": -23.5508777,
+        "lng": -46.6901345,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fradique Coutinho, 1379",
+        "lat": -23.5558865,
+        "lng": -46.6916957,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fidalga, 416",
+        "lat": -23.5559631,
+        "lng": -46.6901041,
+        "opening_hours": null
+      },
+      {
+        "categoria": "pharmacy",
+        "nome": "Drogaria São Paulo",
+        "lat": -23.5522828,
+        "lng": -46.6969098,
+        "opening_hours": "Mo-Su 07:00-23:00"
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5532711,
+        "lng": -46.6899831,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Harmonia, 1201",
+        "lat": -23.5484454,
+        "lng": -46.6917993,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Card. Arcoverde, 1332",
+        "lat": -23.5593756,
+        "lng": -46.6847471,
+        "opening_hours": null
+      },
+      {
+        "categoria": "school",
+        "nome": "Centro Britânico",
+        "lat": -23.5496971,
+        "lng": -46.6920138,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Lira, 158",
+        "lat": -23.5525151,
+        "lng": -46.6970787,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Natingui, 759",
+        "lat": -23.5535469,
+        "lng": -46.6959666,
+        "opening_hours": null
+      },
+      {
+        "categoria": "supermarket",
+        "nome": "Instituto Chão",
+        "lat": -23.556746,
+        "lng": -46.687026,
+        "opening_hours": "Su, Tu-Fr 08:00-15:00"
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Viaduto Paulo Vi",
+        "lat": -23.5555386,
+        "lng": -46.6820944,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bakery",
+        "nome": "Deli Garage",
+        "lat": -23.5538624,
+        "lng": -46.6858612,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fradique Coutinho, 689",
+        "lat": -23.5611665,
+        "lng": -46.6879862,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5594067,
+        "lng": -46.688343,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Harmonia, 655",
+        "lat": -23.5528373,
+        "lng": -46.6897884,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5576139,
+        "lng": -46.6894069,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fradique Coutinho, 899",
+        "lat": -23.5594513,
+        "lng": -46.6891843,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Mourato Coelho, 1022",
+        "lat": -23.5589447,
+        "lng": -46.6907052,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Card. Arcoverde, 1674",
+        "lat": -23.5611441,
+        "lng": -46.6876105,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Mourato Coelho, 716",
+        "lat": -23.5612384,
+        "lng": -46.6891051,
+        "opening_hours": null
+      },
+      {
+        "categoria": "school",
+        "nome": "Colegio Horizontes",
+        "lat": -23.5549433,
+        "lng": -46.6908196,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fidalga, 634",
+        "lat": -23.5541863,
+        "lng": -46.691357,
+        "opening_hours": null
+      },
+      {
+        "categoria": "pharmacy",
+        "nome": "Drogasil",
+        "lat": -23.547743,
+        "lng": -46.6880543,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Fradique Coutinho, 1127",
+        "lat": -23.5578226,
+        "lng": -46.6903059,
+        "opening_hours": null
+      }
+    ],
+    "fonte": "real (OSM/OSRM)"
+  },
+  "butanta": {
+    "distancia_trabalho_km": 8.2,
+    "tempo_carro_min": 15,
+    "tempos_min": {
+      "a_pe": 98,
+      "bike": 33,
+      "carro": 20,
+      "transporte": 37
+    },
+    "entorno": [
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Mmdc, 252",
+        "lat": -23.572545,
+        "lng": -46.707873,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5722503,
+        "lng": -46.7095635,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Vital Brasil",
+        "lat": -23.5730463,
+        "lng": -46.705174,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Reação",
+        "lat": -23.5730947,
+        "lng": -46.712403,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "M.M.D.C.",
+        "lat": -23.5733044,
+        "lng": -46.7058672,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5720929,
+        "lng": -46.7090501,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5698031,
+        "lng": -46.712666,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Parada Caxingui",
+        "lat": -23.5699949,
+        "lng": -46.7129615,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Doutor Vital Brasil, 684",
+        "lat": -23.5704314,
+        "lng": -46.7107029,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5720346,
+        "lng": -46.7065222,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Doutor Vital Brasil, 334",
+        "lat": -23.5715265,
+        "lng": -46.7074154,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Parada Armando Fairbanks",
+        "lat": -23.5721227,
+        "lng": -46.7054141,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Av. Dr. Vital Brasil, 139 - Parada 1/Francisco Morato",
+        "lat": -23.572332,
+        "lng": -46.7055954,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "(sem nome)",
+        "lat": -23.5710329,
+        "lng": -46.7096596,
+        "opening_hours": null
+      },
+      {
+        "categoria": "pharmacy",
+        "nome": "Center Fórmula",
+        "lat": -23.5715436,
+        "lng": -46.7070884,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Catequese, 198",
+        "lat": -23.5712001,
+        "lng": -46.7064918,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Parada Exclusiva",
+        "lat": -23.5712763,
+        "lng": -46.7091688,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Alvarenga, 1577",
+        "lat": -23.567812,
+        "lng": -46.711769,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Afrânio Peixoto, 154",
+        "lat": -23.566045,
+        "lng": -46.711192,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Afrânio Peixoto, 280",
+        "lat": -23.5673244,
+        "lng": -46.7086497,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Afrânio Peixoto, 157",
+        "lat": -23.5658364,
+        "lng": -46.7108836,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Valdemar Ferreira, 475",
+        "lat": -23.5685664,
+        "lng": -46.7073711,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Valdemar Ferreira, 440",
+        "lat": -23.5687746,
+        "lng": -46.706837,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Valdemar Ferreira, 315",
+        "lat": -23.5703227,
+        "lng": -46.7061677,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Avenida Valdemar Ferreira, 112",
+        "lat": -23.5716785,
+        "lng": -46.7048269,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Pirajussara, 546",
+        "lat": -23.5720305,
+        "lng": -46.7080108,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Sapetuba, 166",
+        "lat": -23.5745557,
+        "lng": -46.7081854,
+        "opening_hours": null
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Sapetuba, 166",
+        "lat": -23.574515,
+        "lng": -46.708192,
+        "opening_hours": null
+      },
+      {
+        "categoria": "pharmacy",
+        "nome": "Pague Menos",
+        "lat": -23.5706191,
+        "lng": -46.7099349,
+        "opening_hours": "24/7"
+      },
+      {
+        "categoria": "bus_stop",
+        "nome": "Rua Eugênio de Medeiros, 96",
+        "lat": -23.5704152,
+        "lng": -46.7003407,
+        "opening_hours": null
+      }
+    ],
+    "fonte": "real (OSM/OSRM)"
+  },
+  "moema": {
+    "distancia_trabalho_km": 7.1,
+    "tempo_carro_min": 13,
+    "tempos_min": {
+      "a_pe": 85,
+      "bike": 28,
+      "carro": 18,
+      "transporte": 33
+    },
+    "entorno": [],
+    "fonte": "real (OSM/OSRM)"
+  }
+}

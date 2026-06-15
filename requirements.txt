@@ -1,0 +1,6 @@
+streamlit>=1.30        # opcional: versão antiga em Streamlit (app.py)
+pandas>=2.0
+numpy>=1.24
+anthropic>=0.40        # opcional: só p/ o chat com IA (sem isso, roda em modo offline)
+fastapi>=0.110         # front-end novo (server.py)
+uvicorn>=0.29
